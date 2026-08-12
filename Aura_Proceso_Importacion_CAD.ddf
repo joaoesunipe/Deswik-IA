@@ -1,0 +1,2399 @@
+3ۼ
+<doc><nodes><node><__type>Deswik.Diagram.Nodes.Shapes.RoundedRectangle</__type><DiagramGuid>cb5f01ee-ede2-4d6d-b829-9fc0729d5d7e</DiagramGuid><Name></Name><Tag persistData="0"></Tag><_visible>True</_visible><LayersMask>1</LayersMask><LayersMaskNew>False:1</LayersMaskNew><_fillColour><A>255</A><R>42</R><G>60</G><B>109</B></_fillColour><_fillColour2><A>0</A><R>0</R><G>0</G><B>0</B></_fillColour2><_outlineColour><A>255</A><R>42</R><G>60</G><B>109</B></_outlineColour><_textColour><A>255</A><R>255</R><G>255</G><B>255</B></_textColour><_titleColour><A>255</A><R>255</R><G>255</G><B>255</B></_titleColour><_title></_title><_fill>Solid</_fill><_penWidth>3</_penWidth><_image>-1</_image><DragHandles><DH><UniqueId>0</UniqueId><location><X>60</X><Y>35</Y></location></DH><DH><UniqueId>1</UniqueId><location><X>739.99994</X><Y>35</Y></location></DH><DH><UniqueId>2</UniqueId><location><X>739.99994</X><Y>109.99999</Y></location></DH><DH><UniqueId>3</UniqueId><location><X>60</X><Y>109.99999</Y></location></DH><DH><UniqueId>4</UniqueId><location><X>399.99997</X><Y>19.999998</Y></location></DH></DragHandles><_text>AURA 360° MINING
+FLUJO DE PREPARACIÓN CAD</_text><Alpha>255</Alpha><TableTextCount>0</TableTextCount><TFormat><FontName>Microsoft Sans Serif</FontName><Size>20</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TFormat><TitleFormat><FontName>Microsoft Sans Serif</FontName><Size>20</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TitleFormat><_rotation>0</_rotation><_scale><X>680</X><Y>75</Y></_scale><_translation><X>60</X><Y>35</Y></_translation></node><node><__type>Deswik.Diagram.Nodes.Shapes.RoundedRectangle</__type><DiagramGuid>ef8a23ed-ab5b-48c7-89f1-2dae4cd376cf</DiagramGuid><Name></Name><Tag persistData="1"></Tag><_visible>True</_visible><LayersMask>1</LayersMask><LayersMaskNew>False:1</LayersMaskNew><_fillColour><A>255</A><R>239</R><G>100</G><B>85</B></_fillColour><_fillColour2><A>0</A><R>0</R><G>0</G><B>0</B></_fillColour2><_outlineColour><A>255</A><R>239</R><G>100</G><B>85</B></_outlineColour><_textColour><A>255</A><R>255</R><G>255</G><B>255</B></_textColour><_titleColour><A>255</A><R>255</R><G>255</G><B>255</B></_titleColour><_title></_title><_fill>Solid</_fill><_penWidth>2</_penWidth><_image>-1</_image><DragHandles><DH><UniqueId>0</UniqueId><location><X>80</X><Y>140</Y></location></DH><DH><UniqueId>1</UniqueId><location><X>719.99994</X><Y>140</Y></location></DH><DH><UniqueId>2</UniqueId><location><X>719.99994</X><Y>189.99998</Y></location></DH><DH><UniqueId>3</UniqueId><location><X>80</X><Y>189.99998</Y></location></DH><DH><UniqueId>4</UniqueId><location><X>399.99997</X><Y>129.99998</Y></location></DH></DragHandles><_text>1. AUTOCAD</_text><Alpha>255</Alpha><TableTextCount>0</TableTextCount><TFormat><FontName>Microsoft Sans Serif</FontName><Size>18</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TFormat><TitleFormat><FontName>Microsoft Sans Serif</FontName><Size>18</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TitleFormat><_rotation>0</_rotation><_scale><X>640</X><Y>50</Y></_scale><_translation><X>80</X><Y>140</Y></_translation></node><node><__type>Deswik.Diagram.Nodes.Shapes.RoundedRectangle</__type><DiagramGuid>ba33dba6-246e-4f94-b221-0853bbe8a2fc</DiagramGuid><Name></Name><Tag persistData="2">EmbeddedMacro:'#Reference #Deswik.Common, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.dll
+'#Reference @Deswik.Common, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.dll
+'#Reference #Deswik.Common.Controls, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Controls.dll
+'#Reference @Deswik.Common.Controls, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Controls.dll
+'#Reference #Deswik.Common.Core, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Core.dll
+'#Reference @Deswik.Common.Core, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Core.dll
+'#Reference #Deswik.Common.Utilities, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Utilities.dll
+'#Reference @Deswik.Common.Utilities, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Utilities.dll
+'#Reference #Deswik.Common.Dialogs, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Dialogs.dll
+'#Reference @Deswik.Common.Dialogs, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Dialogs.dll
+'#Reference #System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+'#Reference @System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+'#Reference #System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference @System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference #System.Drawing.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference @System.Drawing.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Language "WWB.NET"
+
+Imports System
+Imports System.IO
+Imports System.Collections.Generic
+Imports System.Windows.Forms
+Imports System.Drawing
+Imports System.Reflection
+
+Dim cfgCadCapasDisponibles As List(Of String)
+Dim cfgCadCapaActiva As String
+Dim cfgCadCantidadArchivos As Integer
+Dim cfgCadResultado As DialogResult
+Dim cfgCadNombreDestino As String
+Dim cfgCadVaciarDestino As Boolean
+Dim cfgCadAplicarGris As Boolean
+Dim cfgCadError As String
+Dim cfgCadEventoFinalizado As System.Threading.ManualResetEvent
+
+Sub MostrarConfiguracionCadIndependiente()
+    Try
+        Dim cfgCadForm As New Form()
+        cfgCadForm.Text = "Importacion multiple de topografia DXF/DWG"
+        cfgCadForm.StartPosition = FormStartPosition.CenterScreen
+        cfgCadForm.FormBorderStyle = FormBorderStyle.FixedDialog
+        cfgCadForm.MinimizeBox = False
+        cfgCadForm.MaximizeBox = False
+        cfgCadForm.ShowInTaskbar = True
+        cfgCadForm.ClientSize = New System.Drawing.Size(590, 300)
+
+        Dim cfgCadLblTitulo As New Label()
+        cfgCadLblTitulo.Text = "Layer raiz existente o nueva (puede escribir un nombre):"
+        cfgCadLblTitulo.AutoSize = True
+        cfgCadLblTitulo.Location = New System.Drawing.Point(18, 18)
+
+        Dim cfgCadComboDestino As New ComboBox()
+        cfgCadComboDestino.Location = New System.Drawing.Point(18, 43)
+        cfgCadComboDestino.Size = New System.Drawing.Size(550, 25)
+        cfgCadComboDestino.DropDownStyle = ComboBoxStyle.DropDown
+        For Each cfgCadNombreDisponible As String In cfgCadCapasDisponibles
+            cfgCadComboDestino.Items.Add(cfgCadNombreDisponible)
+        Next
+        cfgCadComboDestino.Text = cfgCadCapaActiva
+
+        Dim cfgCadLblCantidad As New Label()
+        cfgCadLblCantidad.Text = "Archivos CAD seleccionados: " &amp; cfgCadCantidadArchivos.ToString()
+        cfgCadLblCantidad.AutoSize = True
+        cfgCadLblCantidad.Location = New System.Drawing.Point(18, 84)
+
+        Dim cfgCadChkVaciar As New CheckBox()
+        cfgCadChkVaciar.Text = "Eliminar previamente la geometria y todas las child layers del destino"
+        cfgCadChkVaciar.Checked = False
+        cfgCadChkVaciar.AutoSize = True
+        cfgCadChkVaciar.Location = New System.Drawing.Point(18, 119)
+
+        Dim cfgCadChkGris As New CheckBox()
+        cfgCadChkGris.Text = "Convertir toda la geometria importada a gris RGB (128, 128, 128)"
+        cfgCadChkGris.Checked = True
+        cfgCadChkGris.AutoSize = True
+        cfgCadChkGris.Location = New System.Drawing.Point(18, 149)
+
+        Dim cfgCadLblNota As New Label()
+        cfgCadLblNota.Text = "Se importan todas las layers. Las vacias se eliminan y cada archivo conserva sus child layers."
+        cfgCadLblNota.AutoSize = True
+        cfgCadLblNota.Location = New System.Drawing.Point(18, 185)
+
+        Dim cfgCadBtnImportar As New Button()
+        cfgCadBtnImportar.Text = "Importar"
+        cfgCadBtnImportar.DialogResult = DialogResult.OK
+        cfgCadBtnImportar.Location = New System.Drawing.Point(392, 247)
+        cfgCadBtnImportar.Size = New System.Drawing.Size(84, 30)
+
+        Dim cfgCadBtnCancelar As New Button()
+        cfgCadBtnCancelar.Text = "Cancelar"
+        cfgCadBtnCancelar.DialogResult = DialogResult.Cancel
+        cfgCadBtnCancelar.Location = New System.Drawing.Point(484, 247)
+        cfgCadBtnCancelar.Size = New System.Drawing.Size(84, 30)
+
+        cfgCadForm.Controls.Add(cfgCadLblTitulo)
+        cfgCadForm.Controls.Add(cfgCadComboDestino)
+        cfgCadForm.Controls.Add(cfgCadLblCantidad)
+        cfgCadForm.Controls.Add(cfgCadChkVaciar)
+        cfgCadForm.Controls.Add(cfgCadChkGris)
+        cfgCadForm.Controls.Add(cfgCadLblNota)
+        cfgCadForm.Controls.Add(cfgCadBtnImportar)
+        cfgCadForm.Controls.Add(cfgCadBtnCancelar)
+        cfgCadForm.AcceptButton = cfgCadBtnImportar
+        cfgCadForm.CancelButton = cfgCadBtnCancelar
+
+        Do
+            cfgCadResultado = cfgCadForm.ShowDialog()
+            If cfgCadResultado &lt;&gt; DialogResult.OK Then Exit Do
+
+            cfgCadNombreDestino = cfgCadComboDestino.Text.Trim()
+            If cfgCadNombreDestino.Length &gt; 0 Then
+                cfgCadVaciarDestino = cfgCadChkVaciar.Checked
+                cfgCadAplicarGris = cfgCadChkGris.Checked
+                Exit Do
+            End If
+
+            MessageBox.Show("Seleccione una layer existente o escriba el nombre de una nueva.",
+                            "Layer requerida",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Warning)
+        Loop
+    Catch cfgCadEx As Exception
+        cfgCadError = cfgCadEx.Message
+        cfgCadResultado = DialogResult.Abort
+    Finally
+        If cfgCadEventoFinalizado IsNot Nothing Then cfgCadEventoFinalizado.Set()
+    End Try
+End Sub
+
+Function ElegirCapaDestinoEnHilo(ByVal cfgCadDoc As Deswik.Graphics.Application,
+                                 ByVal cfgCadConteo As Integer,
+                                 ByRef cfgCadVaciarSalida As Boolean,
+                                 ByRef cfgCadGrisSalida As Boolean) As String
+    cfgCadCapasDisponibles = New List(Of String)()
+    For Each cfgCadLayer As Deswik.Graphics.Primaries.Layer In cfgCadDoc.Layers
+        If Not cfgCadLayer.Deleted Then cfgCadCapasDisponibles.Add(cfgCadLayer.Name)
+    Next
+
+    cfgCadCapaActiva = "IMPORTACION_CAD"
+    If cfgCadDoc.ActiveLayer IsNot Nothing AndAlso Not cfgCadDoc.ActiveLayer.Deleted Then
+        cfgCadCapaActiva = cfgCadDoc.ActiveLayer.Name
+    End If
+    cfgCadCantidadArchivos = cfgCadConteo
+    cfgCadResultado = DialogResult.None
+    cfgCadNombreDestino = ""
+    cfgCadVaciarDestino = False
+    cfgCadAplicarGris = True
+    cfgCadError = ""
+    cfgCadEventoFinalizado = New System.Threading.ManualResetEvent(False)
+
+    Dim cfgCadHilo As New System.Threading.Thread(AddressOf MostrarConfiguracionCadIndependiente)
+    cfgCadHilo.IsBackground = True
+    cfgCadHilo.SetApartmentState(System.Threading.ApartmentState.STA)
+    cfgCadHilo.Start()
+    cfgCadEventoFinalizado.WaitOne()
+
+    If cfgCadError.Length &gt; 0 Then
+        MessageBox.Show("No se pudo abrir la configuracion: " &amp; cfgCadError,
+                        "Importacion DXF/DWG",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error)
+        Return ""
+    End If
+    If cfgCadResultado &lt;&gt; DialogResult.OK Then Return ""
+
+    cfgCadVaciarSalida = cfgCadVaciarDestino
+    cfgCadGrisSalida = cfgCadAplicarGris
+    Return cfgCadNombreDestino
+End Function
+
+Function EsLayerDestinoSeleccionable(ByVal extCadLayer As Deswik.Graphics.Primaries.Layer) As Boolean
+    If extCadLayer Is Nothing OrElse extCadLayer.Deleted Then Return False
+
+    Dim extCadNombre As String = extCadLayer.Name.Trim()
+    If extCadNombre.Length = 0 Then Return False
+
+    Dim extCadPartes() As String = extCadNombre.Split(New Char() {"\"c})
+    Dim extCadNombreRaiz As String = extCadPartes(0)
+
+    If String.Equals(extCadNombreRaiz,
+                     "_DWG_HIDDEN_GRAPHICS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(extCadNombreRaiz,
+                     "_DW_HIDDEN_GRAPHICS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(extCadNombreRaiz,
+                     "DWG_SETTINGS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(extCadNombreRaiz,
+                     "_DW_SETTINGS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If extCadNombreRaiz.StartsWith("_DWG_",
+                                   StringComparison.OrdinalIgnoreCase) Then Return False
+    If extCadNombreRaiz.StartsWith("_DW_",
+                                   StringComparison.OrdinalIgnoreCase) Then Return False
+
+    Return True
+End Function
+
+Function CrearHelperTemporalImportacionAura() As String
+    Dim auraImportHelperRuta As String = Path.Combine(
+        Path.GetTempPath(), "aura_importacion_cad_" &amp; Guid.NewGuid().ToString("N") &amp; ".ps1")
+    Dim auraImportHelperBase64 As String = _
+        "cGFyYW0oCiAgICBbUGFyYW1ldGVyKE1hbmRhdG9yeSA9ICR0cnVlKV1bc3RyaW5nXSRJbnB1dFBhdGgsCiAgICBbUGFyYW1ldGVyKE1hbmRhdG9yeSA9ICR0" &amp; _
+        "cnVlKV1bc3RyaW5nXSRPdXRwdXRQYXRoCikKCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAnU3RvcCcKQWRkLVR5cGUgLUFzc2VtYmx5TmFtZSBTeXN0ZW0u" &amp; _
+        "V2luZG93cy5Gb3JtcwpBZGQtVHlwZSAtQXNzZW1ibHlOYW1lIFN5c3RlbS5EcmF3aW5nCgokbGluZXMgPSBbU3lzdGVtLklPLkZpbGVdOjpSZWFkQWxsTGlu" &amp; _
+        "ZXMoJElucHV0UGF0aCkKJGZpbGVDb3VudCA9IGlmICgkbGluZXMuQ291bnQgLWd0IDApIHsgJGxpbmVzWzBdIH0gZWxzZSB7ICcwJyB9CiRhY3RpdmVMYXll" &amp; _
+        "ciA9IGlmICgkbGluZXMuQ291bnQgLWd0IDEgLWFuZCAkbGluZXNbMV0pIHsgJGxpbmVzWzFdIH0gZWxzZSB7ICdJTVBPUlRBQ0lPTl9DQUQnIH0KJHJhd0xh" &amp; _
+        "eWVycyA9IGlmICgkbGluZXMuQ291bnQgLWd0IDIpIHsgJGxpbmVzWzIuLigkbGluZXMuQ291bnQgLSAxKV0gfSBlbHNlIHsgQCgpIH0KCmZ1bmN0aW9uIFRl" &amp; _
+        "c3QtSW50ZXJuYWxMYXllck5hbWUgewogICAgcGFyYW0oW3N0cmluZ10kTGF5ZXJOYW1lKQoKICAgIGlmIChbc3RyaW5nXTo6SXNOdWxsT3JXaGl0ZVNwYWNl" &amp; _
+        "KCRMYXllck5hbWUpKSB7IHJldHVybiAkdHJ1ZSB9CiAgICAkcm9vdE5hbWUgPSAoJExheWVyTmFtZS5UcmltKCkgLXNwbGl0ICdcXCcsIDIpWzBdCiAgICBy" &amp; _
+        "ZXR1cm4gJHJvb3ROYW1lLkVxdWFscygnX0RXR19ISURERU5fR1JBUEhJQ1MnLCBbU3lzdGVtLlN0cmluZ0NvbXBhcmlzb25dOjpPcmRpbmFsSWdub3JlQ2Fz" &amp; _
+        "ZSkgLW9yCiAgICAgICAgICAgJHJvb3ROYW1lLkVxdWFscygnX0RXX0hJRERFTl9HUkFQSElDUycsIFtTeXN0ZW0uU3RyaW5nQ29tcGFyaXNvbl06Ok9yZGlu" &amp; _
+        "YWxJZ25vcmVDYXNlKSAtb3IKICAgICAgICAgICAkcm9vdE5hbWUuRXF1YWxzKCdEV0dfU0VUVElOR1MnLCBbU3lzdGVtLlN0cmluZ0NvbXBhcmlzb25dOjpP" &amp; _
+        "cmRpbmFsSWdub3JlQ2FzZSkgLW9yCiAgICAgICAgICAgJHJvb3ROYW1lLkVxdWFscygnX0RXX1NFVFRJTkdTJywgW1N5c3RlbS5TdHJpbmdDb21wYXJpc29u" &amp; _
+        "XTo6T3JkaW5hbElnbm9yZUNhc2UpIC1vcgogICAgICAgICAgICRyb290TmFtZS5TdGFydHNXaXRoKCdfRFdHXycsIFtTeXN0ZW0uU3RyaW5nQ29tcGFyaXNv" &amp; _
+        "bl06Ok9yZGluYWxJZ25vcmVDYXNlKSAtb3IKICAgICAgICAgICAkcm9vdE5hbWUuU3RhcnRzV2l0aCgnX0RXXycsIFtTeXN0ZW0uU3RyaW5nQ29tcGFyaXNv" &amp; _
+        "bl06Ok9yZGluYWxJZ25vcmVDYXNlKQp9CgokYXZhaWxhYmxlTGF5ZXJzID0gQCgKICAgICRyYXdMYXllcnMgfAogICAgICAgIEZvckVhY2gtT2JqZWN0IHsg" &amp; _
+        "JF8uVHJpbSgpIH0gfAogICAgICAgIFdoZXJlLU9iamVjdCB7IC1ub3QgKFRlc3QtSW50ZXJuYWxMYXllck5hbWUgJF8pIH0gfAogICAgICAgIFNvcnQtT2Jq" &amp; _
+        "ZWN0IC1VbmlxdWUKKQoKaWYgKFRlc3QtSW50ZXJuYWxMYXllck5hbWUgJGFjdGl2ZUxheWVyKSB7CiAgICAkYWN0aXZlTGF5ZXIgPSBpZiAoJGF2YWlsYWJs" &amp; _
+        "ZUxheWVycy5Db3VudCAtZ3QgMCkgeyAkYXZhaWxhYmxlTGF5ZXJzWzBdIH0gZWxzZSB7ICdJTVBPUlRBQ0lPTl9DQUQnIH0KfQoKJGZvcm0gPSBOZXctT2Jq" &amp; _
+        "ZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkZvcm0KJGZvcm0uVGV4dCA9ICdJbXBvcnRhY2lvbiBtdWx0aXBsZSBkZSB0b3BvZ3JhZmlhIERYRi9EV0cnCiRm" &amp; _
+        "b3JtLlN0YXJ0UG9zaXRpb24gPSAnQ2VudGVyU2NyZWVuJwokZm9ybS5Gb3JtQm9yZGVyU3R5bGUgPSAnRml4ZWREaWFsb2cnCiRmb3JtLk1pbmltaXplQm94" &amp; _
+        "ID0gJGZhbHNlCiRmb3JtLk1heGltaXplQm94ID0gJGZhbHNlCiRmb3JtLlRvcE1vc3QgPSAkdHJ1ZQokZm9ybS5DbGllbnRTaXplID0gTmV3LU9iamVjdCBT" &amp; _
+        "eXN0ZW0uRHJhd2luZy5TaXplKDYzMCwgNTM1KQoKJHRpdGxlID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5MYWJlbAokdGl0bGUuVGV4dCA9" &amp; _
+        "ICdTZWxlY2Npb25hIHVuYSBsYXllciBkZWwgYXJib2wgbyBlc2NyaWJlIGVsIG5vbWJyZSBkZSB1bmEgbnVldmE6JwokdGl0bGUuQXV0b1NpemUgPSAkdHJ1" &amp; _
+        "ZQokdGl0bGUuTG9jYXRpb24gPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDE4LCAxOCkKCiRsYXllck5hbWVCb3ggPSBOZXctT2JqZWN0IFN5" &amp; _
+        "c3RlbS5XaW5kb3dzLkZvcm1zLlRleHRCb3gKJGxheWVyTmFtZUJveC5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoMTgsIDQz" &amp; _
+        "KQokbGF5ZXJOYW1lQm94LlNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlNpemUoNTk0LCAyNSkKJGxheWVyTmFtZUJveC5UZXh0ID0gJGFjdGl2" &amp; _
+        "ZUxheWVyCiRsYXllck5hbWVCb3guVGFiSW5kZXggPSAwCgokdHJlZUxhYmVsID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5MYWJlbAokdHJl" &amp; _
+        "ZUxhYmVsLlRleHQgPSAnTGF5ZXJzIGV4aXN0ZW50ZXM6JwokdHJlZUxhYmVsLkF1dG9TaXplID0gJHRydWUKJHRyZWVMYWJlbC5Mb2NhdGlvbiA9IE5ldy1P" &amp; _
+        "YmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoMTgsIDgwKQoKJGV4cGFuZEJ1dHRvbiA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuQnV0dG9u" &amp; _
+        "CiRleHBhbmRCdXR0b24uVGV4dCA9ICdFeHBhbmRpcicKJGV4cGFuZEJ1dHRvbi5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQo" &amp; _
+        "NDM4LCA3MykKJGV4cGFuZEJ1dHRvbi5TaXplID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5TaXplKDgyLCAyNSkKJGV4cGFuZEJ1dHRvbi5UYWJTdG9w" &amp; _
+        "ID0gJGZhbHNlCgokY29sbGFwc2VCdXR0b24gPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkJ1dHRvbgokY29sbGFwc2VCdXR0b24uVGV4dCA9" &amp; _
+        "ICdDb250cmFlcicKJGNvbGxhcHNlQnV0dG9uLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCg1MzAsIDczKQokY29sbGFwc2VC" &amp; _
+        "dXR0b24uU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg4MiwgMjUpCiRjb2xsYXBzZUJ1dHRvbi5UYWJTdG9wID0gJGZhbHNlCgpmdW5j" &amp; _
+        "dGlvbiBOZXctTGF5ZXJCaXRtYXAgewogICAgcGFyYW0oCiAgICAgICAgW1N5c3RlbS5EcmF3aW5nLkNvbG9yXSRDb2xvciwKICAgICAgICBbaW50XSRMYXll" &amp; _
+        "ckNvdW50CiAgICApCgogICAgJGJpdG1hcCA9IFtTeXN0ZW0uRHJhd2luZy5CaXRtYXBdOjpuZXcoMTYsIDE2KQogICAgJGdyYXBoaWNzID0gW1N5c3RlbS5E" &amp; _
+        "cmF3aW5nLkdyYXBoaWNzXTo6RnJvbUltYWdlKCRiaXRtYXApCiAgICAkZ3JhcGhpY3MuU21vb3RoaW5nTW9kZSA9IFtTeXN0ZW0uRHJhd2luZy5EcmF3aW5n" &amp; _
+        "MkQuU21vb3RoaW5nTW9kZV06OkFudGlBbGlhcwogICAgJGJydXNoID0gW1N5c3RlbS5EcmF3aW5nLlNvbGlkQnJ1c2hdOjpuZXcoJENvbG9yKQogICAgJGJv" &amp; _
+        "cmRlckNvbG9yID0gW1N5c3RlbS5EcmF3aW5nLkNvbG9yXTo6RnJvbUFyZ2IoCiAgICAgICAgW01hdGhdOjpNYXgoMCwgJENvbG9yLlIgLSA0NSksCiAgICAg" &amp; _
+        "ICAgW01hdGhdOjpNYXgoMCwgJENvbG9yLkcgLSA0NSksCiAgICAgICAgW01hdGhdOjpNYXgoMCwgJENvbG9yLkIgLSA0NSkpCiAgICAkcGVuID0gW1N5c3Rl" &amp; _
+        "bS5EcmF3aW5nLlBlbl06Om5ldygkYm9yZGVyQ29sb3IsIDEpCgogICAgdHJ5IHsKICAgICAgICBmb3IgKCRpbmRleCA9ICRMYXllckNvdW50IC0gMTsgJGlu" &amp; _
+        "ZGV4IC1nZSAwOyAkaW5kZXgtLSkgewogICAgICAgICAgICAkb2Zmc2V0ID0gJGluZGV4ICogMgogICAgICAgICAgICAkcG9pbnRzID0gW1N5c3RlbS5EcmF3" &amp; _
+        "aW5nLlBvaW50W11dQCgKICAgICAgICAgICAgICAgIFtTeXN0ZW0uRHJhd2luZy5Qb2ludF06Om5ldygyLCAzICsgJG9mZnNldCksCiAgICAgICAgICAgICAg" &amp; _
+        "ICBbU3lzdGVtLkRyYXdpbmcuUG9pbnRdOjpuZXcoOCwgMSArICRvZmZzZXQpLAogICAgICAgICAgICAgICAgW1N5c3RlbS5EcmF3aW5nLlBvaW50XTo6bmV3" &amp; _
+        "KDE0LCA0ICsgJG9mZnNldCksCiAgICAgICAgICAgICAgICBbU3lzdGVtLkRyYXdpbmcuUG9pbnRdOjpuZXcoOCwgNyArICRvZmZzZXQpCiAgICAgICAgICAg" &amp; _
+        "ICkKICAgICAgICAgICAgJGdyYXBoaWNzLkZpbGxQb2x5Z29uKCRicnVzaCwgJHBvaW50cykKICAgICAgICAgICAgJGdyYXBoaWNzLkRyYXdQb2x5Z29uKCRw" &amp; _
+        "ZW4sICRwb2ludHMpCiAgICAgICAgfQogICAgfQogICAgZmluYWxseSB7CiAgICAgICAgJHBlbi5EaXNwb3NlKCkKICAgICAgICAkYnJ1c2guRGlzcG9zZSgp" &amp; _
+        "CiAgICAgICAgJGdyYXBoaWNzLkRpc3Bvc2UoKQogICAgfQoKICAgIHJldHVybiAkYml0bWFwCn0KCiRsYXllckltYWdlcyA9IE5ldy1PYmplY3QgU3lzdGVt" &amp; _
+        "LldpbmRvd3MuRm9ybXMuSW1hZ2VMaXN0CiRsYXllckltYWdlcy5JbWFnZVNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlNpemUoMTYsIDE2KQok" &amp; _
+        "bGF5ZXJJbWFnZXMuQ29sb3JEZXB0aCA9IFtTeXN0ZW0uV2luZG93cy5Gb3Jtcy5Db2xvckRlcHRoXTo6RGVwdGgzMkJpdAokcGFyZW50Qml0bWFwID0gTmV3" &amp; _
+        "LUxheWVyQml0bWFwIChbU3lzdGVtLkRyYXdpbmcuQ29sb3JdOjpGcm9tQXJnYig0NywgMTIwLCAxNzApKSAzCiRjaGlsZEJpdG1hcCA9IE5ldy1MYXllckJp" &amp; _
+        "dG1hcCAoW1N5c3RlbS5EcmF3aW5nLkNvbG9yXTo6RnJvbUFyZ2IoNzksIDE1NywgMjA3KSkgMQpbdm9pZF0kbGF5ZXJJbWFnZXMuSW1hZ2VzLkFkZCgncGFy" &amp; _
+        "ZW50JywgJHBhcmVudEJpdG1hcCkKW3ZvaWRdJGxheWVySW1hZ2VzLkltYWdlcy5BZGQoJ2xheWVyJywgJGNoaWxkQml0bWFwKQoKJGxheWVyVHJlZSA9IE5l" &amp; _
+        "dy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuVHJlZVZpZXcKJGxheWVyVHJlZS5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9p" &amp; _
+        "bnQoMTgsIDEwNCkKJGxheWVyVHJlZS5TaXplID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5TaXplKDU5NCwgMTg0KQokbGF5ZXJUcmVlLkhpZGVTZWxl" &amp; _
+        "Y3Rpb24gPSAkZmFsc2UKJGxheWVyVHJlZS5GdWxsUm93U2VsZWN0ID0gJHRydWUKJGxheWVyVHJlZS5TaG93TGluZXMgPSAkdHJ1ZQokbGF5ZXJUcmVlLlNo" &amp; _
+        "b3dQbHVzTWludXMgPSAkdHJ1ZQokbGF5ZXJUcmVlLlNob3dSb290TGluZXMgPSAkdHJ1ZQokbGF5ZXJUcmVlLlBhdGhTZXBhcmF0b3IgPSAnXCcKJGxheWVy" &amp; _
+        "VHJlZS5JbWFnZUxpc3QgPSAkbGF5ZXJJbWFnZXMKJGxheWVyVHJlZS5UYWJJbmRleCA9IDEKCiRub2RlTWFwID0gQHt9CiRzb3J0ZWRMYXllcnMgPSAkYXZh" &amp; _
+        "aWxhYmxlTGF5ZXJzIHwgU29ydC1PYmplY3QgYAogICAgQHsgRXhwcmVzc2lvbiA9IHsgKCRfIC1zcGxpdCAnXFwnKS5Db3VudCB9IH0sIGAKICAgIEB7IEV4" &amp; _
+        "cHJlc3Npb24gPSB7ICRfLlRvTG93ZXJJbnZhcmlhbnQoKSB9IH0KCmZvcmVhY2ggKCRmdWxsTGF5ZXJOYW1lIGluICRzb3J0ZWRMYXllcnMpIHsKICAgICRz" &amp; _
+        "ZWdtZW50cyA9IEAoJGZ1bGxMYXllck5hbWUgLXNwbGl0ICdcXCcgfCBXaGVyZS1PYmplY3QgeyAkXy5MZW5ndGggLWd0IDAgfSkKICAgICRjdXJyZW50UGF0" &amp; _
+        "aCA9ICcnCiAgICAkcGFyZW50Tm9kZSA9ICRudWxsCgogICAgZm9yZWFjaCAoJHNlZ21lbnQgaW4gJHNlZ21lbnRzKSB7CiAgICAgICAgJGN1cnJlbnRQYXRo" &amp; _
+        "ID0gaWYgKCRjdXJyZW50UGF0aC5MZW5ndGggLWVxIDApIHsgJHNlZ21lbnQgfSBlbHNlIHsgIiRjdXJyZW50UGF0aFwkc2VnbWVudCIgfQogICAgICAgIGlm" &amp; _
+        "ICgtbm90ICRub2RlTWFwLkNvbnRhaW5zS2V5KCRjdXJyZW50UGF0aCkpIHsKICAgICAgICAgICAgJG5vZGUgPSBbU3lzdGVtLldpbmRvd3MuRm9ybXMuVHJl" &amp; _
+        "ZU5vZGVdOjpuZXcoW3N0cmluZ10kc2VnbWVudCkKICAgICAgICAgICAgJG5vZGUuTmFtZSA9ICRjdXJyZW50UGF0aAogICAgICAgICAgICAkbm9kZS5UYWcg" &amp; _
+        "PSAkY3VycmVudFBhdGgKICAgICAgICAgICAgJG5vZGUuSW1hZ2VLZXkgPSAnbGF5ZXInCiAgICAgICAgICAgICRub2RlLlNlbGVjdGVkSW1hZ2VLZXkgPSAn" &amp; _
+        "bGF5ZXInCgogICAgICAgICAgICBpZiAoJG51bGwgLWVxICRwYXJlbnROb2RlKSB7CiAgICAgICAgICAgICAgICBbdm9pZF0kbGF5ZXJUcmVlLk5vZGVzLkFk" &amp; _
+        "ZCgkbm9kZSkKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIFt2b2lkXSRwYXJlbnROb2RlLk5vZGVzLkFkZCgkbm9k" &amp; _
+        "ZSkKICAgICAgICAgICAgfQogICAgICAgICAgICAkbm9kZU1hcFskY3VycmVudFBhdGhdID0gJG5vZGUKICAgICAgICB9CiAgICAgICAgJHBhcmVudE5vZGUg" &amp; _
+        "PSAkbm9kZU1hcFskY3VycmVudFBhdGhdCiAgICB9Cn0KCmZvcmVhY2ggKCRub2RlIGluICRub2RlTWFwLlZhbHVlcykgewogICAgaWYgKCRub2RlLk5vZGVz" &amp; _
+        "LkNvdW50IC1ndCAwKSB7CiAgICAgICAgJG5vZGUuSW1hZ2VLZXkgPSAncGFyZW50JwogICAgICAgICRub2RlLlNlbGVjdGVkSW1hZ2VLZXkgPSAncGFyZW50" &amp; _
+        "JwogICAgfQp9CgokbGF5ZXJUcmVlLkFkZF9BZnRlclNlbGVjdCh7CiAgICBpZiAoJG51bGwgLW5lICRfLk5vZGUgLWFuZCAkbnVsbCAtbmUgJF8uTm9kZS5U" &amp; _
+        "YWcpIHsKICAgICAgICAkbGF5ZXJOYW1lQm94LlRleHQgPSBbc3RyaW5nXSRfLk5vZGUuVGFnCiAgICB9Cn0pCiRsYXllclRyZWUuQWRkX05vZGVNb3VzZURv" &amp; _
+        "dWJsZUNsaWNrKHsKICAgIGlmICgkbnVsbCAtbmUgJF8uTm9kZSAtYW5kICRudWxsIC1uZSAkXy5Ob2RlLlRhZykgewogICAgICAgICRsYXllck5hbWVCb3gu" &amp; _
+        "VGV4dCA9IFtzdHJpbmddJF8uTm9kZS5UYWcKICAgICAgICAkbGF5ZXJOYW1lQm94LkZvY3VzKCkKICAgICAgICAkbGF5ZXJOYW1lQm94LlNlbGVjdGlvblN0" &amp; _
+        "YXJ0ID0gJGxheWVyTmFtZUJveC5UZXh0Lkxlbmd0aAogICAgfQp9KQokZXhwYW5kQnV0dG9uLkFkZF9DbGljayh7ICRsYXllclRyZWUuRXhwYW5kQWxsKCkg" &amp; _
+        "fSkKJGNvbGxhcHNlQnV0dG9uLkFkZF9DbGljayh7ICRsYXllclRyZWUuQ29sbGFwc2VBbGwoKSB9KQoKaWYgKCRub2RlTWFwLkNvbnRhaW5zS2V5KCRhY3Rp" &amp; _
+        "dmVMYXllcikpIHsKICAgICRzZWxlY3RlZE5vZGUgPSAkbm9kZU1hcFskYWN0aXZlTGF5ZXJdCiAgICAkbGF5ZXJUcmVlLlNlbGVjdGVkTm9kZSA9ICRzZWxl" &amp; _
+        "Y3RlZE5vZGUKICAgICRhbmNlc3RvciA9ICRzZWxlY3RlZE5vZGUuUGFyZW50CiAgICB3aGlsZSAoJG51bGwgLW5lICRhbmNlc3RvcikgewogICAgICAgICRh" &amp; _
+        "bmNlc3Rvci5FeHBhbmQoKQogICAgICAgICRhbmNlc3RvciA9ICRhbmNlc3Rvci5QYXJlbnQKICAgIH0KICAgICRzZWxlY3RlZE5vZGUuRW5zdXJlVmlzaWJs" &amp; _
+        "ZSgpCn0KZWxzZWlmICgkbGF5ZXJUcmVlLk5vZGVzLkNvdW50IC1ndCAwKSB7CiAgICAkbGF5ZXJUcmVlLlNlbGVjdGVkTm9kZSA9ICRsYXllclRyZWUuTm9k" &amp; _
+        "ZXNbMF0KfQoKJGNvdW50TGFiZWwgPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkxhYmVsCiRjb3VudExhYmVsLlRleHQgPSAiQXJjaGl2b3Mg" &amp; _
+        "Q0FEIHNlbGVjY2lvbmFkb3M6ICRmaWxlQ291bnQiCiRjb3VudExhYmVsLkF1dG9TaXplID0gJHRydWUKJGNvdW50TGFiZWwuTG9jYXRpb24gPSBOZXctT2Jq" &amp; _
+        "ZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDE4LCAzMDcpCgokY2xlYXJDaGVjayA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuQ2hlY2tCb3gK" &amp; _
+        "JGNsZWFyQ2hlY2suVGV4dCA9ICdFbGltaW5hciBwcmV2aWFtZW50ZSBsYSBnZW9tZXRyaWEgeSB0b2RhcyBsYXMgY2hpbGQgbGF5ZXJzIGRlbCBkZXN0aW5v" &amp; _
+        "JwokY2xlYXJDaGVjay5DaGVja2VkID0gJGZhbHNlCiRjbGVhckNoZWNrLkF1dG9TaXplID0gJHRydWUKJGNsZWFyQ2hlY2suTG9jYXRpb24gPSBOZXctT2Jq" &amp; _
+        "ZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDE4LCAzMzcpCiRjbGVhckNoZWNrLlRhYkluZGV4ID0gMgoKJGNvbG9yQ2hlY2sgPSBOZXctT2JqZWN0IFN5c3Rl" &amp; _
+        "bS5XaW5kb3dzLkZvcm1zLkNoZWNrQm94CiRjb2xvckNoZWNrLlRleHQgPSAnQXBsaWNhciBlc3RlIGNvbG9yIFJHQiBhIHRvZGEgbGEgZ2VvbWV0cmlhIGlt" &amp; _
+        "cG9ydGFkYScKJGNvbG9yQ2hlY2suQ2hlY2tlZCA9ICR0cnVlCiRjb2xvckNoZWNrLkF1dG9TaXplID0gJHRydWUKJGNvbG9yQ2hlY2suTG9jYXRpb24gPSBO" &amp; _
+        "ZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDE4LCAzNjcpCiRjb2xvckNoZWNrLlRhYkluZGV4ID0gMwoKJHJlZExhYmVsID0gTmV3LU9iamVjdCBT" &amp; _
+        "eXN0ZW0uV2luZG93cy5Gb3Jtcy5MYWJlbAokcmVkTGFiZWwuVGV4dCA9ICdSOicKJHJlZExhYmVsLkF1dG9TaXplID0gJHRydWUKJHJlZExhYmVsLkxvY2F0" &amp; _
+        "aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgzNiwgNDAyKQoKJHJlZEJveCA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMu" &amp; _
+        "TnVtZXJpY1VwRG93bgokcmVkQm94Lk1pbmltdW0gPSAwCiRyZWRCb3guTWF4aW11bSA9IDI1NQokcmVkQm94LlZhbHVlID0gMTI4CiRyZWRCb3guTG9jYXRp" &amp; _
+        "b24gPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDU4LCAzOTgpCiRyZWRCb3guU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6" &amp; _
+        "ZSg2NSwgMjMpCiRyZWRCb3guVGFiSW5kZXggPSA0CgokZ3JlZW5MYWJlbCA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuTGFiZWwKJGdyZWVu" &amp; _
+        "TGFiZWwuVGV4dCA9ICdHOicKJGdyZWVuTGFiZWwuQXV0b1NpemUgPSAkdHJ1ZQokZ3JlZW5MYWJlbC5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRy" &amp; _
+        "YXdpbmcuUG9pbnQoMTUzLCA0MDIpCgokZ3JlZW5Cb3ggPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLk51bWVyaWNVcERvd24KJGdyZWVuQm94" &amp; _
+        "Lk1pbmltdW0gPSAwCiRncmVlbkJveC5NYXhpbXVtID0gMjU1CiRncmVlbkJveC5WYWx1ZSA9IDEyOAokZ3JlZW5Cb3guTG9jYXRpb24gPSBOZXctT2JqZWN0" &amp; _
+        "IFN5c3RlbS5EcmF3aW5nLlBvaW50KDE3OCwgMzk4KQokZ3JlZW5Cb3guU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg2NSwgMjMpCiRn" &amp; _
+        "cmVlbkJveC5UYWJJbmRleCA9IDUKCiRibHVlTGFiZWwgPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkxhYmVsCiRibHVlTGFiZWwuVGV4dCA9" &amp; _
+        "ICdCOicKJGJsdWVMYWJlbC5BdXRvU2l6ZSA9ICR0cnVlCiRibHVlTGFiZWwuTG9jYXRpb24gPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDI3" &amp; _
+        "MywgNDAyKQoKJGJsdWVCb3ggPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLk51bWVyaWNVcERvd24KJGJsdWVCb3guTWluaW11bSA9IDAKJGJs" &amp; _
+        "dWVCb3guTWF4aW11bSA9IDI1NQokYmx1ZUJveC5WYWx1ZSA9IDEyOAokYmx1ZUJveC5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9p" &amp; _
+        "bnQoMjk2LCAzOTgpCiRibHVlQm94LlNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlNpemUoNjUsIDIzKQokYmx1ZUJveC5UYWJJbmRleCA9IDYK" &amp; _
+        "CiR1cGRhdGVSZ2JTdGF0ZSA9IHsKICAgICRlbmFibGVkID0gJGNvbG9yQ2hlY2suQ2hlY2tlZAogICAgJHJlZExhYmVsLkVuYWJsZWQgPSAkZW5hYmxlZAog" &amp; _
+        "ICAgJHJlZEJveC5FbmFibGVkID0gJGVuYWJsZWQKICAgICRncmVlbkxhYmVsLkVuYWJsZWQgPSAkZW5hYmxlZAogICAgJGdyZWVuQm94LkVuYWJsZWQgPSAk" &amp; _
+        "ZW5hYmxlZAogICAgJGJsdWVMYWJlbC5FbmFibGVkID0gJGVuYWJsZWQKICAgICRibHVlQm94LkVuYWJsZWQgPSAkZW5hYmxlZAp9CiRjb2xvckNoZWNrLkFk" &amp; _
+        "ZF9DaGVja2VkQ2hhbmdlZCgkdXBkYXRlUmdiU3RhdGUpCiYgJHVwZGF0ZVJnYlN0YXRlCgokbm90ZSA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9y" &amp; _
+        "bXMuTGFiZWwKJG5vdGUuVGV4dCA9ICdTZSBpbXBvcnRhbiB0b2RhcyBsYXMgbGF5ZXJzLiBMYXMgdmFjaWFzIHNlIGVsaW1pbmFuIHkgY2FkYSBhcmNoaXZv" &amp; _
+        "IGNvbnNlcnZhIHN1cyBjaGlsZCBsYXllcnMuJwokbm90ZS5BdXRvU2l6ZSA9ICR0cnVlCiRub3RlLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJh" &amp; _
+        "d2luZy5Qb2ludCgxOCwgNDQyKQoKJGltcG9ydEJ1dHRvbiA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuQnV0dG9uCiRpbXBvcnRCdXR0b24u" &amp; _
+        "VGV4dCA9ICdJbXBvcnRhcicKJGltcG9ydEJ1dHRvbi5EaWFsb2dSZXN1bHQgPSBbU3lzdGVtLldpbmRvd3MuRm9ybXMuRGlhbG9nUmVzdWx0XTo6T0sKJGlt" &amp; _
+        "cG9ydEJ1dHRvbi5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoNDM2LCA0ODIpCiRpbXBvcnRCdXR0b24uU2l6ZSA9IE5ldy1P" &amp; _
+        "YmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg4NCwgMzApCiRpbXBvcnRCdXR0b24uVGFiSW5kZXggPSA3CgokY2FuY2VsQnV0dG9uID0gTmV3LU9iamVjdCBT" &amp; _
+        "eXN0ZW0uV2luZG93cy5Gb3Jtcy5CdXR0b24KJGNhbmNlbEJ1dHRvbi5UZXh0ID0gJ0NhbmNlbGFyJwokY2FuY2VsQnV0dG9uLkRpYWxvZ1Jlc3VsdCA9IFtT" &amp; _
+        "eXN0ZW0uV2luZG93cy5Gb3Jtcy5EaWFsb2dSZXN1bHRdOjpDYW5jZWwKJGNhbmNlbEJ1dHRvbi5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdp" &amp; _
+        "bmcuUG9pbnQoNTI4LCA0ODIpCiRjYW5jZWxCdXR0b24uU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg4NCwgMzApCiRjYW5jZWxCdXR0" &amp; _
+        "b24uVGFiSW5kZXggPSA4CgokZm9ybS5Db250cm9scy5BZGRSYW5nZShAKAogICAgJHRpdGxlLCAkbGF5ZXJOYW1lQm94LCAkdHJlZUxhYmVsLCAkZXhwYW5k" &amp; _
+        "QnV0dG9uLCAkY29sbGFwc2VCdXR0b24sICRsYXllclRyZWUsCiAgICAkY291bnRMYWJlbCwgJGNsZWFyQ2hlY2ssICRjb2xvckNoZWNrLAogICAgJHJlZExh" &amp; _
+        "YmVsLCAkcmVkQm94LCAkZ3JlZW5MYWJlbCwgJGdyZWVuQm94LCAkYmx1ZUxhYmVsLCAkYmx1ZUJveCwKICAgICRub3RlLCAkaW1wb3J0QnV0dG9uLCAkY2Fu" &amp; _
+        "Y2VsQnV0dG9uKSkKJGZvcm0uQWNjZXB0QnV0dG9uID0gJGltcG9ydEJ1dHRvbgokZm9ybS5DYW5jZWxCdXR0b24gPSAkY2FuY2VsQnV0dG9uCgp3aGlsZSAo" &amp; _
+        "JHRydWUpIHsKICAgICRkaWFsb2dSZXN1bHQgPSAkZm9ybS5TaG93RGlhbG9nKCkKICAgIGlmICgkZGlhbG9nUmVzdWx0IC1uZSBbU3lzdGVtLldpbmRvd3Mu" &amp; _
+        "Rm9ybXMuRGlhbG9nUmVzdWx0XTo6T0spIHsKICAgICAgICBbU3lzdGVtLklPLkZpbGVdOjpXcml0ZUFsbExpbmVzKCRPdXRwdXRQYXRoLCBAKCdDQU5DRUwn" &amp; _
+        "KSkKICAgICAgICBleGl0IDAKICAgIH0KCiAgICAkbGF5ZXJOYW1lID0gJGxheWVyTmFtZUJveC5UZXh0LlRyaW0oKQogICAgaWYgKCRsYXllck5hbWUuTGVu" &amp; _
+        "Z3RoIC1ndCAwKSB7CiAgICAgICAgW1N5c3RlbS5JTy5GaWxlXTo6V3JpdGVBbGxMaW5lcygkT3V0cHV0UGF0aCwgQCgKICAgICAgICAgICAgJ09LJywKICAg" &amp; _
+        "ICAgICAgICAgJGxheWVyTmFtZSwKICAgICAgICAgICAgJChpZiAoJGNsZWFyQ2hlY2suQ2hlY2tlZCkgeyAnMScgfSBlbHNlIHsgJzAnIH0pLAogICAgICAg" &amp; _
+        "ICAgICAkKGlmICgkY29sb3JDaGVjay5DaGVja2VkKSB7ICcxJyB9IGVsc2UgeyAnMCcgfSksCiAgICAgICAgICAgICRyZWRCb3guVmFsdWUuVG9TdHJpbmco" &amp; _
+        "KSwKICAgICAgICAgICAgJGdyZWVuQm94LlZhbHVlLlRvU3RyaW5nKCksCiAgICAgICAgICAgICRibHVlQm94LlZhbHVlLlRvU3RyaW5nKCkKICAgICAgICAp" &amp; _
+        "KQogICAgICAgIGV4aXQgMAogICAgfQoKICAgIFt2b2lkXVtTeXN0ZW0uV2luZG93cy5Gb3Jtcy5NZXNzYWdlQm94XTo6U2hvdygKICAgICAgICAnU2VsZWNj" &amp; _
+        "aW9uZSB1bmEgbGF5ZXIgZXhpc3RlbnRlIG8gZXNjcmliYSBlbCBub21icmUgZGUgdW5hIG51ZXZhLicsCiAgICAgICAgJ0xheWVyIHJlcXVlcmlkYScsCiAg" &amp; _
+        "ICAgICAgW1N5c3RlbS5XaW5kb3dzLkZvcm1zLk1lc3NhZ2VCb3hCdXR0b25zXTo6T0ssCiAgICAgICAgW1N5c3RlbS5XaW5kb3dzLkZvcm1zLk1lc3NhZ2VC" &amp; _
+        "b3hJY29uXTo6V2FybmluZykKfQo="
+    File.WriteAllBytes(auraImportHelperRuta, Convert.FromBase64String(auraImportHelperBase64))
+    Return auraImportHelperRuta
+End Function
+
+Function ElegirCapaDestinoExterno(ByVal extCadDoc As Deswik.Graphics.Application,
+                                  ByVal extCadConteo As Integer,
+                                  ByRef extCadVaciarSalida As Boolean,
+                                  ByRef extCadAplicarColorSalida As Boolean,
+                                  ByRef extCadRojoSalida As Integer,
+                                  ByRef extCadVerdeSalida As Integer,
+                                  ByRef extCadAzulSalida As Integer) As String
+    Dim extCadHelper As String = CrearHelperTemporalImportacionAura()
+
+    Dim extCadToken As String = Guid.NewGuid().ToString("N")
+    Dim extCadEntrada As String = Path.Combine(Path.GetTempPath(),
+                                               "deswik_cad_input_" &amp; extCadToken &amp; ".txt")
+    Dim extCadSalida As String = Path.Combine(Path.GetTempPath(),
+                                              "deswik_cad_output_" &amp; extCadToken &amp; ".txt")
+    Dim extCadTexto As New System.Text.StringBuilder()
+    extCadTexto.AppendLine(extCadConteo.ToString())
+
+    Dim extCadNombresCapas As New List(Of String)()
+    For Each extCadLayer As Deswik.Graphics.Primaries.Layer In extCadDoc.Layers
+        If EsLayerDestinoSeleccionable(extCadLayer) Then
+            extCadNombresCapas.Add(extCadLayer.Name)
+        End If
+    Next
+
+    Dim extCadActiva As String = "IMPORTACION_CAD"
+    If EsLayerDestinoSeleccionable(extCadDoc.ActiveLayer) Then
+        extCadActiva = extCadDoc.ActiveLayer.Name
+    ElseIf extCadNombresCapas.Count &gt; 0 Then
+        extCadActiva = extCadNombresCapas(0)
+    End If
+    extCadTexto.AppendLine(extCadActiva)
+    For Each extCadNombreCapa As String In extCadNombresCapas
+        extCadTexto.AppendLine(extCadNombreCapa)
+    Next
+    File.WriteAllText(extCadEntrada, extCadTexto.ToString(), System.Text.Encoding.UTF8)
+
+    Try
+        Dim extCadInicio As New System.Diagnostics.ProcessStartInfo()
+        extCadInicio.FileName = "powershell.exe"
+        extCadInicio.Arguments = "-NoProfile -ExecutionPolicy Bypass -STA -File """ &amp;
+                                 extCadHelper &amp; """ -InputPath """ &amp;
+                                 extCadEntrada &amp; """ -OutputPath """ &amp;
+                                 extCadSalida &amp; """"
+        extCadInicio.UseShellExecute = False
+        extCadInicio.CreateNoWindow = True
+
+        Dim extCadProceso As System.Diagnostics.Process =
+            System.Diagnostics.Process.Start(extCadInicio)
+        If extCadProceso Is Nothing Then Throw New Exception("No se pudo iniciar el formulario auxiliar.")
+        extCadProceso.WaitForExit()
+
+        If extCadProceso.ExitCode &lt;&gt; 0 OrElse Not File.Exists(extCadSalida) Then
+            Throw New Exception("El formulario auxiliar termino sin devolver una seleccion.")
+        End If
+
+        Dim extCadLineas() As String = File.ReadAllLines(extCadSalida)
+        If extCadLineas.Length = 0 OrElse extCadLineas(0) &lt;&gt; "OK" Then Return ""
+        If extCadLineas.Length &lt; 7 Then Throw New Exception("La respuesta del formulario esta incompleta.")
+
+        extCadVaciarSalida = (extCadLineas(2) = "1")
+        extCadAplicarColorSalida = (extCadLineas(3) = "1")
+        extCadRojoSalida = Integer.Parse(extCadLineas(4))
+        extCadVerdeSalida = Integer.Parse(extCadLineas(5))
+        extCadAzulSalida = Integer.Parse(extCadLineas(6))
+        If extCadRojoSalida &lt; 0 OrElse extCadRojoSalida &gt; 255 OrElse
+           extCadVerdeSalida &lt; 0 OrElse extCadVerdeSalida &gt; 255 OrElse
+           extCadAzulSalida &lt; 0 OrElse extCadAzulSalida &gt; 255 Then
+            Throw New Exception("Los valores RGB deben estar entre 0 y 255.")
+        End If
+        Return extCadLineas(1).Trim()
+    Catch extCadEx As Exception
+        MessageBox.Show("No se pudo obtener la configuracion: " &amp; extCadEx.Message,
+                        "Importacion DXF/DWG",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error)
+        Return ""
+    Finally
+        Try
+            If File.Exists(extCadEntrada) Then File.Delete(extCadEntrada)
+            If File.Exists(extCadSalida) Then File.Delete(extCadSalida)
+            If File.Exists(extCadHelper) Then File.Delete(extCadHelper)
+        Catch
+        End Try
+    End Try
+End Function
+
+Sub EstablecerOpcionCombinacion(ByVal raiz As Control,
+                                ByVal nombreControl As String,
+                                ByVal valor As Boolean)
+    If String.Equals(raiz.Name, nombreControl, StringComparison.OrdinalIgnoreCase) Then
+        Dim propiedadChecked As PropertyInfo =
+            raiz.GetType().GetProperty("Checked",
+                                       BindingFlags.Public Or BindingFlags.Instance)
+        If propiedadChecked IsNot Nothing AndAlso propiedadChecked.CanWrite Then
+            propiedadChecked.SetValue(raiz, valor, Nothing)
+        End If
+    End If
+
+    For Each controlHijo As Control In raiz.Controls
+        EstablecerOpcionCombinacion(controlHijo, nombreControl, valor)
+    Next
+End Sub
+
+Function BuscarControlPorNombre(ByVal raiz As Control,
+                                ByVal nombreControl As String) As Control
+    If String.Equals(raiz.Name, nombreControl, StringComparison.OrdinalIgnoreCase) Then
+        Return raiz
+    End If
+
+    For Each controlHijo As Control In raiz.Controls
+        Dim encontrado As Control = BuscarControlPorNombre(controlHijo, nombreControl)
+        If encontrado IsNot Nothing Then Return encontrado
+    Next
+
+    Return Nothing
+End Function
+
+Function BuscarControlPorTexto(ByVal raiz As Control,
+                               ByVal textoControl As String) As Control
+    If String.Equals(raiz.Text, textoControl, StringComparison.OrdinalIgnoreCase) Then
+        Return raiz
+    End If
+
+    For Each controlHijo As Control In raiz.Controls
+        Dim encontrado As Control = BuscarControlPorTexto(controlHijo, textoControl)
+        If encontrado IsNot Nothing Then Return encontrado
+    Next
+
+    Return Nothing
+End Function
+
+Sub EjecutarClickControl(ByVal controlObjetivo As Control)
+    If controlObjetivo Is Nothing Then Exit Sub
+
+    Dim metodoClick As MethodInfo = controlObjetivo.GetType().GetMethod(
+        "PerformClick", BindingFlags.Public Or BindingFlags.Instance)
+    If metodoClick IsNot Nothing Then metodoClick.Invoke(controlObjetivo, Nothing)
+End Sub
+
+Sub ResolverAvisoCombinacionDXF(ByVal sender As Object, ByVal e As EventArgs)
+    Try
+        For indice As Integer = System.Windows.Forms.Application.OpenForms.Count - 1 To 0 Step -1
+            Dim formulario As Form = System.Windows.Forms.Application.OpenForms(indice)
+            If formulario Is Nothing Then Continue For
+
+            Dim esSelectorCapas As Boolean =
+                String.Equals(formulario.GetType().Name,
+                              "fLayerSelection",
+                              StringComparison.OrdinalIgnoreCase) OrElse
+                formulario.Text.IndexOf("Layer Selection",
+                                        StringComparison.OrdinalIgnoreCase) &gt;= 0
+
+            If esSelectorCapas Then
+                ' Deswik 2025.2 puede ignorar PromptForLayers=False para DXF/DWG.
+                ' Se oculta el cuadro y se confirma la seleccion completa sin intervencion.
+                formulario.Opacity = 0
+
+                Dim botonTodas As Control = BuscarControlPorTexto(formulario, "Select all")
+                If botonTodas Is Nothing Then
+                    botonTodas = BuscarControlPorNombre(formulario, "bSelectAll")
+                End If
+                EjecutarClickControl(botonTodas)
+
+                Dim botonAceptarCapas As Control = BuscarControlPorTexto(formulario, "OK")
+                If botonAceptarCapas Is Nothing Then
+                    botonAceptarCapas = BuscarControlPorNombre(formulario, "bOK")
+                End If
+
+                If botonAceptarCapas IsNot Nothing Then
+                    EjecutarClickControl(botonAceptarCapas)
+                ElseIf formulario.AcceptButton IsNot Nothing Then
+                    formulario.AcceptButton.PerformClick()
+                Else
+                    formulario.DialogResult = DialogResult.OK
+                    formulario.Close()
+                End If
+                Exit Sub
+            End If
+
+            Dim esAvisoCombinacion As Boolean =
+                String.Equals(formulario.Name,
+                              "fImportDXFCombine",
+                              StringComparison.OrdinalIgnoreCase) OrElse
+                String.Equals(formulario.GetType().Name,
+                              "fImportDXFCombine",
+                              StringComparison.OrdinalIgnoreCase)
+
+            If esAvisoCombinacion Then
+                ' Estas son las opciones recomendadas por el propio cuadro de Deswik.
+                EstablecerOpcionCombinacion(formulario, "cCombine3DFaces", True)
+                EstablecerOpcionCombinacion(formulario, "cSeparatePolyfaces", False)
+                EstablecerOpcionCombinacion(formulario, "cCombinePoints", True)
+                EstablecerOpcionCombinacion(formulario, "cDoNotPrompt", True)
+
+                Dim temporizador As System.Windows.Forms.Timer = Nothing
+                If TypeOf sender Is System.Windows.Forms.Timer Then
+                    temporizador = sender
+                End If
+                If temporizador IsNot Nothing Then temporizador.Stop()
+
+                Dim botonAceptar As Control = BuscarControlPorNombre(formulario, "bOK")
+                Dim metodoClick As MethodInfo = Nothing
+                If botonAceptar IsNot Nothing Then
+                    metodoClick = botonAceptar.GetType().GetMethod(
+                        "PerformClick", BindingFlags.Public Or BindingFlags.Instance)
+                End If
+                If metodoClick IsNot Nothing Then
+                    metodoClick.Invoke(botonAceptar, Nothing)
+                ElseIf formulario.AcceptButton IsNot Nothing Then
+                    formulario.AcceptButton.PerformClick()
+                Else
+                    formulario.DialogResult = DialogResult.OK
+                    formulario.Close()
+                End If
+                Exit Sub
+            End If
+        Next
+    Catch
+        ' Si una version futura cambia este cuadro, la importacion queda disponible
+        ' para que el usuario pueda responderlo manualmente.
+    End Try
+End Sub
+
+Function CapaTieneGeometria(ByVal doc As Deswik.Graphics.Application,
+                            ByVal capa As Deswik.Graphics.Primaries.Layer) As Boolean
+    If capa Is Nothing OrElse capa.Deleted Then Return False
+    If capa.NonDeletedEntitiesCount(doc) &gt; 0 Then Return True
+
+    For Each descendiente As Deswik.Graphics.Primaries.Layer In capa.ChildrenGetAsLayerList()
+        If Not descendiente.Deleted AndAlso descendiente.NonDeletedEntitiesCount(doc) &gt; 0 Then
+            Return True
+        End If
+    Next
+
+    Return False
+End Function
+
+Function ObtenerOCrearCapa(ByVal doc As Deswik.Graphics.Application,
+                           ByVal nombreCapa As String) As Deswik.Graphics.Primaries.Layer
+    Dim capa As Deswik.Graphics.Primaries.Layer = doc.Layers.FindName(nombreCapa, True)
+    If capa IsNot Nothing AndAlso capa.Deleted Then capa.Deleted = False
+    If capa Is Nothing Then capa = doc.Layers.Add(nombreCapa)
+    Return capa
+End Function
+
+Sub LimpiarArbolDestino(ByVal doc As Deswik.Graphics.Application,
+                        ByVal capaRaiz As Deswik.Graphics.Primaries.Layer,
+                        ByRef entidadesEliminadas As Integer,
+                        ByRef capasEliminadas As Integer)
+    entidadesEliminadas = 0
+    capasEliminadas = 0
+    If capaRaiz Is Nothing OrElse capaRaiz.Deleted Then Exit Sub
+
+    doc.ActiveLayer = capaRaiz
+
+    Dim nombresDescendientes As New List(Of String)()
+    For Each nombreDescendiente As String In capaRaiz.GetChildrenChildFirst()
+        nombresDescendientes.Add(nombreDescendiente)
+        Dim capaDescendiente As Deswik.Graphics.Primaries.Layer =
+            doc.Layers.FindName(nombreDescendiente, True)
+        If capaDescendiente IsNot Nothing AndAlso Not capaDescendiente.Deleted Then
+            entidadesEliminadas = entidadesEliminadas +
+                                 capaDescendiente.NonDeletedEntitiesCount(doc)
+            capaDescendiente.DeleteAllEntities(
+                "Importacion multiple DXF/DWG - limpiar child layer destino")
+        End If
+    Next
+
+    entidadesEliminadas = entidadesEliminadas + capaRaiz.NonDeletedEntitiesCount(doc)
+    capaRaiz.DeleteAllEntities(
+        "Importacion multiple DXF/DWG - limpiar layer raiz destino")
+    doc.ModelSpace.Entities.Update()
+
+    For Each nombreCapaAEliminar As String In nombresDescendientes
+        Try
+            Dim capaAEliminar As Deswik.Graphics.Primaries.Layer =
+                doc.Layers.FindName(nombreCapaAEliminar, True)
+            If capaAEliminar IsNot Nothing AndAlso Not capaAEliminar.Deleted Then
+                If doc.Layers.Delete(nombreCapaAEliminar) Then
+                    capasEliminadas = capasEliminadas + 1
+                End If
+            End If
+        Catch
+            ' Una layer protegida se conserva, ya sin geometria.
+        End Try
+    Next
+End Sub
+
+Sub Main()
+    Dim etapa As String = "inicio"
+
+    Try
+        Dim doc As Deswik.Graphics.Application = CurrentDoc
+        If doc Is Nothing Then
+            MessageBox.Show("No hay un documento activo en Deswik.CAD.",
+                            "Importar topografia DXF/DWG",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Warning)
+            Exit Sub
+        End If
+
+        etapa = "seleccion de archivos DXF o DWG"
+        Dim navegador As New OpenFileDialog()
+        navegador.Title = "Seleccionar una o varias topografias DXF/DWG"
+        navegador.Filter = "Topografia CAD (*.dxf;*.dwg)|*.dxf;*.dwg|Archivo DXF (*.dxf)|*.dxf|Archivo DWG (*.dwg)|*.dwg|Todos los archivos (*.*)|*.*"
+        navegador.DefaultExt = "dxf"
+        navegador.AddExtension = True
+        navegador.CheckFileExists = True
+        navegador.CheckPathExists = True
+        navegador.Multiselect = True
+        navegador.RestoreDirectory = True
+
+        Dim carpetaTopografia As String = Path.Combine(
+            Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory),
+            "Nueva carpeta (2)")
+        If Directory.Exists(carpetaTopografia) Then
+            navegador.InitialDirectory = carpetaTopografia
+        End If
+
+        If navegador.ShowDialog() &lt;&gt; DialogResult.OK Then Exit Sub
+
+        Dim rutasCAD As New List(Of String)()
+        For Each rutaSeleccionada As String In navegador.FileNames
+            Dim extensionSeleccionada As String =
+                Path.GetExtension(rutaSeleccionada).ToLowerInvariant()
+            If extensionSeleccionada = ".dxf" OrElse extensionSeleccionada = ".dwg" Then
+                rutasCAD.Add(rutaSeleccionada)
+            End If
+        Next
+
+        If rutasCAD.Count = 0 Then
+            MessageBox.Show("Seleccione al menos un archivo con extension .dxf o .dwg.",
+                            "Formato no compatible",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Warning)
+            Exit Sub
+        End If
+
+        etapa = "configuracion del destino"
+        Dim vaciarDestino As Boolean = False
+        Dim aplicarColor As Boolean = True
+        Dim colorRojo As Integer = 128
+        Dim colorVerde As Integer = 128
+        Dim colorAzul As Integer = 128
+        Dim nombreDestino As String = ElegirCapaDestinoExterno(doc,
+                                                               rutasCAD.Count,
+                                                               vaciarDestino,
+                                                               aplicarColor,
+                                                               colorRojo,
+                                                               colorVerde,
+                                                               colorAzul)
+        If nombreDestino.Length = 0 Then Exit Sub
+
+        etapa = "creacion de la layer raiz destino"
+        Dim capaDestinoRaiz As Deswik.Graphics.Primaries.Layer =
+            ObtenerOCrearCapa(doc, nombreDestino)
+        If capaDestinoRaiz Is Nothing Then
+            Throw New Exception("No se pudo crear o recuperar la layer destino '" &amp;
+                                nombreDestino &amp; "'.")
+        End If
+        capaDestinoRaiz.Expanded = True
+        doc.ActiveLayer = capaDestinoRaiz
+
+        Dim colorElegido As New Deswik.Graphics.Objects.Color(
+            System.Drawing.Color.FromArgb(colorRojo, colorVerde, colorAzul), False)
+
+        If aplicarColor Then
+            capaDestinoRaiz.PenColor = New Deswik.Graphics.Objects.Color(colorElegido)
+        End If
+
+        Dim entidadesPreviasEliminadas As Integer = 0
+        Dim capasPreviasEliminadas As Integer = 0
+        If vaciarDestino Then
+            etapa = "limpieza recursiva de la layer destino"
+            LimpiarArbolDestino(doc,
+                                capaDestinoRaiz,
+                                entidadesPreviasEliminadas,
+                                capasPreviasEliminadas)
+        End If
+
+        Dim archivosCorrectos As Integer = 0
+        Dim totalEntidades As Integer = 0
+        Dim totalChildLayers As Integer = 0
+        Dim totalLayersVaciasEliminadas As Integer = 0
+        Dim detallesArchivos As New List(Of String)()
+        Dim erroresArchivos As New List(Of String)()
+        Dim nombresPadreDelLote As New HashSet(Of String)(StringComparer.OrdinalIgnoreCase)
+
+        For Each rutaCAD As String In rutasCAD
+            Dim entidadesAnteriores As New HashSet(Of String)(StringComparer.OrdinalIgnoreCase)
+            Dim capasAnteriores As New HashSet(Of String)(StringComparer.OrdinalIgnoreCase)
+            Dim snapshotPreparado As Boolean = False
+
+            Try
+                Dim nombreArchivoCapa As String = Path.GetFileNameWithoutExtension(rutaCAD)
+                If nombresPadreDelLote.Contains(nombreArchivoCapa) Then
+                    nombreArchivoCapa = nombreArchivoCapa &amp; "_" &amp;
+                                        Path.GetExtension(rutaCAD).TrimStart("."c).ToUpperInvariant()
+                End If
+                Dim nombreBaseUnico As String = nombreArchivoCapa
+                Dim indiceRepetido As Integer = 2
+                While nombresPadreDelLote.Contains(nombreArchivoCapa)
+                    nombreArchivoCapa = nombreBaseUnico &amp; "_" &amp; indiceRepetido.ToString()
+                    indiceRepetido = indiceRepetido + 1
+                End While
+                nombresPadreDelLote.Add(nombreArchivoCapa)
+
+                etapa = "creacion de layer para " &amp; Path.GetFileName(rutaCAD)
+                Dim nombrePadreCompleto As String = nombreDestino &amp; "\" &amp; nombreArchivoCapa
+                Dim capaPadreExistente As Deswik.Graphics.Primaries.Layer =
+                    doc.Layers.FindName(nombrePadreCompleto, True)
+                Dim capaPadreCreada As Boolean =
+                    capaPadreExistente Is Nothing OrElse capaPadreExistente.Deleted
+                Dim capaPadre As Deswik.Graphics.Primaries.Layer =
+                    ObtenerOCrearCapa(doc, nombrePadreCompleto)
+                If capaPadre Is Nothing Then
+                    Throw New Exception("No se pudo crear la layer padre '" &amp;
+                                        nombrePadreCompleto &amp; "'.")
+                End If
+                If aplicarColor Then
+                    capaPadre.PenColor = New Deswik.Graphics.Objects.Color(colorElegido)
+                End If
+                capaPadre.Expanded = True
+                doc.ActiveLayer = capaPadre
+
+                For Each figuraAntes As Deswik.Graphics.Primaries.Figure In doc.ModelSpace.Entities
+                    entidadesAnteriores.Add(figuraAntes.GUID)
+                Next
+                For Each capaAntes As Deswik.Graphics.Primaries.Layer In doc.Layers
+                    If Not capaAntes.Deleted Then capasAnteriores.Add(capaAntes.GUID)
+                Next
+                snapshotPreparado = True
+
+                etapa = "importacion nativa de " &amp; Path.GetFileName(rutaCAD)
+                Dim archivos() As String = {rutaCAD}
+                Dim opcionesImportacion As New Deswik.Graphics.Settings.ImportFilesSettings()
+                opcionesImportacion.Files = archivos
+                opcionesImportacion.IsReload = False
+                opcionesImportacion.DoPaint = False
+                opcionesImportacion.UseDefaultLoader = True
+                opcionesImportacion.BuildAttributes = False
+                opcionesImportacion.IncludeFileNameInParentLayer = False
+                opcionesImportacion.ImportAsExternalReference = False
+                opcionesImportacion.ShowMessage = False
+                opcionesImportacion.SelectLayers = False
+                opcionesImportacion.CollapseToParent = False
+
+                Dim configuracionDXF As Deswik.Graphics.Application.ImportCADSettings =
+                    doc.ImportCadSettings
+                Dim preguntarCombinacionAnterior As Boolean = configuracionDXF.PromptMerge
+                Dim combinarCarasAnterior As Boolean = configuracionDXF.Merge3DFaces
+                Dim separarPolifacesAnterior As Boolean = configuracionDXF.SeparateMergedPolyfaces
+                Dim combinarPuntosAnterior As Boolean = configuracionDXF.MergePoints
+                Dim cerradorAviso As New System.Windows.Forms.Timer()
+                cerradorAviso.Interval = 1
+                AddHandler cerradorAviso.Tick, AddressOf ResolverAvisoCombinacionDXF
+
+                Try
+                    configuracionDXF.PromptMerge = False
+                    configuracionDXF.Merge3DFaces = True
+                    configuracionDXF.SeparateMergedPolyfaces = False
+                    configuracionDXF.MergePoints = True
+                    cerradorAviso.Start()
+                    doc.ImportFiles(opcionesImportacion)
+                Finally
+                    cerradorAviso.Stop()
+                    RemoveHandler cerradorAviso.Tick, AddressOf ResolverAvisoCombinacionDXF
+                    cerradorAviso.Dispose()
+
+                    configuracionDXF.PromptMerge = preguntarCombinacionAnterior
+                    configuracionDXF.Merge3DFaces = combinarCarasAnterior
+                    configuracionDXF.SeparateMergedPolyfaces = separarPolifacesAnterior
+                    configuracionDXF.MergePoints = combinarPuntosAnterior
+                End Try
+
+                etapa = "organizacion de layers de " &amp; Path.GetFileName(rutaCAD)
+                Dim capasOriginalesImportadas As New List(Of String)()
+                For Each capaOriginal As Deswik.Graphics.Primaries.Layer In doc.Layers
+                    If Not capaOriginal.Deleted AndAlso
+                       Not capasAnteriores.Contains(capaOriginal.GUID) Then
+                        capasOriginalesImportadas.Add(capaOriginal.Name)
+                    End If
+                Next
+
+                Dim capasDestinoArchivo As New HashSet(Of String)(StringComparer.OrdinalIgnoreCase)
+                Dim cantidadImportada As Integer = 0
+                For Each figura As Deswik.Graphics.Primaries.Figure In doc.ModelSpace.Entities
+                    If Not entidadesAnteriores.Contains(figura.GUID) Then
+                        Dim capaOrigen As Deswik.Graphics.Primaries.Layer = figura.Layer
+                        Dim nombreLayerCAD As String = "0"
+                        If capaOrigen IsNot Nothing Then
+                            nombreLayerCAD = capaOrigen.NameLast.Trim()
+                            If nombreLayerCAD.Length = 0 Then nombreLayerCAD = "0"
+                        End If
+
+                        Dim nombreLayerHija As String = nombrePadreCompleto &amp; "\" &amp; nombreLayerCAD
+                        Dim layerHija As Deswik.Graphics.Primaries.Layer =
+                            ObtenerOCrearCapa(doc, nombreLayerHija)
+                        If layerHija Is Nothing Then
+                            Throw New Exception("No se pudo crear la child layer '" &amp;
+                                                nombreLayerHija &amp; "'.")
+                        End If
+
+                        If aplicarColor Then
+                            layerHija.PenColor = New Deswik.Graphics.Objects.Color(colorElegido)
+                            figura.PenColor = New Deswik.Graphics.Objects.Color(colorElegido)
+                        ElseIf capaOrigen IsNot Nothing Then
+                            layerHija.PenColor =
+                                New Deswik.Graphics.Objects.Color(capaOrigen.PenColor)
+                        End If
+
+                        figura.Layer = layerHija
+                        capasDestinoArchivo.Add(layerHija.Name)
+                        cantidadImportada = cantidadImportada + 1
+                    End If
+                Next
+
+                If cantidadImportada = 0 Then
+                    If capaPadreCreada AndAlso Not CapaTieneGeometria(doc, capaPadre) Then
+                        doc.Layers.Delete(capaPadre.Name)
+                    End If
+                    Throw New Exception(
+                        "Deswik no genero entidades nuevas en Model Space; revise referencias externas.")
+                End If
+
+                etapa = "eliminacion de layers vacias de " &amp; Path.GetFileName(rutaCAD)
+                doc.ModelSpace.Entities.Update()
+                Dim capasEliminadasArchivo As Integer = 0
+                Dim huboEliminacion As Boolean = True
+                While huboEliminacion
+                    huboEliminacion = False
+                    For Each candidata As String In capasOriginalesImportadas
+                        Try
+                            Dim capaVacia As Deswik.Graphics.Primaries.Layer =
+                                doc.Layers.FindName(candidata, True)
+                            If capaVacia IsNot Nothing AndAlso Not capaVacia.Deleted AndAlso
+                               Not capasDestinoArchivo.Contains(capaVacia.Name) AndAlso
+                               Not CapaTieneGeometria(doc, capaVacia) Then
+                                If doc.Layers.Delete(candidata) Then
+                                    capasEliminadasArchivo = capasEliminadasArchivo + 1
+                                    huboEliminacion = True
+                                End If
+                            End If
+                        Catch
+                            ' Una layer referenciada o protegida se conserva.
+                        End Try
+                    Next
+                End While
+
+                archivosCorrectos = archivosCorrectos + 1
+                totalEntidades = totalEntidades + cantidadImportada
+                totalChildLayers = totalChildLayers + capasDestinoArchivo.Count
+                totalLayersVaciasEliminadas =
+                    totalLayersVaciasEliminadas + capasEliminadasArchivo
+                detallesArchivos.Add(Path.GetFileName(rutaCAD) &amp; ": " &amp;
+                                     cantidadImportada.ToString() &amp; " entidades, " &amp;
+                                     capasDestinoArchivo.Count.ToString() &amp; " child layers")
+            Catch exArchivo As Exception
+                If snapshotPreparado Then
+                    For Each figuraNueva As Deswik.Graphics.Primaries.Figure In doc.ModelSpace.Entities
+                        If Not entidadesAnteriores.Contains(figuraNueva.GUID) Then
+                            figuraNueva.Deleted = True
+                        End If
+                    Next
+                    doc.ModelSpace.Entities.Update()
+
+                    Dim capasNuevasError As New List(Of String)()
+                    For Each capaNuevaError As Deswik.Graphics.Primaries.Layer In doc.Layers
+                        If Not capaNuevaError.Deleted AndAlso
+                           Not capasAnteriores.Contains(capaNuevaError.GUID) Then
+                            capasNuevasError.Add(capaNuevaError.Name)
+                        End If
+                    Next
+                    Dim eliminacionErrorPendiente As Boolean = True
+                    While eliminacionErrorPendiente
+                        eliminacionErrorPendiente = False
+                        For Each nombreCapaError As String In capasNuevasError
+                            Try
+                                Dim capaError As Deswik.Graphics.Primaries.Layer =
+                                    doc.Layers.FindName(nombreCapaError, True)
+                                If capaError IsNot Nothing AndAlso Not capaError.Deleted AndAlso
+                                   Not CapaTieneGeometria(doc, capaError) Then
+                                    If doc.Layers.Delete(nombreCapaError) Then
+                                        eliminacionErrorPendiente = True
+                                    End If
+                                End If
+                            Catch
+                            End Try
+                        Next
+                    End While
+                End If
+
+                erroresArchivos.Add(Path.GetFileName(rutaCAD) &amp; ": " &amp; exArchivo.Message)
+            End Try
+        Next
+
+        etapa = "actualizacion de la vista"
+        doc.ActiveLayer = capaDestinoRaiz
+        doc.ModelSpace.Entities.Update()
+        doc.OnLayersRefresh()
+        doc.Redraw(True, True)
+        If archivosCorrectos &gt; 0 Then doc.ZoomExtents()
+
+        Dim resumen As String = "Importacion multiple finalizada." &amp;
+                                vbCrLf &amp; vbCrLf &amp;
+                                "Layer raiz: " &amp; capaDestinoRaiz.Name &amp;
+                                vbCrLf &amp;
+                                "Archivos seleccionados: " &amp; rutasCAD.Count.ToString() &amp;
+                                vbCrLf &amp;
+                                "Archivos importados: " &amp; archivosCorrectos.ToString() &amp;
+                                vbCrLf &amp;
+                                "Entidades importadas: " &amp; totalEntidades.ToString() &amp;
+                                vbCrLf &amp;
+                                "Child layers con elementos: " &amp; totalChildLayers.ToString() &amp;
+                                vbCrLf &amp;
+                                "Layers vacias eliminadas: " &amp;
+                                totalLayersVaciasEliminadas.ToString()
+
+        If vaciarDestino Then
+            resumen = resumen &amp; vbCrLf &amp;
+                      "Limpieza previa: " &amp; entidadesPreviasEliminadas.ToString() &amp;
+                      " entidades y " &amp; capasPreviasEliminadas.ToString() &amp; " child layers"
+        Else
+            resumen = resumen &amp; vbCrLf &amp; "Limpieza previa: no"
+        End If
+
+        If aplicarColor Then
+            resumen = resumen &amp; vbCrLf &amp; "Color aplicado: RGB (" &amp;
+                      colorRojo.ToString() &amp; ", " &amp;
+                      colorVerde.ToString() &amp; ", " &amp;
+                      colorAzul.ToString() &amp; ")"
+        Else
+            resumen = resumen &amp; vbCrLf &amp; "Color: se conservaron los colores originales"
+        End If
+
+        If detallesArchivos.Count &gt; 0 Then
+            resumen = resumen &amp; vbCrLf &amp; vbCrLf &amp; "Detalle:" &amp; vbCrLf &amp;
+                      String.Join(vbCrLf, detallesArchivos.ToArray())
+        End If
+        If erroresArchivos.Count &gt; 0 Then
+            resumen = resumen &amp; vbCrLf &amp; vbCrLf &amp; "No importados:" &amp; vbCrLf &amp;
+                      String.Join(vbCrLf, erroresArchivos.ToArray())
+        End If
+
+        Dim iconoResumen As MessageBoxIcon = MessageBoxIcon.Information
+        If erroresArchivos.Count &gt; 0 Then iconoResumen = MessageBoxIcon.Warning
+        MessageBox.Show(resumen,
+                        "Importar topografia DXF/DWG",
+                        MessageBoxButtons.OK,
+                        iconoResumen)
+    Catch ex As Exception
+        MessageBox.Show("No se pudo completar la importacion." &amp;
+                        vbCrLf &amp; vbCrLf &amp;
+                        "Etapa: " &amp; etapa &amp;
+                        vbCrLf &amp;
+                        "Detalle: " &amp; ex.Message,
+                        "Importar topografia DXF/DWG",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error)
+    End Try
+End Sub
+**||**Use=True**||**Description=Importación múltiple de archivos AutoCAD DXF/DWG**||**ToolTip=Selecciona varios DXF/DWG, define la parent layer, limpieza previa y color RGB.**||**LastTab=1**||**Hidden=False**||**AllowViewing=True**||**SplitterPosition=280</Tag><_visible>True</_visible><LayersMask>1</LayersMask><LayersMaskNew>False:1</LayersMaskNew><_fillColour><A>255</A><R>177</R><G>177</G><B>177</B></_fillColour><_fillColour2><A>0</A><R>0</R><G>0</G><B>0</B></_fillColour2><_outlineColour><A>255</A><R>177</R><G>177</G><B>177</B></_outlineColour><_textColour><A>255</A><R>0</R><G>0</G><B>0</B></_textColour><_titleColour><A>255</A><R>0</R><G>0</G><B>0</B></_titleColour><_title></_title><_fill>Solid</_fill><_penWidth>3</_penWidth><_image>-1</_image><DragHandles><DH><UniqueId>0</UniqueId><location><X>120</X><Y>220</Y></location></DH><DH><UniqueId>1</UniqueId><location><X>679.99994</X><Y>220</Y></location></DH><DH><UniqueId>2</UniqueId><location><X>679.99994</X><Y>301.99997</Y></location></DH><DH><UniqueId>3</UniqueId><location><X>120</X><Y>301.99997</Y></location></DH><DH><UniqueId>4</UniqueId><location><X>399.99997</X><Y>203.59999</Y></location></DH></DragHandles><_text>1  IMPORTAR DXF / DWG
+Carga múltiple, parent layer, RGB y eliminación de layers vacías</_text><Alpha>255</Alpha><TableTextCount>0</TableTextCount><TFormat><FontName>Microsoft Sans Serif</FontName><Size>14</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TFormat><TitleFormat><FontName>Microsoft Sans Serif</FontName><Size>14</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TitleFormat><_rotation>0</_rotation><_scale><X>560</X><Y>82</Y></_scale><_translation><X>120</X><Y>220</Y></_translation></node><node><__type>Deswik.Diagram.Nodes.Shapes.RoundedRectangle</__type><DiagramGuid>77f2a3dd-2add-4831-8d04-0cf8d19b8293</DiagramGuid><Name></Name><Tag persistData="3">EmbeddedMacro:'#Reference #Deswik.Common, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.dll
+'#Reference @Deswik.Common, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.dll
+'#Reference #Deswik.Common.Controls, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Controls.dll
+'#Reference @Deswik.Common.Controls, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Controls.dll
+'#Reference #Deswik.Common.Core, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Core.dll
+'#Reference @Deswik.Common.Core, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Core.dll
+'#Reference #System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+'#Reference #Deswik.Common.Utilities, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Utilities.dll
+'#Reference @Deswik.Common.Utilities, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Utilities.dll
+'#Reference #Deswik.Common.Dialogs, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Dialogs.dll
+'#Reference @Deswik.Common.Dialogs, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Dialogs.dll
+'#Reference #System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference @System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference #System.Drawing.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference @System.Drawing.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference @System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+'#Language "WWB.NET"
+
+Imports System
+Imports System.IO
+Imports System.Text
+Imports System.Collections.Generic
+Imports System.Windows.Forms
+
+Function EsLayerLimpiezaSeleccionable(
+        ByVal capa As Deswik.Graphics.Primaries.Layer) As Boolean
+    If capa Is Nothing OrElse capa.Deleted Then Return False
+
+    Dim nombre As String = capa.Name.Trim()
+    If nombre.Length = 0 Then Return False
+
+    Dim partes() As String = nombre.Split(New Char() {"\"c})
+    Dim raiz As String = partes(0)
+
+    If String.Equals(raiz,
+                     "_DWG_HIDDEN_GRAPHICS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(raiz,
+                     "_DW_HIDDEN_GRAPHICS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(raiz,
+                     "DWG_SETTINGS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(raiz,
+                     "_DW_SETTINGS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If raiz.StartsWith("_DWG_", StringComparison.OrdinalIgnoreCase) Then Return False
+    If raiz.StartsWith("_DW_", StringComparison.OrdinalIgnoreCase) Then Return False
+
+    Return True
+End Function
+
+Function CrearHelperTemporalLimpiezaAura() As String
+    Dim auraCleanHelperRuta As String = Path.Combine(
+        Path.GetTempPath(), "aura_limpieza_cad_" &amp; Guid.NewGuid().ToString("N") &amp; ".ps1")
+    Dim auraCleanHelperBase64 As String = _
+        "cGFyYW0oCiAgICBbUGFyYW1ldGVyKE1hbmRhdG9yeSA9ICR0cnVlKV1bc3RyaW5nXSRJbnB1dFBhdGgsCiAgICBbUGFyYW1ldGVyKE1hbmRhdG9yeSA9ICR0" &amp; _
+        "cnVlKV1bc3RyaW5nXSRPdXRwdXRQYXRoCikKCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAnU3RvcCcKQWRkLVR5cGUgLUFzc2VtYmx5TmFtZSBTeXN0ZW0u" &amp; _
+        "V2luZG93cy5Gb3JtcwpBZGQtVHlwZSAtQXNzZW1ibHlOYW1lIFN5c3RlbS5EcmF3aW5nCgpmdW5jdGlvbiBUZXN0LUludGVybmFsTGF5ZXJOYW1lIHsKICAg" &amp; _
+        "IHBhcmFtKFtzdHJpbmddJExheWVyTmFtZSkKCiAgICBpZiAoW3N0cmluZ106OklzTnVsbE9yV2hpdGVTcGFjZSgkTGF5ZXJOYW1lKSkgeyByZXR1cm4gJHRy" &amp; _
+        "dWUgfQogICAgJHJvb3ROYW1lID0gKCRMYXllck5hbWUuVHJpbSgpIC1zcGxpdCAnXFwnLCAyKVswXQogICAgcmV0dXJuICRyb290TmFtZS5FcXVhbHMoJ19E" &amp; _
+        "V0dfSElEREVOX0dSQVBISUNTJywgW1N5c3RlbS5TdHJpbmdDb21wYXJpc29uXTo6T3JkaW5hbElnbm9yZUNhc2UpIC1vcgogICAgICAgICAgICRyb290TmFt" &amp; _
+        "ZS5FcXVhbHMoJ19EV19ISURERU5fR1JBUEhJQ1MnLCBbU3lzdGVtLlN0cmluZ0NvbXBhcmlzb25dOjpPcmRpbmFsSWdub3JlQ2FzZSkgLW9yCiAgICAgICAg" &amp; _
+        "ICAgJHJvb3ROYW1lLkVxdWFscygnRFdHX1NFVFRJTkdTJywgW1N5c3RlbS5TdHJpbmdDb21wYXJpc29uXTo6T3JkaW5hbElnbm9yZUNhc2UpIC1vcgogICAg" &amp; _
+        "ICAgICAgICRyb290TmFtZS5FcXVhbHMoJ19EV19TRVRUSU5HUycsIFtTeXN0ZW0uU3RyaW5nQ29tcGFyaXNvbl06Ok9yZGluYWxJZ25vcmVDYXNlKSAtb3IK" &amp; _
+        "ICAgICAgICAgICAkcm9vdE5hbWUuU3RhcnRzV2l0aCgnX0RXR18nLCBbU3lzdGVtLlN0cmluZ0NvbXBhcmlzb25dOjpPcmRpbmFsSWdub3JlQ2FzZSkgLW9y" &amp; _
+        "CiAgICAgICAgICAgJHJvb3ROYW1lLlN0YXJ0c1dpdGgoJ19EV18nLCBbU3lzdGVtLlN0cmluZ0NvbXBhcmlzb25dOjpPcmRpbmFsSWdub3JlQ2FzZSkKfQoK" &amp; _
+        "ZnVuY3Rpb24gTmV3LUxheWVyQml0bWFwIHsKICAgIHBhcmFtKAogICAgICAgIFtTeXN0ZW0uRHJhd2luZy5Db2xvcl0kQ29sb3IsCiAgICAgICAgW2ludF0k" &amp; _
+        "TGF5ZXJDb3VudAogICAgKQoKICAgICRiaXRtYXAgPSBbU3lzdGVtLkRyYXdpbmcuQml0bWFwXTo6bmV3KDE2LCAxNikKICAgICRncmFwaGljcyA9IFtTeXN0" &amp; _
+        "ZW0uRHJhd2luZy5HcmFwaGljc106OkZyb21JbWFnZSgkYml0bWFwKQogICAgJGdyYXBoaWNzLlNtb290aGluZ01vZGUgPSBbU3lzdGVtLkRyYXdpbmcuRHJh" &amp; _
+        "d2luZzJELlNtb290aGluZ01vZGVdOjpBbnRpQWxpYXMKICAgICRicnVzaCA9IFtTeXN0ZW0uRHJhd2luZy5Tb2xpZEJydXNoXTo6bmV3KCRDb2xvcikKICAg" &amp; _
+        "ICRib3JkZXJDb2xvciA9IFtTeXN0ZW0uRHJhd2luZy5Db2xvcl06OkZyb21BcmdiKAogICAgICAgIFtNYXRoXTo6TWF4KDAsICRDb2xvci5SIC0gNDUpLAog" &amp; _
+        "ICAgICAgIFtNYXRoXTo6TWF4KDAsICRDb2xvci5HIC0gNDUpLAogICAgICAgIFtNYXRoXTo6TWF4KDAsICRDb2xvci5CIC0gNDUpKQogICAgJHBlbiA9IFtT" &amp; _
+        "eXN0ZW0uRHJhd2luZy5QZW5dOjpuZXcoJGJvcmRlckNvbG9yLCAxKQoKICAgIHRyeSB7CiAgICAgICAgZm9yICgkaW5kZXggPSAkTGF5ZXJDb3VudCAtIDE7" &amp; _
+        "ICRpbmRleCAtZ2UgMDsgJGluZGV4LS0pIHsKICAgICAgICAgICAgJG9mZnNldCA9ICRpbmRleCAqIDIKICAgICAgICAgICAgJHBvaW50cyA9IFtTeXN0ZW0u" &amp; _
+        "RHJhd2luZy5Qb2ludFtdXUAoCiAgICAgICAgICAgICAgICBbU3lzdGVtLkRyYXdpbmcuUG9pbnRdOjpuZXcoMiwgMyArICRvZmZzZXQpLAogICAgICAgICAg" &amp; _
+        "ICAgICAgW1N5c3RlbS5EcmF3aW5nLlBvaW50XTo6bmV3KDgsIDEgKyAkb2Zmc2V0KSwKICAgICAgICAgICAgICAgIFtTeXN0ZW0uRHJhd2luZy5Qb2ludF06" &amp; _
+        "Om5ldygxNCwgNCArICRvZmZzZXQpLAogICAgICAgICAgICAgICAgW1N5c3RlbS5EcmF3aW5nLlBvaW50XTo6bmV3KDgsIDcgKyAkb2Zmc2V0KQogICAgICAg" &amp; _
+        "ICAgICApCiAgICAgICAgICAgICRncmFwaGljcy5GaWxsUG9seWdvbigkYnJ1c2gsICRwb2ludHMpCiAgICAgICAgICAgICRncmFwaGljcy5EcmF3UG9seWdv" &amp; _
+        "bigkcGVuLCAkcG9pbnRzKQogICAgICAgIH0KICAgIH0KICAgIGZpbmFsbHkgewogICAgICAgICRwZW4uRGlzcG9zZSgpCiAgICAgICAgJGJydXNoLkRpc3Bv" &amp; _
+        "c2UoKQogICAgICAgICRncmFwaGljcy5EaXNwb3NlKCkKICAgIH0KCiAgICByZXR1cm4gJGJpdG1hcAp9CgokbGluZXMgPSBbU3lzdGVtLklPLkZpbGVdOjpS" &amp; _
+        "ZWFkQWxsTGluZXMoJElucHV0UGF0aCkKJGFjdGl2ZUxheWVyID0gaWYgKCRsaW5lcy5Db3VudCAtZ3QgMCAtYW5kICRsaW5lc1swXSkgeyAkbGluZXNbMF0u" &amp; _
+        "VHJpbSgpIH0gZWxzZSB7ICcnIH0KJHJhd0xheWVycyA9IGlmICgkbGluZXMuQ291bnQgLWd0IDEpIHsgJGxpbmVzWzEuLigkbGluZXMuQ291bnQgLSAxKV0g" &amp; _
+        "fSBlbHNlIHsgQCgpIH0KJGF2YWlsYWJsZUxheWVycyA9IEAoCiAgICAkcmF3TGF5ZXJzIHwKICAgICAgICBGb3JFYWNoLU9iamVjdCB7ICRfLlRyaW0oKSB9" &amp; _
+        "IHwKICAgICAgICBXaGVyZS1PYmplY3QgeyAtbm90IChUZXN0LUludGVybmFsTGF5ZXJOYW1lICRfKSB9IHwKICAgICAgICBTb3J0LU9iamVjdCAtVW5pcXVl" &amp; _
+        "CikKCmlmICgkYXZhaWxhYmxlTGF5ZXJzLkNvdW50IC1lcSAwKSB7CiAgICBbU3lzdGVtLklPLkZpbGVdOjpXcml0ZUFsbExpbmVzKCRPdXRwdXRQYXRoLCBA" &amp; _
+        "KCdFUlJPUicsICdObyBoYXkgbGF5ZXJzIHNlbGVjY2lvbmFibGVzIGVuIGVsIGRvY3VtZW50by4nKSkKICAgIGV4aXQgMAp9CmlmIChUZXN0LUludGVybmFs" &amp; _
+        "TGF5ZXJOYW1lICRhY3RpdmVMYXllciAtb3IgJGFjdGl2ZUxheWVyIC1ub3RpbiAkYXZhaWxhYmxlTGF5ZXJzKSB7CiAgICAkYWN0aXZlTGF5ZXIgPSAkYXZh" &amp; _
+        "aWxhYmxlTGF5ZXJzWzBdCn0KCiRmb3JtID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5Gb3JtCiRmb3JtLlRleHQgPSAnTGltcGlhciBlbnRp" &amp; _
+        "ZGFkZXMgcG9yIGxheWVyJwokZm9ybS5TdGFydFBvc2l0aW9uID0gJ0NlbnRlclNjcmVlbicKJGZvcm0uRm9ybUJvcmRlclN0eWxlID0gJ0ZpeGVkRGlhbG9n" &amp; _
+        "JwokZm9ybS5NaW5pbWl6ZUJveCA9ICRmYWxzZQokZm9ybS5NYXhpbWl6ZUJveCA9ICRmYWxzZQokZm9ybS5Ub3BNb3N0ID0gJHRydWUKJGZvcm0uQ2xpZW50" &amp; _
+        "U2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg2NTAsIDcyMCkKCiR0aXRsZSA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMu" &amp; _
+        "TGFiZWwKJHRpdGxlLlRleHQgPSAnU2VsZWNjaW9uYSB1bmEgcGFyZW50IGxheWVyIGV4aXN0ZW50ZTonCiR0aXRsZS5BdXRvU2l6ZSA9ICR0cnVlCiR0aXRs" &amp; _
+        "ZS5Gb250ID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Gb250KCR0aXRsZS5Gb250LCBbU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlXTo6Qm9sZCkKJHRp" &amp; _
+        "dGxlLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgxOCwgMTgpCgokd2FybmluZyA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRv" &amp; _
+        "d3MuRm9ybXMuTGFiZWwKJHdhcm5pbmcuVGV4dCA9ICdMYSBsaW1waWV6YSBhZmVjdGFyYSBsYSBsYXllciBzZWxlY2Npb25hZGEgeSB0b2RhcyBzdXMgY2hp" &amp; _
+        "bGQgbGF5ZXJzLicKJHdhcm5pbmcuQXV0b1NpemUgPSAkdHJ1ZQokd2FybmluZy5Gb3JlQ29sb3IgPSBbU3lzdGVtLkRyYXdpbmcuQ29sb3JdOjpGcm9tQXJn" &amp; _
+        "YigxODAsIDc1LCAzMCkKJHdhcm5pbmcuTG9jYXRpb24gPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDE4LCA0NykKCiR0cmVlTGFiZWwgPSBO" &amp; _
+        "ZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkxhYmVsCiR0cmVlTGFiZWwuVGV4dCA9ICdBcmJvbCBkZSBsYXllcnMgZGVsIGRvY3VtZW50bzonCiR0" &amp; _
+        "cmVlTGFiZWwuQXV0b1NpemUgPSAkdHJ1ZQokdHJlZUxhYmVsLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgxOCwgODEpCgok" &amp; _
+        "ZXhwYW5kQnV0dG9uID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5CdXR0b24KJGV4cGFuZEJ1dHRvbi5UZXh0ID0gJ0V4cGFuZGlyJwokZXhw" &amp; _
+        "YW5kQnV0dG9uLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCg0NTgsIDc0KQokZXhwYW5kQnV0dG9uLlNpemUgPSBOZXctT2Jq" &amp; _
+        "ZWN0IFN5c3RlbS5EcmF3aW5nLlNpemUoODIsIDI1KQokZXhwYW5kQnV0dG9uLlRhYlN0b3AgPSAkZmFsc2UKCiRjb2xsYXBzZUJ1dHRvbiA9IE5ldy1PYmpl" &amp; _
+        "Y3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuQnV0dG9uCiRjb2xsYXBzZUJ1dHRvbi5UZXh0ID0gJ0NvbnRyYWVyJwokY29sbGFwc2VCdXR0b24uTG9jYXRpb24g" &amp; _
+        "PSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDU1MCwgNzQpCiRjb2xsYXBzZUJ1dHRvbi5TaXplID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2lu" &amp; _
+        "Zy5TaXplKDgyLCAyNSkKJGNvbGxhcHNlQnV0dG9uLlRhYlN0b3AgPSAkZmFsc2UKCiRsYXllckltYWdlcyA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3Mu" &amp; _
+        "Rm9ybXMuSW1hZ2VMaXN0CiRsYXllckltYWdlcy5JbWFnZVNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlNpemUoMTYsIDE2KQokbGF5ZXJJbWFn" &amp; _
+        "ZXMuQ29sb3JEZXB0aCA9IFtTeXN0ZW0uV2luZG93cy5Gb3Jtcy5Db2xvckRlcHRoXTo6RGVwdGgzMkJpdAokcGFyZW50Qml0bWFwID0gTmV3LUxheWVyQml0" &amp; _
+        "bWFwIChbU3lzdGVtLkRyYXdpbmcuQ29sb3JdOjpGcm9tQXJnYig0NywgMTIwLCAxNzApKSAzCiRjaGlsZEJpdG1hcCA9IE5ldy1MYXllckJpdG1hcCAoW1N5" &amp; _
+        "c3RlbS5EcmF3aW5nLkNvbG9yXTo6RnJvbUFyZ2IoNzksIDE1NywgMjA3KSkgMQpbdm9pZF0kbGF5ZXJJbWFnZXMuSW1hZ2VzLkFkZCgncGFyZW50JywgJHBh" &amp; _
+        "cmVudEJpdG1hcCkKW3ZvaWRdJGxheWVySW1hZ2VzLkltYWdlcy5BZGQoJ2xheWVyJywgJGNoaWxkQml0bWFwKQoKJGxheWVyVHJlZSA9IE5ldy1PYmplY3Qg" &amp; _
+        "U3lzdGVtLldpbmRvd3MuRm9ybXMuVHJlZVZpZXcKJGxheWVyVHJlZS5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoMTgsIDEw" &amp; _
+        "NikKJGxheWVyVHJlZS5TaXplID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5TaXplKDYxNCwgMjUwKQokbGF5ZXJUcmVlLkhpZGVTZWxlY3Rpb24gPSAk" &amp; _
+        "ZmFsc2UKJGxheWVyVHJlZS5GdWxsUm93U2VsZWN0ID0gJHRydWUKJGxheWVyVHJlZS5TaG93TGluZXMgPSAkdHJ1ZQokbGF5ZXJUcmVlLlNob3dQbHVzTWlu" &amp; _
+        "dXMgPSAkdHJ1ZQokbGF5ZXJUcmVlLlNob3dSb290TGluZXMgPSAkdHJ1ZQokbGF5ZXJUcmVlLlBhdGhTZXBhcmF0b3IgPSAnXCcKJGxheWVyVHJlZS5JbWFn" &amp; _
+        "ZUxpc3QgPSAkbGF5ZXJJbWFnZXMKJGxheWVyVHJlZS5UYWJJbmRleCA9IDAKCiRub2RlTWFwID0gQHt9CiRzb3J0ZWRMYXllcnMgPSAkYXZhaWxhYmxlTGF5" &amp; _
+        "ZXJzIHwgU29ydC1PYmplY3QgYAogICAgQHsgRXhwcmVzc2lvbiA9IHsgKCRfIC1zcGxpdCAnXFwnKS5Db3VudCB9IH0sIGAKICAgIEB7IEV4cHJlc3Npb24g" &amp; _
+        "PSB7ICRfLlRvTG93ZXJJbnZhcmlhbnQoKSB9IH0KCmZvcmVhY2ggKCRmdWxsTGF5ZXJOYW1lIGluICRzb3J0ZWRMYXllcnMpIHsKICAgICRzZWdtZW50cyA9" &amp; _
+        "IEAoJGZ1bGxMYXllck5hbWUgLXNwbGl0ICdcXCcgfCBXaGVyZS1PYmplY3QgeyAkXy5MZW5ndGggLWd0IDAgfSkKICAgICRjdXJyZW50UGF0aCA9ICcnCiAg" &amp; _
+        "ICAkcGFyZW50Tm9kZSA9ICRudWxsCgogICAgZm9yZWFjaCAoJHNlZ21lbnQgaW4gJHNlZ21lbnRzKSB7CiAgICAgICAgJGN1cnJlbnRQYXRoID0gaWYgKCRj" &amp; _
+        "dXJyZW50UGF0aC5MZW5ndGggLWVxIDApIHsgJHNlZ21lbnQgfSBlbHNlIHsgIiRjdXJyZW50UGF0aFwkc2VnbWVudCIgfQogICAgICAgIGlmICgtbm90ICRu" &amp; _
+        "b2RlTWFwLkNvbnRhaW5zS2V5KCRjdXJyZW50UGF0aCkpIHsKICAgICAgICAgICAgJG5vZGUgPSBbU3lzdGVtLldpbmRvd3MuRm9ybXMuVHJlZU5vZGVdOjpu" &amp; _
+        "ZXcoW3N0cmluZ10kc2VnbWVudCkKICAgICAgICAgICAgJG5vZGUuTmFtZSA9ICRjdXJyZW50UGF0aAogICAgICAgICAgICAkbm9kZS5UYWcgPSAkY3VycmVu" &amp; _
+        "dFBhdGgKICAgICAgICAgICAgJG5vZGUuSW1hZ2VLZXkgPSAnbGF5ZXInCiAgICAgICAgICAgICRub2RlLlNlbGVjdGVkSW1hZ2VLZXkgPSAnbGF5ZXInCgog" &amp; _
+        "ICAgICAgICAgICBpZiAoJG51bGwgLWVxICRwYXJlbnROb2RlKSB7CiAgICAgICAgICAgICAgICBbdm9pZF0kbGF5ZXJUcmVlLk5vZGVzLkFkZCgkbm9kZSkK" &amp; _
+        "ICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIFt2b2lkXSRwYXJlbnROb2RlLk5vZGVzLkFkZCgkbm9kZSkKICAgICAg" &amp; _
+        "ICAgICAgfQogICAgICAgICAgICAkbm9kZU1hcFskY3VycmVudFBhdGhdID0gJG5vZGUKICAgICAgICB9CiAgICAgICAgJHBhcmVudE5vZGUgPSAkbm9kZU1h" &amp; _
+        "cFskY3VycmVudFBhdGhdCiAgICB9Cn0KCmZvcmVhY2ggKCRub2RlIGluICRub2RlTWFwLlZhbHVlcykgewogICAgaWYgKCRub2RlLk5vZGVzLkNvdW50IC1n" &amp; _
+        "dCAwKSB7CiAgICAgICAgJG5vZGUuSW1hZ2VLZXkgPSAncGFyZW50JwogICAgICAgICRub2RlLlNlbGVjdGVkSW1hZ2VLZXkgPSAncGFyZW50JwogICAgfQp9" &amp; _
+        "Cgokc2VsZWN0aW9uTGFiZWwgPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkxhYmVsCiRzZWxlY3Rpb25MYWJlbC5UZXh0ID0gJ0xheWVyIHNl" &amp; _
+        "bGVjY2lvbmFkYTonCiRzZWxlY3Rpb25MYWJlbC5BdXRvU2l6ZSA9ICR0cnVlCiRzZWxlY3Rpb25MYWJlbC5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVt" &amp; _
+        "LkRyYXdpbmcuUG9pbnQoMTgsIDM3MCkKCiRzZWxlY3Rpb25Cb3ggPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLlRleHRCb3gKJHNlbGVjdGlv" &amp; _
+        "bkJveC5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoMTgsIDM5MikKJHNlbGVjdGlvbkJveC5TaXplID0gTmV3LU9iamVjdCBT" &amp; _
+        "eXN0ZW0uRHJhd2luZy5TaXplKDYxNCwgMjMpCiRzZWxlY3Rpb25Cb3guUmVhZE9ubHkgPSAkdHJ1ZQokc2VsZWN0aW9uQm94LkJhY2tDb2xvciA9IFtTeXN0" &amp; _
+        "ZW0uRHJhd2luZy5TeXN0ZW1Db2xvcnNdOjpXaW5kb3cKJHNlbGVjdGlvbkJveC5UYWJTdG9wID0gJGZhbHNlCgokZW50aXR5R3JvdXAgPSBOZXctT2JqZWN0" &amp; _
+        "IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkdyb3VwQm94CiRlbnRpdHlHcm91cC5UZXh0ID0gJ1RpcG9zIGRlIGVudGlkYWQgYSBlbGltaW5hcicKJGVudGl0eUdy" &amp; _
+        "b3VwLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgxOCwgNDMwKQokZW50aXR5R3JvdXAuU2l6ZSA9IE5ldy1PYmplY3QgU3lz" &amp; _
+        "dGVtLkRyYXdpbmcuU2l6ZSg2MTQsIDExOCkKCiRwb2ludHNDaGVjayA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuQ2hlY2tCb3gKJHBvaW50" &amp; _
+        "c0NoZWNrLlRleHQgPSAnUHVudG9zJwokcG9pbnRzQ2hlY2suTG9jYXRpb24gPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDE2LCAyNCkKJHBv" &amp; _
+        "aW50c0NoZWNrLkF1dG9TaXplID0gJHRydWUKJHBvaW50c0NoZWNrLkNoZWNrZWQgPSAkdHJ1ZQoKJHRleHRzQ2hlY2sgPSBOZXctT2JqZWN0IFN5c3RlbS5X" &amp; _
+        "aW5kb3dzLkZvcm1zLkNoZWNrQm94CiR0ZXh0c0NoZWNrLlRleHQgPSAnVGV4dG9zIChURVhUIC8gTVRFWFQgLyBCVEVYVCknCiR0ZXh0c0NoZWNrLkxvY2F0" &amp; _
+        "aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgxNiwgNTEpCiR0ZXh0c0NoZWNrLkF1dG9TaXplID0gJHRydWUKJHRleHRzQ2hlY2suQ2hl" &amp; _
+        "Y2tlZCA9ICR0cnVlCgokc29saWRzQ2hlY2sgPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkNoZWNrQm94CiRzb2xpZHNDaGVjay5UZXh0ID0g" &amp; _
+        "J1NvbGlkb3MgY2VycmFkb3MnCiRzb2xpZHNDaGVjay5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoMTYsIDc4KQokc29saWRz" &amp; _
+        "Q2hlY2suQXV0b1NpemUgPSAkdHJ1ZQokc29saWRzQ2hlY2suQ2hlY2tlZCA9ICR0cnVlCgokZGltZW5zaW9uc0NoZWNrID0gTmV3LU9iamVjdCBTeXN0ZW0u" &amp; _
+        "V2luZG93cy5Gb3Jtcy5DaGVja0JveAokZGltZW5zaW9uc0NoZWNrLlRleHQgPSAnRGltZW5zaW9uZXMnCiRkaW1lbnNpb25zQ2hlY2suTG9jYXRpb24gPSBO" &amp; _
+        "ZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDMxNSwgMjQpCiRkaW1lbnNpb25zQ2hlY2suQXV0b1NpemUgPSAkdHJ1ZQokZGltZW5zaW9uc0NoZWNr" &amp; _
+        "LkNoZWNrZWQgPSAkdHJ1ZQoKJGluc2VydHNDaGVjayA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuQ2hlY2tCb3gKJGluc2VydHNDaGVjay5U" &amp; _
+        "ZXh0ID0gJ0luc2VydHMgLyBibG9xdWVzJwokaW5zZXJ0c0NoZWNrLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgzMTUsIDUx" &amp; _
+        "KQokaW5zZXJ0c0NoZWNrLkF1dG9TaXplID0gJHRydWUKJGluc2VydHNDaGVjay5DaGVja2VkID0gJHRydWUKCiRsZWFkZXJzQ2hlY2sgPSBOZXctT2JqZWN0" &amp; _
+        "IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkNoZWNrQm94CiRsZWFkZXJzQ2hlY2suVGV4dCA9ICdGbGVjaGFzIC8gbGVhZGVycycKJGxlYWRlcnNDaGVjay5Mb2Nh" &amp; _
+        "dGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoMzE1LCA3OCkKJGxlYWRlcnNDaGVjay5BdXRvU2l6ZSA9ICR0cnVlCiRsZWFkZXJzQ2hl" &amp; _
+        "Y2suQ2hlY2tlZCA9ICR0cnVlCgokZW50aXR5R3JvdXAuQ29udHJvbHMuQWRkUmFuZ2UoQCgKICAgICRwb2ludHNDaGVjaywgJHRleHRzQ2hlY2ssICRzb2xp" &amp; _
+        "ZHNDaGVjaywgJGRpbWVuc2lvbnNDaGVjaywgJGluc2VydHNDaGVjaywKICAgICRsZWFkZXJzQ2hlY2spKQoKJHNob290aW5nR3JvdXAgPSBOZXctT2JqZWN0" &amp; _
+        "IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkdyb3VwQm94CiRzaG9vdGluZ0dyb3VwLlRleHQgPSAnRGV0ZWNjaW9uIGdlb21ldHJpY2EnCiRzaG9vdGluZ0dyb3Vw" &amp; _
+        "LkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgxOCwgNTU4KQokc2hvb3RpbmdHcm91cC5TaXplID0gTmV3LU9iamVjdCBTeXN0" &amp; _
+        "ZW0uRHJhd2luZy5TaXplKDYxNCwgOTYpCgokc2hvb3RpbmdDaGVjayA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuQ2hlY2tCb3gKJHNob290" &amp; _
+        "aW5nQ2hlY2suVGV4dCA9ICdFbGltaW5hciBsaW5lYXMgZGlzcGFyYWRhcycKJHNob290aW5nQ2hlY2suTG9jYXRpb24gPSBOZXctT2JqZWN0IFN5c3RlbS5E" &amp; _
+        "cmF3aW5nLlBvaW50KDE2LCAyNCkKJHNob290aW5nQ2hlY2suQXV0b1NpemUgPSAkdHJ1ZQokc2hvb3RpbmdDaGVjay5DaGVja2VkID0gJGZhbHNlCgokbGVu" &amp; _
+        "Z3RoTGFiZWwgPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkxhYmVsCiRsZW5ndGhMYWJlbC5UZXh0ID0gJ0xvbmdpdHVkIG1pbmltYSAobSk6" &amp; _
+        "JwokbGVuZ3RoTGFiZWwuTG9jYXRpb24gPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDIxOCwgMjYpCiRsZW5ndGhMYWJlbC5BdXRvU2l6ZSA9" &amp; _
+        "ICR0cnVlCgokbWluTGVuZ3RoQm94ID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5OdW1lcmljVXBEb3duCiRtaW5MZW5ndGhCb3guTG9jYXRp" &amp; _
+        "b24gPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDMzOCwgMjIpCiRtaW5MZW5ndGhCb3guU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdp" &amp; _
+        "bmcuU2l6ZSg3OCwgMjMpCiRtaW5MZW5ndGhCb3guRGVjaW1hbFBsYWNlcyA9IDIKJG1pbkxlbmd0aEJveC5NaW5pbXVtID0gW2RlY2ltYWxdMC4wMQokbWlu" &amp; _
+        "TGVuZ3RoQm94Lk1heGltdW0gPSBbZGVjaW1hbF0xMDAwMDAKJG1pbkxlbmd0aEJveC5JbmNyZW1lbnQgPSBbZGVjaW1hbF0wLjUKJG1pbkxlbmd0aEJveC5W" &amp; _
+        "YWx1ZSA9IFtkZWNpbWFsXTUwCiRtaW5MZW5ndGhCb3guRW5hYmxlZCA9ICRmYWxzZQoKJGRpcExhYmVsID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5G" &amp; _
+        "b3Jtcy5MYWJlbAokZGlwTGFiZWwuVGV4dCA9ICdCdXphbWllbnRvIChncmFkb3MpOicKJGRpcExhYmVsLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0u" &amp; _
+        "RHJhd2luZy5Qb2ludCg0MjUsIDI2KQokZGlwTGFiZWwuQXV0b1NpemUgPSAkdHJ1ZQoKJG1pbkRpcEJveCA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3Mu" &amp; _
+        "Rm9ybXMuTnVtZXJpY1VwRG93bgokbWluRGlwQm94LkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCg1NDgsIDIyKQokbWluRGlw" &amp; _
+        "Qm94LlNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlNpemUoNjUsIDIzKQokbWluRGlwQm94LkRlY2ltYWxQbGFjZXMgPSAxCiRtaW5EaXBCb3gu" &amp; _
+        "TWluaW11bSA9IFtkZWNpbWFsXTAKJG1pbkRpcEJveC5NYXhpbXVtID0gW2RlY2ltYWxdOTAKJG1pbkRpcEJveC5JbmNyZW1lbnQgPSBbZGVjaW1hbF0xCiRt" &amp; _
+        "aW5EaXBCb3guVmFsdWUgPSBbZGVjaW1hbF04NQokbWluRGlwQm94LkVuYWJsZWQgPSAkZmFsc2UKCiRzaG9vdGluZ0luZm8gPSBOZXctT2JqZWN0IFN5c3Rl" &amp; _
+        "bS5XaW5kb3dzLkZvcm1zLkxhYmVsCiRzaG9vdGluZ0luZm8uVGV4dCA9ICdTb2xvIHByb3BvbmUgc2VnbWVudG9zIHNpbiBjb250aW51aWRhZCBkaXJlY2Np" &amp; _
+        "b25hbCBjb2hlcmVudGU7IGxhIGVsaW1pbmFjaW9uIHJlcXVpZXJlIGNvbmZpcm1hY2lvbi4nCiRzaG9vdGluZ0luZm8uTG9jYXRpb24gPSBOZXctT2JqZWN0" &amp; _
+        "IFN5c3RlbS5EcmF3aW5nLlBvaW50KDE2LCA1NykKJHNob290aW5nSW5mby5TaXplID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5TaXplKDU4MCwgMjgp" &amp; _
+        "CiRzaG9vdGluZ0luZm8uRm9yZUNvbG9yID0gW1N5c3RlbS5EcmF3aW5nLkNvbG9yXTo6RnJvbUFyZ2IoOTAsIDkwLCA5MCkKCiRzaG9vdGluZ0dyb3VwLkNv" &amp; _
+        "bnRyb2xzLkFkZFJhbmdlKEAoCiAgICAkc2hvb3RpbmdDaGVjaywgJGxlbmd0aExhYmVsLCAkbWluTGVuZ3RoQm94LCAkZGlwTGFiZWwsICRtaW5EaXBCb3gs" &amp; _
+        "CiAgICAkc2hvb3RpbmdJbmZvKSkKCiRjb25maXJtQnV0dG9uID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5CdXR0b24KJGNvbmZpcm1CdXR0" &amp; _
+        "b24uVGV4dCA9ICdDb250aW51YXInCiRjb25maXJtQnV0dG9uLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCg0NTYsIDY3NCkK" &amp; _
+        "JGNvbmZpcm1CdXR0b24uU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg4NCwgMzApCiRjb25maXJtQnV0dG9uLkVuYWJsZWQgPSAkZmFs" &amp; _
+        "c2UKJGNvbmZpcm1CdXR0b24uVGFiSW5kZXggPSAxCgokY2FuY2VsQnV0dG9uID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5CdXR0b24KJGNh" &amp; _
+        "bmNlbEJ1dHRvbi5UZXh0ID0gJ0NhbmNlbGFyJwokY2FuY2VsQnV0dG9uLkRpYWxvZ1Jlc3VsdCA9IFtTeXN0ZW0uV2luZG93cy5Gb3Jtcy5EaWFsb2dSZXN1" &amp; _
+        "bHRdOjpDYW5jZWwKJGNhbmNlbEJ1dHRvbi5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoNTQ4LCA2NzQpCiRjYW5jZWxCdXR0" &amp; _
+        "b24uU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg4NCwgMzApCiRjYW5jZWxCdXR0b24uVGFiSW5kZXggPSAyCgokbGF5ZXJUcmVlLkFk" &amp; _
+        "ZF9BZnRlclNlbGVjdCh7CiAgICBpZiAoJG51bGwgLW5lICRfLk5vZGUgLWFuZCAkbnVsbCAtbmUgJF8uTm9kZS5UYWcpIHsKICAgICAgICAkc2VsZWN0aW9u" &amp; _
+        "Qm94LlRleHQgPSBbc3RyaW5nXSRfLk5vZGUuVGFnCiAgICAgICAgJGNvbmZpcm1CdXR0b24uRW5hYmxlZCA9ICR0cnVlCiAgICB9Cn0pCiRsYXllclRyZWUu" &amp; _
+        "QWRkX05vZGVNb3VzZURvdWJsZUNsaWNrKHsKICAgIGlmICgkbnVsbCAtbmUgJF8uTm9kZSAtYW5kICRudWxsIC1uZSAkXy5Ob2RlLlRhZykgewogICAgICAg" &amp; _
+        "ICRzZWxlY3Rpb25Cb3guVGV4dCA9IFtzdHJpbmddJF8uTm9kZS5UYWcKICAgICAgICBpZiAoJHBvaW50c0NoZWNrLkNoZWNrZWQgLW9yICR0ZXh0c0NoZWNr" &amp; _
+        "LkNoZWNrZWQgLW9yICRzb2xpZHNDaGVjay5DaGVja2VkIC1vcgogICAgICAgICAgICAkZGltZW5zaW9uc0NoZWNrLkNoZWNrZWQgLW9yICRpbnNlcnRzQ2hl" &amp; _
+        "Y2suQ2hlY2tlZCAtb3IgJGxlYWRlcnNDaGVjay5DaGVja2VkIC1vcgogICAgICAgICAgICAkc2hvb3RpbmdDaGVjay5DaGVja2VkKSB7CiAgICAgICAgICAg" &amp; _
+        "ICRmb3JtLkRpYWxvZ1Jlc3VsdCA9IFtTeXN0ZW0uV2luZG93cy5Gb3Jtcy5EaWFsb2dSZXN1bHRdOjpPSwogICAgICAgICAgICAkZm9ybS5DbG9zZSgpCiAg" &amp; _
+        "ICAgICAgfQogICAgICAgIGVsc2UgewogICAgICAgICAgICBbU3lzdGVtLldpbmRvd3MuRm9ybXMuTWVzc2FnZUJveF06OlNob3coCiAgICAgICAgICAgICAg" &amp; _
+        "ICAnU2VsZWNjaW9uYSBhbCBtZW5vcyB1biB0aXBvIGRlIGVudGlkYWQuJywKICAgICAgICAgICAgICAgICdMaW1waWFyIGVudGlkYWRlcyBwb3IgbGF5ZXIn" &amp; _
+        "LAogICAgICAgICAgICAgICAgW1N5c3RlbS5XaW5kb3dzLkZvcm1zLk1lc3NhZ2VCb3hCdXR0b25zXTo6T0ssCiAgICAgICAgICAgICAgICBbU3lzdGVtLldp" &amp; _
+        "bmRvd3MuRm9ybXMuTWVzc2FnZUJveEljb25dOjpJbmZvcm1hdGlvbikgfCBPdXQtTnVsbAogICAgICAgIH0KICAgIH0KfSkKJGNvbmZpcm1CdXR0b24uQWRk" &amp; _
+        "X0NsaWNrKHsKICAgIGlmICgtbm90ICgkcG9pbnRzQ2hlY2suQ2hlY2tlZCAtb3IgJHRleHRzQ2hlY2suQ2hlY2tlZCAtb3IgJHNvbGlkc0NoZWNrLkNoZWNr" &amp; _
+        "ZWQgLW9yCiAgICAgICAgICAgICAgJGRpbWVuc2lvbnNDaGVjay5DaGVja2VkIC1vciAkaW5zZXJ0c0NoZWNrLkNoZWNrZWQgLW9yICRsZWFkZXJzQ2hlY2su" &amp; _
+        "Q2hlY2tlZCAtb3IKICAgICAgICAgICAgICAkc2hvb3RpbmdDaGVjay5DaGVja2VkKSkgewogICAgICAgIFtTeXN0ZW0uV2luZG93cy5Gb3Jtcy5NZXNzYWdl" &amp; _
+        "Qm94XTo6U2hvdygKICAgICAgICAgICAgJ1NlbGVjY2lvbmEgYWwgbWVub3MgdW4gdGlwbyBkZSBlbnRpZGFkLicsCiAgICAgICAgICAgICdMaW1waWFyIGVu" &amp; _
+        "dGlkYWRlcyBwb3IgbGF5ZXInLAogICAgICAgICAgICBbU3lzdGVtLldpbmRvd3MuRm9ybXMuTWVzc2FnZUJveEJ1dHRvbnNdOjpPSywKICAgICAgICAgICAg" &amp; _
+        "W1N5c3RlbS5XaW5kb3dzLkZvcm1zLk1lc3NhZ2VCb3hJY29uXTo6SW5mb3JtYXRpb24pIHwgT3V0LU51bGwKICAgICAgICByZXR1cm4KICAgIH0KCiAgICAk" &amp; _
+        "Zm9ybS5EaWFsb2dSZXN1bHQgPSBbU3lzdGVtLldpbmRvd3MuRm9ybXMuRGlhbG9nUmVzdWx0XTo6T0sKICAgICRmb3JtLkNsb3NlKCkKfSkKJGV4cGFuZEJ1" &amp; _
+        "dHRvbi5BZGRfQ2xpY2soeyAkbGF5ZXJUcmVlLkV4cGFuZEFsbCgpIH0pCiRjb2xsYXBzZUJ1dHRvbi5BZGRfQ2xpY2soeyAkbGF5ZXJUcmVlLkNvbGxhcHNl" &amp; _
+        "QWxsKCkgfSkKJHNob290aW5nQ2hlY2suQWRkX0NoZWNrZWRDaGFuZ2VkKHsKICAgICRtaW5MZW5ndGhCb3guRW5hYmxlZCA9ICRzaG9vdGluZ0NoZWNrLkNo" &amp; _
+        "ZWNrZWQKICAgICRtaW5EaXBCb3guRW5hYmxlZCA9ICRzaG9vdGluZ0NoZWNrLkNoZWNrZWQKfSkKCmlmICgkbm9kZU1hcC5Db250YWluc0tleSgkYWN0aXZl" &amp; _
+        "TGF5ZXIpKSB7CiAgICAkc2VsZWN0ZWROb2RlID0gJG5vZGVNYXBbJGFjdGl2ZUxheWVyXQogICAgJGxheWVyVHJlZS5TZWxlY3RlZE5vZGUgPSAkc2VsZWN0" &amp; _
+        "ZWROb2RlCiAgICAkYW5jZXN0b3IgPSAkc2VsZWN0ZWROb2RlLlBhcmVudAogICAgd2hpbGUgKCRudWxsIC1uZSAkYW5jZXN0b3IpIHsKICAgICAgICAkYW5j" &amp; _
+        "ZXN0b3IuRXhwYW5kKCkKICAgICAgICAkYW5jZXN0b3IgPSAkYW5jZXN0b3IuUGFyZW50CiAgICB9CiAgICAkc2VsZWN0ZWROb2RlLkVuc3VyZVZpc2libGUo" &amp; _
+        "KQp9CmVsc2VpZiAoJGxheWVyVHJlZS5Ob2Rlcy5Db3VudCAtZ3QgMCkgewogICAgJGxheWVyVHJlZS5TZWxlY3RlZE5vZGUgPSAkbGF5ZXJUcmVlLk5vZGVz" &amp; _
+        "WzBdCn0KCiRmb3JtLkNvbnRyb2xzLkFkZFJhbmdlKEAoCiAgICAkdGl0bGUsICR3YXJuaW5nLCAkdHJlZUxhYmVsLCAkZXhwYW5kQnV0dG9uLCAkY29sbGFw" &amp; _
+        "c2VCdXR0b24sICRsYXllclRyZWUsCiAgICAkc2VsZWN0aW9uTGFiZWwsICRzZWxlY3Rpb25Cb3gsICRlbnRpdHlHcm91cCwgJHNob290aW5nR3JvdXAsCiAg" &amp; _
+        "ICAkY29uZmlybUJ1dHRvbiwgJGNhbmNlbEJ1dHRvbikpCiRmb3JtLkFjY2VwdEJ1dHRvbiA9ICRjb25maXJtQnV0dG9uCiRmb3JtLkNhbmNlbEJ1dHRvbiA9" &amp; _
+        "ICRjYW5jZWxCdXR0b24KCiRkaWFsb2dSZXN1bHQgPSAkZm9ybS5TaG93RGlhbG9nKCkKaWYgKCRkaWFsb2dSZXN1bHQgLWVxIFtTeXN0ZW0uV2luZG93cy5G" &amp; _
+        "b3Jtcy5EaWFsb2dSZXN1bHRdOjpPSyAtYW5kCiAgICAtbm90IFtzdHJpbmddOjpJc051bGxPcldoaXRlU3BhY2UoJHNlbGVjdGlvbkJveC5UZXh0KSkgewog" &amp; _
+        "ICAgW1N5c3RlbS5JTy5GaWxlXTo6V3JpdGVBbGxMaW5lcygkT3V0cHV0UGF0aCwgQCgKICAgICAgICAnT0snLAogICAgICAgICRzZWxlY3Rpb25Cb3guVGV4" &amp; _
+        "dC5UcmltKCksCiAgICAgICAgKFtpbnRdJHBvaW50c0NoZWNrLkNoZWNrZWQpLlRvU3RyaW5nKCksCiAgICAgICAgKFtpbnRdJHRleHRzQ2hlY2suQ2hlY2tl" &amp; _
+        "ZCkuVG9TdHJpbmcoKSwKICAgICAgICAoW2ludF0kc29saWRzQ2hlY2suQ2hlY2tlZCkuVG9TdHJpbmcoKSwKICAgICAgICAoW2ludF0kZGltZW5zaW9uc0No" &amp; _
+        "ZWNrLkNoZWNrZWQpLlRvU3RyaW5nKCksCiAgICAgICAgKFtpbnRdJGluc2VydHNDaGVjay5DaGVja2VkKS5Ub1N0cmluZygpLAogICAgICAgIChbaW50XSRs" &amp; _
+        "ZWFkZXJzQ2hlY2suQ2hlY2tlZCkuVG9TdHJpbmcoKSwKICAgICAgICAoW2ludF0kc2hvb3RpbmdDaGVjay5DaGVja2VkKS5Ub1N0cmluZygpLAogICAgICAg" &amp; _
+        "ICRtaW5MZW5ndGhCb3guVmFsdWUuVG9TdHJpbmcoW1N5c3RlbS5HbG9iYWxpemF0aW9uLkN1bHR1cmVJbmZvXTo6SW52YXJpYW50Q3VsdHVyZSksCiAgICAg" &amp; _
+        "ICAgJG1pbkRpcEJveC5WYWx1ZS5Ub1N0cmluZyhbU3lzdGVtLkdsb2JhbGl6YXRpb24uQ3VsdHVyZUluZm9dOjpJbnZhcmlhbnRDdWx0dXJlKQogICAgKSkK" &amp; _
+        "fQplbHNlIHsKICAgIFtTeXN0ZW0uSU8uRmlsZV06OldyaXRlQWxsTGluZXMoJE91dHB1dFBhdGgsIEAoJ0NBTkNFTCcpKQp9Cg=="
+    File.WriteAllBytes(auraCleanHelperRuta, Convert.FromBase64String(auraCleanHelperBase64))
+    Return auraCleanHelperRuta
+End Function
+
+Function SeleccionarLayerLimpieza(
+        ByVal doc As Deswik.Graphics.Application,
+        ByRef eliminarPuntos As Boolean,
+        ByRef eliminarTextos As Boolean,
+        ByRef eliminarSolidos As Boolean,
+        ByRef eliminarDimensiones As Boolean,
+        ByRef eliminarInserts As Boolean,
+        ByRef eliminarLeaders As Boolean,
+        ByRef eliminarLineasDisparadas As Boolean,
+        ByRef longitudMinimaDisparada As Double,
+        ByRef buzamientoMinimoDisparada As Double) As String
+    Dim helper As String = CrearHelperTemporalLimpiezaAura()
+
+    Dim token As String = Guid.NewGuid().ToString("N")
+    Dim entrada As String = Path.Combine(
+        Path.GetTempPath(), "deswik_limpieza_input_" &amp; token &amp; ".txt")
+    Dim salida As String = Path.Combine(
+        Path.GetTempPath(), "deswik_limpieza_output_" &amp; token &amp; ".txt")
+
+    Dim nombres As New List(Of String)()
+    For Each capa As Deswik.Graphics.Primaries.Layer In doc.Layers
+        If EsLayerLimpiezaSeleccionable(capa) Then nombres.Add(capa.Name)
+    Next
+    nombres.Sort(StringComparer.OrdinalIgnoreCase)
+
+    If nombres.Count = 0 Then
+        MessageBox.Show("No hay layers seleccionables en el documento.",
+                        "Limpieza por layer",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Information)
+        Return ""
+    End If
+
+    Dim activa As String = nombres(0)
+    If EsLayerLimpiezaSeleccionable(doc.ActiveLayer) Then
+        activa = doc.ActiveLayer.Name
+    End If
+
+    Dim contenido As New StringBuilder()
+    contenido.AppendLine(activa)
+    For Each nombre As String In nombres
+        contenido.AppendLine(nombre)
+    Next
+    File.WriteAllText(entrada, contenido.ToString(), Encoding.UTF8)
+
+    Try
+        Dim inicio As New System.Diagnostics.ProcessStartInfo()
+        inicio.FileName = "powershell.exe"
+        inicio.Arguments = "-NoProfile -ExecutionPolicy Bypass -STA -File """ &amp;
+                           helper &amp; """ -InputPath """ &amp; entrada &amp;
+                           """ -OutputPath """ &amp; salida &amp; """"
+        inicio.UseShellExecute = False
+        inicio.CreateNoWindow = True
+
+        Dim proceso As System.Diagnostics.Process =
+            System.Diagnostics.Process.Start(inicio)
+        If proceso Is Nothing Then
+            Throw New Exception("No se pudo iniciar el selector de layers.")
+        End If
+        proceso.WaitForExit()
+
+        If proceso.ExitCode &lt;&gt; 0 OrElse Not File.Exists(salida) Then
+            Throw New Exception("El selector termino sin devolver una respuesta.")
+        End If
+
+        Dim respuesta() As String = File.ReadAllLines(salida)
+        If respuesta.Length = 0 Then
+            Throw New Exception("La respuesta del selector esta vacia.")
+        End If
+        If String.Equals(respuesta(0),
+                         "CANCEL",
+                         StringComparison.OrdinalIgnoreCase) Then Return ""
+        If String.Equals(respuesta(0),
+                         "ERROR",
+                         StringComparison.OrdinalIgnoreCase) Then
+            Dim detalle As String = "Error desconocido del selector."
+            If respuesta.Length &gt; 1 Then detalle = respuesta(1)
+            Throw New Exception(detalle)
+        End If
+        If Not String.Equals(respuesta(0),
+                             "OK",
+                             StringComparison.OrdinalIgnoreCase) OrElse
+           respuesta.Length &lt; 11 Then
+            Throw New Exception("La respuesta del selector no es valida.")
+        End If
+
+        eliminarPuntos = String.Equals(respuesta(2).Trim(), "1")
+        eliminarTextos = String.Equals(respuesta(3).Trim(), "1")
+        eliminarSolidos = String.Equals(respuesta(4).Trim(), "1")
+        eliminarDimensiones = String.Equals(respuesta(5).Trim(), "1")
+        eliminarInserts = String.Equals(respuesta(6).Trim(), "1")
+        eliminarLeaders = String.Equals(respuesta(7).Trim(), "1")
+        eliminarLineasDisparadas = String.Equals(respuesta(8).Trim(), "1")
+
+        If Not Double.TryParse(
+                respuesta(9).Trim(),
+                Globalization.NumberStyles.Float,
+                Globalization.CultureInfo.InvariantCulture,
+                longitudMinimaDisparada) OrElse longitudMinimaDisparada &lt;= 0.0 Then
+            Throw New Exception("La longitud minima para lineas disparadas no es valida.")
+        End If
+        If Not Double.TryParse(
+                respuesta(10).Trim(),
+                Globalization.NumberStyles.Float,
+                Globalization.CultureInfo.InvariantCulture,
+                buzamientoMinimoDisparada) OrElse
+           buzamientoMinimoDisparada &lt; 0.0 OrElse
+           buzamientoMinimoDisparada &gt; 90.0 Then
+            Throw New Exception("El buzamiento para lineas disparadas no es valido.")
+        End If
+
+        Return respuesta(1).Trim()
+    Catch ex As Exception
+        MessageBox.Show("No se pudo seleccionar la layer: " &amp; ex.Message,
+                        "Limpieza por layer",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error)
+        Return ""
+    Finally
+        Try
+            If File.Exists(entrada) Then File.Delete(entrada)
+            If File.Exists(salida) Then File.Delete(salida)
+            If File.Exists(helper) Then File.Delete(helper)
+        Catch
+        End Try
+    End Try
+End Function
+
+Function EsEntidadDimension(
+        ByVal figura As Deswik.Graphics.Primaries.Figure) As Boolean
+    If figura Is Nothing Then Return False
+
+    Try
+        Return figura.asDimension IsNot Nothing
+    Catch
+        Return False
+    End Try
+End Function
+
+Function EsEntidadInsert(
+        ByVal figura As Deswik.Graphics.Primaries.Figure) As Boolean
+    If figura Is Nothing Then Return False
+
+    Try
+        Return figura.asInsert IsNot Nothing
+    Catch
+        Return False
+    End Try
+End Function
+
+Function EsEntidadLeader(
+        ByVal figura As Deswik.Graphics.Primaries.Figure) As Boolean
+    If figura Is Nothing Then Return False
+
+    Try
+        Return String.Equals(figura.TypeName,
+                             "LEADER",
+                             StringComparison.OrdinalIgnoreCase)
+    Catch
+        Return False
+    End Try
+End Function
+
+Function EsEntidadPunto(
+        ByVal figura As Deswik.Graphics.Primaries.Figure) As Boolean
+    If figura Is Nothing Then Return False
+    Return figura.asPoint IsNot Nothing OrElse _
+           figura.asPoints IsNot Nothing
+End Function
+
+Function EsEntidadTexto(
+        ByVal figura As Deswik.Graphics.Primaries.Figure) As Boolean
+    If figura Is Nothing Then Return False
+    Return figura.IsText OrElse _
+           figura.IsMText OrElse _
+           figura.IsBText OrElse _
+           figura.asBTextInsert IsNot Nothing
+End Function
+
+Function EsEntidadSolido(
+        ByVal figura As Deswik.Graphics.Primaries.Figure) As Boolean
+    If figura Is Nothing Then Return False
+
+    Try
+        Dim polifaz As Deswik.Graphics.Figures.Polyface = figura.asPolyface
+        If polifaz Is Nothing Then Return False
+        Return polifaz.IsClosed
+    Catch
+        Return False
+    End Try
+End Function
+
+Sub Main()
+    Dim etapa As String = "inicio"
+
+    Try
+        Dim doc As Deswik.Graphics.Application = CurrentDoc
+        If doc Is Nothing Then
+            MessageBox.Show("No hay un documento activo en Deswik.CAD.",
+                            "Limpieza por layer",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Warning)
+            Exit Sub
+        End If
+
+        etapa = "seleccion de parent layer"
+        Dim eliminarPuntos As Boolean = True
+        Dim eliminarTextos As Boolean = True
+        Dim eliminarSolidos As Boolean = True
+        Dim eliminarDimensiones As Boolean = True
+        Dim eliminarInserts As Boolean = True
+        Dim eliminarLeaders As Boolean = True
+        Dim eliminarLineasDisparadas As Boolean = False
+        Dim longitudMinimaDisparada As Double = 50.0
+        Dim buzamientoMinimoDisparada As Double = 85.0
+        Dim nombreSeleccionado As String = SeleccionarLayerLimpieza(
+            doc,
+            eliminarPuntos,
+            eliminarTextos,
+            eliminarSolidos,
+            eliminarDimensiones,
+            eliminarInserts,
+            eliminarLeaders,
+            eliminarLineasDisparadas,
+            longitudMinimaDisparada,
+            buzamientoMinimoDisparada)
+        If nombreSeleccionado.Length = 0 Then Exit Sub
+
+        Dim capaRaiz As Deswik.Graphics.Primaries.Layer =
+            doc.Layers.FindName(nombreSeleccionado, True)
+        If capaRaiz Is Nothing OrElse capaRaiz.Deleted OrElse
+           Not EsLayerLimpiezaSeleccionable(capaRaiz) Then
+            MessageBox.Show("La layer seleccionada ya no existe o no es valida.",
+                            "Limpieza por layer",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Warning)
+            Exit Sub
+        End If
+
+        etapa = "lectura de parent y child layers"
+        Dim idsCapas As New HashSet(Of String)(StringComparer.OrdinalIgnoreCase)
+        idsCapas.Add(capaRaiz.GUID)
+        Dim cantidadChildLayers As Integer = 0
+        For Each capaHija As Deswik.Graphics.Primaries.Layer In _
+                capaRaiz.ChildrenGetAsLayerList()
+            If capaHija IsNot Nothing AndAlso Not capaHija.Deleted Then
+                If idsCapas.Add(capaHija.GUID) Then
+                    cantidadChildLayers = cantidadChildLayers + 1
+                End If
+            End If
+        Next
+
+        etapa = "clasificacion de entidades"
+        Dim entidadesAEliminar As New List(Of Deswik.Graphics.Primaries.Figure)()
+        Dim puntos As Integer = 0
+        Dim textos As Integer = 0
+        Dim solidos As Integer = 0
+        Dim dimensiones As Integer = 0
+        Dim inserts As Integer = 0
+        Dim leaders As Integer = 0
+        Dim segmentoFiguras As New List(Of Deswik.Graphics.Primaries.Figure)()
+        Dim segmentoPolilineas As New List(Of Deswik.Graphics.Figures.Polyline)()
+        Dim segmentoIndices As New List(Of Integer)()
+        Dim segmentoInicios As New List(Of Deswik.Graphics.Geometry.Point)()
+        Dim segmentoFinales As New List(Of Deswik.Graphics.Geometry.Point)()
+        Dim segmentoLongitudes As New List(Of Double)()
+        Dim segmentoBuzamientos As New List(Of Double)()
+        Dim indicesDisparados As New List(Of Integer)()
+
+        For Each figura As Deswik.Graphics.Primaries.Figure In _
+                doc.ModelSpace.Entities
+            If figura Is Nothing OrElse figura.Deleted OrElse
+               figura.Layer Is Nothing OrElse
+               Not idsCapas.Contains(figura.Layer.GUID) Then Continue For
+
+            If eliminarPuntos AndAlso EsEntidadPunto(figura) Then
+                entidadesAEliminar.Add(figura)
+                puntos = puntos + 1
+            ElseIf eliminarTextos AndAlso EsEntidadTexto(figura) Then
+                entidadesAEliminar.Add(figura)
+                textos = textos + 1
+            ElseIf eliminarSolidos AndAlso EsEntidadSolido(figura) Then
+                entidadesAEliminar.Add(figura)
+                solidos = solidos + 1
+            ElseIf eliminarDimensiones AndAlso EsEntidadDimension(figura) Then
+                entidadesAEliminar.Add(figura)
+                dimensiones = dimensiones + 1
+            ElseIf eliminarInserts AndAlso EsEntidadInsert(figura) Then
+                entidadesAEliminar.Add(figura)
+                inserts = inserts + 1
+            ElseIf eliminarLeaders AndAlso EsEntidadLeader(figura) Then
+                entidadesAEliminar.Add(figura)
+                leaders = leaders + 1
+            End If
+        Next
+
+        If eliminarLineasDisparadas Then
+            etapa = "deteccion de lineas disparadas"
+            For Each figuraSegmentos As Deswik.Graphics.Primaries.Figure In _
+                    doc.ModelSpace.Entities
+                If figuraSegmentos Is Nothing OrElse figuraSegmentos.Deleted OrElse
+                   figuraSegmentos.Layer Is Nothing OrElse
+                   Not idsCapas.Contains(figuraSegmentos.Layer.GUID) Then Continue For
+
+                Dim polilineaSegmentos As Deswik.Graphics.Figures.Polyline =
+                    figuraSegmentos.asPolyline
+                If polilineaSegmentos Is Nothing Then
+                    If figuraSegmentos.asLine Is Nothing Then Continue For
+                    polilineaSegmentos = figuraSegmentos.ToPolyline(1)
+                End If
+                If polilineaSegmentos Is Nothing OrElse polilineaSegmentos.Closed OrElse
+                   polilineaSegmentos.VertexCount &lt; 2 Then Continue For
+
+                For indiceSegmento As Integer = 0 To _
+                        polilineaSegmentos.VertexCount - 2
+                    Dim inicioSegmento As Deswik.Graphics.Geometry.Point =
+                        polilineaSegmentos.GetVertex(indiceSegmento)
+                    Dim finSegmento As Deswik.Graphics.Geometry.Point =
+                        polilineaSegmentos.GetVertex(indiceSegmento + 1)
+                    If inicioSegmento Is Nothing OrElse finSegmento Is Nothing Then
+                        Continue For
+                    End If
+
+                    Dim dxSegmento As Double = finSegmento.x - inicioSegmento.x
+                    Dim dySegmento As Double = finSegmento.y - inicioSegmento.y
+                    Dim dzSegmento As Double = finSegmento.z - inicioSegmento.z
+                    Dim horizontalSegmento As Double = Math.Sqrt(
+                        dxSegmento * dxSegmento + dySegmento * dySegmento)
+                    Dim longitudSegmento As Double = Math.Sqrt(
+                        horizontalSegmento * horizontalSegmento +
+                        dzSegmento * dzSegmento)
+                    If longitudSegmento &lt;= 0.000000001 Then Continue For
+
+                    segmentoFiguras.Add(figuraSegmentos)
+                    segmentoPolilineas.Add(polilineaSegmentos)
+                    segmentoIndices.Add(indiceSegmento)
+                    segmentoInicios.Add(inicioSegmento)
+                    segmentoFinales.Add(finSegmento)
+                    segmentoLongitudes.Add(longitudSegmento)
+                    segmentoBuzamientos.Add(
+                        Math.Atan2(Math.Abs(dzSegmento), horizontalSegmento) *
+                        180.0 / Math.PI)
+                Next
+            Next
+
+            Const maxSegmentosAnalizables As Integer = 250000
+            If segmentoFiguras.Count &gt; maxSegmentosAnalizables Then
+                MessageBox.Show(
+                    "La layer seleccionada contiene " &amp;
+                    segmentoFiguras.Count.ToString() &amp;
+                    " segmentos. Para proteger Deswik, el analisis se detuvo " &amp;
+                    "antes de modificar el documento." &amp; vbCrLf &amp; vbCrLf &amp;
+                    "Seleccione una parent layer mas especifica. Limite: " &amp;
+                    maxSegmentosAnalizables.ToString() &amp; " segmentos.",
+                    "Limpieza por layer",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning)
+                Exit Sub
+            End If
+
+            Dim toleranciaUnion As Double = 0.1
+            Dim cosenoMinimo As Double = Math.Cos(25.0 * Math.PI / 180.0)
+
+            ' Indexa solamente los extremos cercanos. Esto evita comparar cada
+            ' segmento contra todos los demas en topografias grandes.
+            Dim segmentosPorCelda As New Dictionary(Of String, List(Of Integer))(
+                StringComparer.Ordinal)
+            For indiceIndice As Integer = 0 To segmentoFiguras.Count - 1
+                For extremoIndice As Integer = 0 To 1
+                    Dim puntoIndice As Deswik.Graphics.Geometry.Point =
+                        segmentoInicios(indiceIndice)
+                    If extremoIndice = 1 Then
+                        puntoIndice = segmentoFinales(indiceIndice)
+                    End If
+
+                    Dim celdaIndiceX As Long =
+                        CLng(Math.Floor(puntoIndice.x / toleranciaUnion))
+                    Dim celdaIndiceY As Long =
+                        CLng(Math.Floor(puntoIndice.y / toleranciaUnion))
+                    Dim celdaIndiceZ As Long =
+                        CLng(Math.Floor(puntoIndice.z / toleranciaUnion))
+                    Dim claveIndice As String =
+                        celdaIndiceX.ToString() &amp; "|" &amp;
+                        celdaIndiceY.ToString() &amp; "|" &amp;
+                        celdaIndiceZ.ToString()
+                    Dim listaIndice As List(Of Integer) = Nothing
+                    If Not segmentosPorCelda.TryGetValue(
+                            claveIndice, listaIndice) Then
+                        listaIndice = New List(Of Integer)()
+                        segmentosPorCelda.Add(claveIndice, listaIndice)
+                    End If
+                    listaIndice.Add(indiceIndice)
+                Next
+            Next
+
+            For indiceCandidato As Integer = 0 To segmentoFiguras.Count - 1
+                If segmentoLongitudes(indiceCandidato) &lt;= longitudMinimaDisparada OrElse
+                   segmentoBuzamientos(indiceCandidato) &lt;= buzamientoMinimoDisparada Then
+                    Continue For
+                End If
+
+                Dim coherenteInicio As Boolean = False
+                Dim coherenteFin As Boolean = False
+                Dim inicioCandidato As Deswik.Graphics.Geometry.Point =
+                    segmentoInicios(indiceCandidato)
+                Dim finCandidato As Deswik.Graphics.Geometry.Point =
+                    segmentoFinales(indiceCandidato)
+                Dim ax As Double = finCandidato.x - inicioCandidato.x
+                Dim ay As Double = finCandidato.y - inicioCandidato.y
+                Dim az As Double = finCandidato.z - inicioCandidato.z
+
+                For extremoCandidato As Integer = 0 To 1
+                    Dim puntoCandidato As Deswik.Graphics.Geometry.Point =
+                        inicioCandidato
+                    If extremoCandidato = 1 Then puntoCandidato = finCandidato
+
+                    Dim celdaX As Long =
+                        CLng(Math.Floor(puntoCandidato.x / toleranciaUnion))
+                    Dim celdaY As Long =
+                        CLng(Math.Floor(puntoCandidato.y / toleranciaUnion))
+                    Dim celdaZ As Long =
+                        CLng(Math.Floor(puntoCandidato.z / toleranciaUnion))
+                    Dim coherenteExtremo As Boolean = False
+                    Dim indicesRevisados As New HashSet(Of Integer)()
+
+                    For desplazamientoX As Integer = -1 To 1
+                        If coherenteExtremo Then Exit For
+                        For desplazamientoY As Integer = -1 To 1
+                            If coherenteExtremo Then Exit For
+                            For desplazamientoZ As Integer = -1 To 1
+                                If coherenteExtremo Then Exit For
+                                Dim claveVecina As String =
+                                    (celdaX + desplazamientoX).ToString() &amp; "|" &amp;
+                                    (celdaY + desplazamientoY).ToString() &amp; "|" &amp;
+                                    (celdaZ + desplazamientoZ).ToString()
+                                Dim listaVecina As List(Of Integer) = Nothing
+                                If Not segmentosPorCelda.TryGetValue(
+                                        claveVecina, listaVecina) Then
+                                    Continue For
+                                End If
+
+                                For Each indiceOtro As Integer In listaVecina
+                                    If indiceOtro = indiceCandidato OrElse
+                                       Not indicesRevisados.Add(indiceOtro) Then
+                                        Continue For
+                                    End If
+                                    If String.Equals(
+                                            segmentoFiguras(indiceCandidato).GUID,
+                                            segmentoFiguras(indiceOtro).GUID,
+                                            StringComparison.OrdinalIgnoreCase) AndAlso
+                                       segmentoIndices(indiceCandidato) =
+                                            segmentoIndices(indiceOtro) Then
+                                        Continue For
+                                    End If
+
+                                    Dim tocaExtremo As Boolean =
+                                        puntoCandidato.Distance3D(
+                                            segmentoInicios(indiceOtro)) &lt;=
+                                                toleranciaUnion OrElse
+                                        puntoCandidato.Distance3D(
+                                            segmentoFinales(indiceOtro)) &lt;=
+                                                toleranciaUnion
+                                    If Not tocaExtremo Then Continue For
+
+                                    Dim bx As Double =
+                                        segmentoFinales(indiceOtro).x -
+                                        segmentoInicios(indiceOtro).x
+                                    Dim by As Double =
+                                        segmentoFinales(indiceOtro).y -
+                                        segmentoInicios(indiceOtro).y
+                                    Dim bz As Double =
+                                        segmentoFinales(indiceOtro).z -
+                                        segmentoInicios(indiceOtro).z
+                                    Dim producto As Double =
+                                        Math.Abs(ax * bx + ay * by + az * bz)
+                                    Dim denominador As Double =
+                                        segmentoLongitudes(indiceCandidato) *
+                                        segmentoLongitudes(indiceOtro)
+                                    If denominador &gt; 0.000000001 AndAlso
+                                       producto / denominador &gt;= cosenoMinimo Then
+                                        coherenteExtremo = True
+                                        Exit For
+                                    End If
+                                Next
+                            Next
+                        Next
+                    Next
+
+                    If extremoCandidato = 0 Then
+                        coherenteInicio = coherenteExtremo
+                    Else
+                        coherenteFin = coherenteExtremo
+                    End If
+                Next
+
+                If Not coherenteInicio AndAlso Not coherenteFin Then
+                    indicesDisparados.Add(indiceCandidato)
+                End If
+            Next
+        End If
+
+        Dim total As Integer = entidadesAEliminar.Count + indicesDisparados.Count
+        Dim detalleConteo As New StringBuilder()
+        If eliminarPuntos Then
+            detalleConteo.AppendLine("  Puntos: " &amp; puntos.ToString())
+        End If
+        If eliminarTextos Then
+            detalleConteo.AppendLine("  Textos: " &amp; textos.ToString())
+        End If
+        If eliminarSolidos Then
+            detalleConteo.AppendLine("  Solidos cerrados: " &amp; solidos.ToString())
+        End If
+        If eliminarDimensiones Then
+            detalleConteo.AppendLine("  Dimensiones: " &amp; dimensiones.ToString())
+        End If
+        If eliminarInserts Then
+            detalleConteo.AppendLine("  Inserts / bloques: " &amp; inserts.ToString())
+        End If
+        If eliminarLeaders Then
+            detalleConteo.AppendLine("  Flechas / leaders: " &amp; leaders.ToString())
+        End If
+        If eliminarLineasDisparadas Then
+            detalleConteo.AppendLine(
+                "  Segmentos de lineas disparadas: " &amp;
+                indicesDisparados.Count.ToString() &amp;
+                " (longitud &gt; " &amp; longitudMinimaDisparada.ToString("0.##") &amp;
+                " m; |buzamiento| &gt; " &amp;
+                buzamientoMinimoDisparada.ToString("0.#") &amp; " grados)")
+        End If
+
+        If total = 0 Then
+            MessageBox.Show(
+                "No se encontraron entidades de los tipos seleccionados en:" &amp;
+                vbCrLf &amp; nombreSeleccionado &amp; vbCrLf &amp; vbCrLf &amp;
+                "Child layers revisadas: " &amp; cantidadChildLayers.ToString() &amp;
+                vbCrLf &amp; vbCrLf &amp; detalleConteo.ToString() &amp; vbCrLf &amp;
+                "No se modifico el documento.",
+                "Limpieza por layer",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Information)
+            Exit Sub
+        End If
+
+        etapa = "confirmacion"
+        Dim notaGeometria As String =
+            "Las polilineas, superficies abiertas y demas geometria se conservaran."
+        If eliminarLineasDisparadas Then
+            notaGeometria =
+                "Las polilineas con segmentos disparados se cortaran; " &amp;
+                "solo se quitaran los segmentos detectados."
+        End If
+
+        Dim mensaje As String =
+            "Layer seleccionada:" &amp; vbCrLf &amp; nombreSeleccionado &amp; vbCrLf &amp; vbCrLf &amp;
+            "Alcance: parent layer + " &amp; cantidadChildLayers.ToString() &amp;
+             " child layer(s)" &amp; vbCrLf &amp; vbCrLf &amp;
+             "Entidades que se eliminaran:" &amp; vbCrLf &amp;
+             detalleConteo.ToString() &amp;
+             "  TOTAL: " &amp; total.ToString() &amp; vbCrLf &amp; vbCrLf &amp;
+            notaGeometria &amp;
+            vbCrLf &amp; vbCrLf &amp;
+            "¿Desea continuar?"
+
+        Dim confirmar As DialogResult = MessageBox.Show(
+            mensaje,
+            "Confirmar limpieza por layer",
+            MessageBoxButtons.YesNo,
+            MessageBoxIcon.Warning,
+            MessageBoxDefaultButton.Button2)
+        If confirmar &lt;&gt; DialogResult.Yes Then Exit Sub
+
+        etapa = "eliminacion de entidades"
+        For Each figuraEliminar As Deswik.Graphics.Primaries.Figure In entidadesAEliminar
+            figuraEliminar.Deleted = True
+        Next
+        If eliminarLineasDisparadas AndAlso indicesDisparados.Count &gt; 0 Then
+            etapa = "eliminacion de lineas disparadas"
+            Dim lineasEliminadas As New HashSet(Of String)(
+                StringComparer.OrdinalIgnoreCase)
+            Dim polilineasProcesadas As New HashSet(Of String)(
+                StringComparer.OrdinalIgnoreCase)
+
+            For Each indiceDisparado As Integer In indicesDisparados
+                Dim figuraFuente As Deswik.Graphics.Primaries.Figure =
+                    segmentoFiguras(indiceDisparado)
+                If figuraFuente.asPolyline Is Nothing Then
+                    If lineasEliminadas.Add(figuraFuente.GUID) Then
+                        figuraFuente.Deleted = True
+                    End If
+                Else
+                    Dim polilineaFuente As Deswik.Graphics.Figures.Polyline =
+                        segmentoPolilineas(indiceDisparado)
+                    If Not polilineasProcesadas.Add(polilineaFuente.GUID) Then
+                        Continue For
+                    End If
+
+                    Dim indicesCorte As New List(Of Integer)()
+                    For Each indiceCoincidente As Integer In indicesDisparados
+                        If String.Equals(polilineaFuente.GUID,
+                                         segmentoPolilineas(indiceCoincidente).GUID,
+                                         StringComparison.OrdinalIgnoreCase) AndAlso
+                           Not indicesCorte.Contains(
+                               segmentoIndices(indiceCoincidente)) Then
+                            indicesCorte.Add(segmentoIndices(indiceCoincidente))
+                        End If
+                    Next
+                    indicesCorte.Sort()
+
+                    If indicesCorte.Count &gt;= polilineaFuente.VertexCount - 1 Then
+                        polilineaFuente.Deleted = True
+                        Continue For
+                    End If
+
+                    Dim partes As Deswik.Graphics.Collections.PolylineList =
+                        polilineaFuente.DeleteSegments(indicesCorte)
+                    polilineaFuente.Deleted = True
+                    If partes Is Nothing Then Continue For
+                    For Each parte As Deswik.Graphics.Figures.Polyline In partes
+                        If parte IsNot Nothing AndAlso parte.VertexCount &gt;= 2 Then
+                            doc.ModelSpace.Entities.Add(parte)
+                        End If
+                    Next
+                End If
+            Next
+        End If
+
+        doc.ModelSpace.Entities.Update()
+        doc.OnLayersRefresh()
+        doc.Redraw(True, True)
+
+        MessageBox.Show(
+             "Limpieza terminada." &amp; vbCrLf &amp; vbCrLf &amp;
+             "Layer: " &amp; nombreSeleccionado &amp; vbCrLf &amp;
+             "Child layers incluidas: " &amp; cantidadChildLayers.ToString() &amp; vbCrLf &amp;
+             "Entidades eliminadas:" &amp; vbCrLf &amp;
+             detalleConteo.ToString() &amp;
+             "Total de entidades/segmentos eliminado: " &amp; total.ToString(),
+            "Limpieza por layer",
+            MessageBoxButtons.OK,
+            MessageBoxIcon.Information)
+    Catch ex As Exception
+        MessageBox.Show(
+            "No se pudo completar la limpieza." &amp; vbCrLf &amp;
+            "Etapa: " &amp; etapa &amp; vbCrLf &amp; vbCrLf &amp;
+            ex.GetType().FullName &amp; vbCrLf &amp; ex.Message,
+            "Limpieza por layer",
+            MessageBoxButtons.OK,
+            MessageBoxIcon.Error)
+    End Try
+End Sub
+**||**Use=True**||**Description=Limpieza configurable de entidades y líneas verticales**||**ToolTip=Limpia entidades por tipo y líneas verticales. Valores predeterminados: 50 m y 85 grados.**||**LastTab=1**||**Hidden=False**||**AllowViewing=True**||**SplitterPosition=280</Tag><_visible>True</_visible><LayersMask>1</LayersMask><LayersMaskNew>False:1</LayersMaskNew><_fillColour><A>255</A><R>177</R><G>177</G><B>177</B></_fillColour><_fillColour2><A>0</A><R>0</R><G>0</G><B>0</B></_fillColour2><_outlineColour><A>255</A><R>177</R><G>177</G><B>177</B></_outlineColour><_textColour><A>255</A><R>0</R><G>0</G><B>0</B></_textColour><_titleColour><A>255</A><R>255</R><G>255</G><B>255</B></_titleColour><_title></_title><_fill>Solid</_fill><_penWidth>3</_penWidth><_image>-1</_image><DragHandles><DH><UniqueId>0</UniqueId><location><X>120</X><Y>330</Y></location></DH><DH><UniqueId>1</UniqueId><location><X>679.99994</X><Y>330</Y></location></DH><DH><UniqueId>2</UniqueId><location><X>679.99994</X><Y>411.99997</Y></location></DH><DH><UniqueId>3</UniqueId><location><X>120</X><Y>411.99997</Y></location></DH><DH><UniqueId>4</UniqueId><location><X>399.99997</X><Y>313.59998</Y></location></DH></DragHandles><_text>2  LIMPIEZA AUTOMÁTICA
+Entidades configurables y líneas verticales: 50 m / 85°</_text><Alpha>255</Alpha><TableTextCount>0</TableTextCount><TFormat><FontName>Microsoft Sans Serif</FontName><Size>14</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TFormat><TitleFormat><FontName>Microsoft Sans Serif</FontName><Size>14</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TitleFormat><_rotation>0</_rotation><_scale><X>560</X><Y>82</Y></_scale><_translation><X>120</X><Y>330</Y></_translation></node><node><__type>Deswik.Diagram.Nodes.Shapes.RoundedRectangle</__type><DiagramGuid>23a8ee45-2014-4532-8764-476f140032d3</DiagramGuid><Name></Name><Tag persistData="4">Command:CID_LAYERS_DELETEMULTIPLE|||False|||False**||**Use=True**||**Description=Eliminación múltiple de layers**||**ToolTip=Abre el comando nativo de Deswik para seleccionar y eliminar múltiples layers.**||**LastTab=1**||**Hidden=False**||**AllowViewing=True**||**SplitterPosition=280</Tag><_visible>True</_visible><LayersMask>1</LayersMask><LayersMaskNew>False:1</LayersMaskNew><_fillColour><A>255</A><R>177</R><G>177</G><B>177</B></_fillColour><_fillColour2><A>0</A><R>0</R><G>0</G><B>0</B></_fillColour2><_outlineColour><A>255</A><R>177</R><G>177</G><B>177</B></_outlineColour><_textColour><A>255</A><R>0</R><G>0</G><B>0</B></_textColour><_titleColour><A>255</A><R>255</R><G>255</G><B>255</B></_titleColour><_title></_title><_fill>Solid</_fill><_penWidth>3</_penWidth><_image>-1</_image><DragHandles><DH><UniqueId>0</UniqueId><location><X>120</X><Y>440</Y></location></DH><DH><UniqueId>1</UniqueId><location><X>679.99994</X><Y>440</Y></location></DH><DH><UniqueId>2</UniqueId><location><X>679.99994</X><Y>521.99994</Y></location></DH><DH><UniqueId>3</UniqueId><location><X>120</X><Y>521.99994</Y></location></DH><DH><UniqueId>4</UniqueId><location><X>399.99997</X><Y>423.59998</Y></location></DH></DragHandles><_text>3  ELIMINAR LAYERS
+Selección múltiple mediante el comando nativo de Deswik</_text><Alpha>255</Alpha><TableTextCount>0</TableTextCount><TFormat><FontName>Microsoft Sans Serif</FontName><Size>14</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TFormat><TitleFormat><FontName>Microsoft Sans Serif</FontName><Size>14</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TitleFormat><_rotation>0</_rotation><_scale><X>560</X><Y>82</Y></_scale><_translation><X>120</X><Y>440</Y></_translation></node><node><__type>Deswik.Diagram.Nodes.Shapes.RoundedRectangle</__type><DiagramGuid>0f987115-b21a-4b05-939b-c24ed0e0e9fa</DiagramGuid><Name></Name><Tag persistData="5">EmbeddedMacro:'#Reference #Deswik.Common, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.dll
+'#Reference @Deswik.Common, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.dll
+'#Reference #Deswik.Common.Controls, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Controls.dll
+'#Reference @Deswik.Common.Controls, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Controls.dll
+'#Reference #Deswik.Common.Core, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Core.dll
+'#Reference @Deswik.Common.Core, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Core.dll
+'#Reference #System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+'#Reference #Deswik.Common.Utilities, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Utilities.dll
+'#Reference @Deswik.Common.Utilities, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Utilities.dll
+'#Reference #Deswik.Common.Dialogs, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Dialogs.dll
+'#Reference @Deswik.Common.Dialogs, Version=2025.2.3266.8643, Culture=neutral, PublicKeyToken=null, Path=&lt;APPDIR&gt;\Deswik.Common.Dialogs.dll
+'#Reference #System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference @System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference #System.Drawing.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference @System.Drawing.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+'#Reference @System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+'#Language "WWB.NET"
+
+Imports System
+Imports System.IO
+Imports System.Text
+Imports System.Collections.Generic
+Imports System.Windows.Forms
+
+Function EsLayerConsolidable(
+        ByVal capa As Deswik.Graphics.Primaries.Layer) As Boolean
+    If capa Is Nothing OrElse capa.Deleted Then Return False
+
+    Dim nombre As String = capa.Name.Trim()
+    If nombre.Length = 0 Then Return False
+
+    Dim partes() As String = nombre.Split(New Char() {"\"c})
+    Dim raiz As String = partes(0)
+
+    If String.Equals(raiz,
+                     "_DWG_HIDDEN_GRAPHICS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(raiz,
+                     "_DW_HIDDEN_GRAPHICS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(raiz,
+                     "DWG_SETTINGS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If String.Equals(raiz,
+                     "_DW_SETTINGS",
+                     StringComparison.OrdinalIgnoreCase) Then Return False
+    If raiz.StartsWith("_DWG_", StringComparison.OrdinalIgnoreCase) Then Return False
+    If raiz.StartsWith("_DW_", StringComparison.OrdinalIgnoreCase) Then Return False
+
+    Return True
+End Function
+
+Function TieneDescendientesConsolidados(
+        ByVal capa As Deswik.Graphics.Primaries.Layer) As Boolean
+    If capa Is Nothing OrElse capa.Deleted Then Return False
+
+    For Each hija As Deswik.Graphics.Primaries.Layer In capa.ChildrenGetAsLayerList()
+        If hija IsNot Nothing AndAlso Not hija.Deleted Then Return True
+    Next
+    Return False
+End Function
+
+Function EsNombreDescendiente(ByVal nombrePadre As String,
+                              ByVal nombrePosibleHijo As String) As Boolean
+    If String.IsNullOrEmpty(nombrePadre) OrElse
+       String.IsNullOrEmpty(nombrePosibleHijo) Then Return False
+
+    Return nombrePosibleHijo.StartsWith(
+        nombrePadre &amp; "\",
+        StringComparison.OrdinalIgnoreCase)
+End Function
+
+Function CrearHelperTemporalConsolidacionAura() As String
+    Dim auraMergeHelperRuta As String = Path.Combine(
+        Path.GetTempPath(), "aura_consolidacion_layers_" &amp; Guid.NewGuid().ToString("N") &amp; ".ps1")
+    Dim auraMergeHelperBase64 As String = _
+        "cGFyYW0oCiAgICBbUGFyYW1ldGVyKE1hbmRhdG9yeSA9ICR0cnVlKV1bc3RyaW5nXSRJbnB1dFBhdGgsCiAgICBbUGFyYW1ldGVyKE1hbmRhdG9yeSA9ICR0" &amp; _
+        "cnVlKV1bc3RyaW5nXSRPdXRwdXRQYXRoCikKCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAnU3RvcCcKQWRkLVR5cGUgLUFzc2VtYmx5TmFtZSBTeXN0ZW0u" &amp; _
+        "V2luZG93cy5Gb3JtcwpBZGQtVHlwZSAtQXNzZW1ibHlOYW1lIFN5c3RlbS5EcmF3aW5nCgpmdW5jdGlvbiBOZXctTGF5ZXJCaXRtYXAgewogICAgcGFyYW0o" &amp; _
+        "CiAgICAgICAgW1N5c3RlbS5EcmF3aW5nLkNvbG9yXSRDb2xvciwKICAgICAgICBbaW50XSRMYXllckNvdW50CiAgICApCgogICAgJGJpdG1hcCA9IFtTeXN0" &amp; _
+        "ZW0uRHJhd2luZy5CaXRtYXBdOjpuZXcoMTYsIDE2KQogICAgJGdyYXBoaWNzID0gW1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzXTo6RnJvbUltYWdlKCRiaXRt" &amp; _
+        "YXApCiAgICAkZ3JhcGhpY3MuU21vb3RoaW5nTW9kZSA9IFtTeXN0ZW0uRHJhd2luZy5EcmF3aW5nMkQuU21vb3RoaW5nTW9kZV06OkFudGlBbGlhcwogICAg" &amp; _
+        "JGJydXNoID0gW1N5c3RlbS5EcmF3aW5nLlNvbGlkQnJ1c2hdOjpuZXcoJENvbG9yKQogICAgJGJvcmRlckNvbG9yID0gW1N5c3RlbS5EcmF3aW5nLkNvbG9y" &amp; _
+        "XTo6RnJvbUFyZ2IoCiAgICAgICAgW01hdGhdOjpNYXgoMCwgJENvbG9yLlIgLSA0NSksCiAgICAgICAgW01hdGhdOjpNYXgoMCwgJENvbG9yLkcgLSA0NSks" &amp; _
+        "CiAgICAgICAgW01hdGhdOjpNYXgoMCwgJENvbG9yLkIgLSA0NSkpCiAgICAkcGVuID0gW1N5c3RlbS5EcmF3aW5nLlBlbl06Om5ldygkYm9yZGVyQ29sb3Is" &amp; _
+        "IDEpCgogICAgdHJ5IHsKICAgICAgICBmb3IgKCRpbmRleCA9ICRMYXllckNvdW50IC0gMTsgJGluZGV4IC1nZSAwOyAkaW5kZXgtLSkgewogICAgICAgICAg" &amp; _
+        "ICAkb2Zmc2V0ID0gJGluZGV4ICogMgogICAgICAgICAgICAkcG9pbnRzID0gW1N5c3RlbS5EcmF3aW5nLlBvaW50W11dQCgKICAgICAgICAgICAgICAgIFtT" &amp; _
+        "eXN0ZW0uRHJhd2luZy5Qb2ludF06Om5ldygyLCAzICsgJG9mZnNldCksCiAgICAgICAgICAgICAgICBbU3lzdGVtLkRyYXdpbmcuUG9pbnRdOjpuZXcoOCwg" &amp; _
+        "MSArICRvZmZzZXQpLAogICAgICAgICAgICAgICAgW1N5c3RlbS5EcmF3aW5nLlBvaW50XTo6bmV3KDE0LCA0ICsgJG9mZnNldCksCiAgICAgICAgICAgICAg" &amp; _
+        "ICBbU3lzdGVtLkRyYXdpbmcuUG9pbnRdOjpuZXcoOCwgNyArICRvZmZzZXQpCiAgICAgICAgICAgICkKICAgICAgICAgICAgJGdyYXBoaWNzLkZpbGxQb2x5" &amp; _
+        "Z29uKCRicnVzaCwgJHBvaW50cykKICAgICAgICAgICAgJGdyYXBoaWNzLkRyYXdQb2x5Z29uKCRwZW4sICRwb2ludHMpCiAgICAgICAgfQogICAgfQogICAg" &amp; _
+        "ZmluYWxseSB7CiAgICAgICAgJHBlbi5EaXNwb3NlKCkKICAgICAgICAkYnJ1c2guRGlzcG9zZSgpCiAgICAgICAgJGdyYXBoaWNzLkRpc3Bvc2UoKQogICAg" &amp; _
+        "fQoKICAgIHJldHVybiAkYml0bWFwCn0KCmZ1bmN0aW9uIEdldC1DaGVja2VkQ2FuZGlkYXRlTmFtZXMgewogICAgcGFyYW0oW1N5c3RlbS5XaW5kb3dzLkZv" &amp; _
+        "cm1zLlRyZWVOb2RlQ29sbGVjdGlvbl0kTm9kZXMpCgogICAgJHJlc3VsdCA9IFtTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0W3N0cmluZ11dOjpu" &amp; _
+        "ZXcoKQogICAgZm9yZWFjaCAoJG5vZGUgaW4gJE5vZGVzKSB7CiAgICAgICAgaWYgKCRub2RlLkNoZWNrZWQgLWFuZCAkc2NyaXB0OmNhbmRpZGF0ZU5hbWVz" &amp; _
+        "LkNvbnRhaW5zKFtzdHJpbmddJG5vZGUuVGFnKSkgewogICAgICAgICAgICAkcmVzdWx0LkFkZChbc3RyaW5nXSRub2RlLlRhZykKICAgICAgICB9CiAgICAg" &amp; _
+        "ICAgZm9yZWFjaCAoJGNoaWxkUmVzdWx0IGluIChHZXQtQ2hlY2tlZENhbmRpZGF0ZU5hbWVzIC1Ob2RlcyAkbm9kZS5Ob2RlcykpIHsKICAgICAgICAgICAg" &amp; _
+        "JHJlc3VsdC5BZGQoJGNoaWxkUmVzdWx0KQogICAgICAgIH0KICAgIH0KICAgIHJldHVybiAkcmVzdWx0Cn0KCmZ1bmN0aW9uIFNldC1EZXNjZW5kYW50c1Vu" &amp; _
+        "Y2hlY2tlZCB7CiAgICBwYXJhbShbU3lzdGVtLldpbmRvd3MuRm9ybXMuVHJlZU5vZGVdJE5vZGUpCgogICAgZm9yZWFjaCAoJGNoaWxkIGluICROb2RlLk5v" &amp; _
+        "ZGVzKSB7CiAgICAgICAgJGNoaWxkLkNoZWNrZWQgPSAkZmFsc2UKICAgICAgICBTZXQtRGVzY2VuZGFudHNVbmNoZWNrZWQgLU5vZGUgJGNoaWxkCiAgICB9" &amp; _
+        "Cn0KCmZ1bmN0aW9uIFVwZGF0ZS1TZWxlY3Rpb25TdGF0dXMgewogICAgJHNlbGVjdGVkID0gQChHZXQtQ2hlY2tlZENhbmRpZGF0ZU5hbWVzIC1Ob2RlcyAk" &amp; _
+        "bGF5ZXJUcmVlLk5vZGVzKQogICAgJHNlbGVjdGlvblN0YXR1cy5UZXh0ID0gIlBhcmVudCBsYXllcnMgc2VsZWNjaW9uYWRhczogJCgkc2VsZWN0ZWQuQ291" &amp; _
+        "bnQpIgogICAgJGNvbmZpcm1CdXR0b24uRW5hYmxlZCA9ICRzZWxlY3RlZC5Db3VudCAtZ3QgMAp9CgokbGluZXMgPSBbU3lzdGVtLklPLkZpbGVdOjpSZWFk" &amp; _
+        "QWxsTGluZXMoJElucHV0UGF0aCkKJGFjdGl2ZUxheWVyID0gaWYgKCRsaW5lcy5Db3VudCAtZ3QgMCkgeyAkbGluZXNbMF0uVHJpbSgpIH0gZWxzZSB7ICcn" &amp; _
+        "IH0KJGxheWVyRmxhZ3MgPSBAe30KCmlmICgkbGluZXMuQ291bnQgLWd0IDEpIHsKICAgIGZvcmVhY2ggKCRsaW5lIGluICRsaW5lc1sxLi4oJGxpbmVzLkNv" &amp; _
+        "dW50IC0gMSldKSB7CiAgICAgICAgaWYgKFtzdHJpbmddOjpJc051bGxPcldoaXRlU3BhY2UoJGxpbmUpKSB7IGNvbnRpbnVlIH0KICAgICAgICAkcGFydHMg" &amp; _
+        "PSAkbGluZSAtc3BsaXQgImB0IiwgMgogICAgICAgIGlmICgkcGFydHMuQ291bnQgLW5lIDIgLW9yIFtzdHJpbmddOjpJc051bGxPcldoaXRlU3BhY2UoJHBh" &amp; _
+        "cnRzWzFdKSkgeyBjb250aW51ZSB9CiAgICAgICAgJGxheWVyTmFtZSA9ICRwYXJ0c1sxXS5UcmltKCkKICAgICAgICAkbGF5ZXJGbGFnc1skbGF5ZXJOYW1l" &amp; _
+        "XSA9ICRwYXJ0c1swXS5UcmltKCkgLWVxICcxJwogICAgfQp9CgokYXZhaWxhYmxlTGF5ZXJzID0gQCgkbGF5ZXJGbGFncy5LZXlzIHwgU29ydC1PYmplY3Qg" &amp; _
+        "YAogICAgQHsgRXhwcmVzc2lvbiA9IHsgKCRfIC1zcGxpdCAnXFwnKS5Db3VudCB9IH0sIGAKICAgIEB7IEV4cHJlc3Npb24gPSB7ICRfLlRvTG93ZXJJbnZh" &amp; _
+        "cmlhbnQoKSB9IH0pCgokc2NyaXB0OmNhbmRpZGF0ZU5hbWVzID0gW1N5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkhhc2hTZXRbc3RyaW5nXV06Om5ldygK" &amp; _
+        "ICAgIFtTeXN0ZW0uU3RyaW5nQ29tcGFyZXJdOjpPcmRpbmFsSWdub3JlQ2FzZSkKZm9yZWFjaCAoJGxheWVyTmFtZSBpbiAkYXZhaWxhYmxlTGF5ZXJzKSB7" &amp; _
+        "CiAgICBpZiAoJGxheWVyRmxhZ3NbJGxheWVyTmFtZV0pIHsgW3ZvaWRdJHNjcmlwdDpjYW5kaWRhdGVOYW1lcy5BZGQoJGxheWVyTmFtZSkgfQp9CgppZiAo" &amp; _
+        "JGF2YWlsYWJsZUxheWVycy5Db3VudCAtZXEgMCAtb3IgJHNjcmlwdDpjYW5kaWRhdGVOYW1lcy5Db3VudCAtZXEgMCkgewogICAgW1N5c3RlbS5JTy5GaWxl" &amp; _
+        "XTo6V3JpdGVBbGxMaW5lcygkT3V0cHV0UGF0aCwgQCgKICAgICAgICAnRVJST1InLAogICAgICAgICdObyBoYXkgcGFyZW50IGxheWVycyBjb24gY2hpbGQg" &amp; _
+        "bGF5ZXJzIGVuIGVsIHBhbmVsIExheWVyIENvbnRyb2wuJwogICAgKSkKICAgIGV4aXQgMAp9CgokZm9ybSA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3Mu" &amp; _
+        "Rm9ybXMuRm9ybQokZm9ybS5UZXh0ID0gJ0NvbnNvbGlkYXIgY2hpbGQgbGF5ZXJzIGVuIHN1cyBwYXJlbnQgbGF5ZXJzJwokZm9ybS5TdGFydFBvc2l0aW9u" &amp; _
+        "ID0gJ0NlbnRlclNjcmVlbicKJGZvcm0uRm9ybUJvcmRlclN0eWxlID0gJ0ZpeGVkRGlhbG9nJwokZm9ybS5NaW5pbWl6ZUJveCA9ICRmYWxzZQokZm9ybS5N" &amp; _
+        "YXhpbWl6ZUJveCA9ICRmYWxzZQokZm9ybS5Ub3BNb3N0ID0gJHRydWUKJGZvcm0uQ2xpZW50U2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6" &amp; _
+        "ZSg3MDAsIDYyMCkKCiR0aXRsZSA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3MuRm9ybXMuTGFiZWwKJHRpdGxlLlRleHQgPSAnU2VsZWNjaW9uYSB1bmEg" &amp; _
+        "byB2YXJpYXMgcGFyZW50IGxheWVycyBkZWwgcGFuZWwgTGF5ZXIgQ29udHJvbDonCiR0aXRsZS5BdXRvU2l6ZSA9ICR0cnVlCiR0aXRsZS5Gb250ID0gTmV3" &amp; _
+        "LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Gb250KCR0aXRsZS5Gb250LCBbU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlXTo6Qm9sZCkKJHRpdGxlLkxvY2F0aW9u" &amp; _
+        "ID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgxOCwgMTgpCgokZGVzY3JpcHRpb24gPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1z" &amp; _
+        "LkxhYmVsCiRkZXNjcmlwdGlvbi5UZXh0ID0gJ0NhZGEgcGFyZW50IGFic29yYmVyYSBsYXMgZW50aWRhZGVzIGRlIHRvZG9zIHN1cyBkZXNjZW5kaWVudGVz" &amp; _
+        "IHkgZGVzcHVlcyBzZSBlbGltaW5hcmFuIGxhcyBjaGlsZCBsYXllcnMgdmFjaWFzLicKJGRlc2NyaXB0aW9uLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0" &amp; _
+        "ZW0uRHJhd2luZy5Qb2ludCgxOCwgNDcpCiRkZXNjcmlwdGlvbi5TaXplID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5TaXplKDY2MiwgMzQpCiRkZXNj" &amp; _
+        "cmlwdGlvbi5Gb3JlQ29sb3IgPSBbU3lzdGVtLkRyYXdpbmcuQ29sb3JdOjpGcm9tQXJnYigxNzAsIDcwLCAyNSkKCiRydWxlID0gTmV3LU9iamVjdCBTeXN0" &amp; _
+        "ZW0uV2luZG93cy5Gb3Jtcy5MYWJlbAokcnVsZS5UZXh0ID0gJ1NlIG11ZXN0cmFuIGxhcyBsYXllcnMgcmVhbGVzIGRlbCBwYW5lbCBMYXllciBDb250cm9s" &amp; _
+        "LCBlc3TDqW4gZW5jZW5kaWRhcyBvIGFwYWdhZGFzLiBTb2xvIHNlIHB1ZWRlbiBtYXJjYXIgbGFzIHF1ZSB0ZW5nYW4gZGVzY2VuZGllbnRlcy4gTm8gc2Ug" &amp; _
+        "cGVybWl0ZSBtYXJjYXIgYSBsYSB2ZXogdW5hIHBhcmVudCB5IG90cmEgcGFyZW50IGNvbnRlbmlkYSBkZW50cm8gZGUgZWxsYS4nCiRydWxlLkxvY2F0aW9u" &amp; _
+        "ID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgxOCwgODIpCiRydWxlLlNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlNpemUoNjYy" &amp; _
+        "LCAzNCkKJHJ1bGUuRm9yZUNvbG9yID0gW1N5c3RlbS5EcmF3aW5nLkNvbG9yXTo6RnJvbUFyZ2IoNzUsIDc1LCA3NSkKCiRleHBhbmRCdXR0b24gPSBOZXct" &amp; _
+        "T2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkJ1dHRvbgokZXhwYW5kQnV0dG9uLlRleHQgPSAnRXhwYW5kaXInCiRleHBhbmRCdXR0b24uTG9jYXRpb24g" &amp; _
+        "PSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlBvaW50KDQyNCwgMTIxKQokZXhwYW5kQnV0dG9uLlNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5n" &amp; _
+        "LlNpemUoODIsIDI3KQokZXhwYW5kQnV0dG9uLlRhYlN0b3AgPSAkZmFsc2UKCiRjb2xsYXBzZUJ1dHRvbiA9IE5ldy1PYmplY3QgU3lzdGVtLldpbmRvd3Mu" &amp; _
+        "Rm9ybXMuQnV0dG9uCiRjb2xsYXBzZUJ1dHRvbi5UZXh0ID0gJ0NvbnRyYWVyJwokY29sbGFwc2VCdXR0b24uTG9jYXRpb24gPSBOZXctT2JqZWN0IFN5c3Rl" &amp; _
+        "bS5EcmF3aW5nLlBvaW50KDUxMiwgMTIxKQokY29sbGFwc2VCdXR0b24uU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg4MiwgMjcpCiRj" &amp; _
+        "b2xsYXBzZUJ1dHRvbi5UYWJTdG9wID0gJGZhbHNlCgokY2xlYXJCdXR0b24gPSBOZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkJ1dHRvbgokY2xl" &amp; _
+        "YXJCdXR0b24uVGV4dCA9ICdMaW1waWFyIGNoZWNrcycKJGNsZWFyQnV0dG9uLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCg2" &amp; _
+        "MDAsIDEyMSkKJGNsZWFyQnV0dG9uLlNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlNpemUoODIsIDI3KQokY2xlYXJCdXR0b24uVGFiU3RvcCA9" &amp; _
+        "ICRmYWxzZQoKJGxheWVySW1hZ2VzID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3QKJGxheWVySW1hZ2VzLkltYWdlU2l6ZSA9" &amp; _
+        "IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSgxNiwgMTYpCiRsYXllckltYWdlcy5Db2xvckRlcHRoID0gW1N5c3RlbS5XaW5kb3dzLkZvcm1zLkNv" &amp; _
+        "bG9yRGVwdGhdOjpEZXB0aDMyQml0CiRwYXJlbnRCaXRtYXAgPSBOZXctTGF5ZXJCaXRtYXAgKFtTeXN0ZW0uRHJhd2luZy5Db2xvcl06OkZyb21BcmdiKDQ3" &amp; _
+        "LCAxMjAsIDE3MCkpIDMKJGNoaWxkQml0bWFwID0gTmV3LUxheWVyQml0bWFwIChbU3lzdGVtLkRyYXdpbmcuQ29sb3JdOjpGcm9tQXJnYig3OSwgMTU3LCAy" &amp; _
+        "MDcpKSAxClt2b2lkXSRsYXllckltYWdlcy5JbWFnZXMuQWRkKCdwYXJlbnQnLCAkcGFyZW50Qml0bWFwKQpbdm9pZF0kbGF5ZXJJbWFnZXMuSW1hZ2VzLkFk" &amp; _
+        "ZCgnbGF5ZXInLCAkY2hpbGRCaXRtYXApCgokbGF5ZXJUcmVlID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5UcmVlVmlldwokbGF5ZXJUcmVl" &amp; _
+        "LkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Qb2ludCgxOCwgMTU2KQokbGF5ZXJUcmVlLlNpemUgPSBOZXctT2JqZWN0IFN5c3RlbS5E" &amp; _
+        "cmF3aW5nLlNpemUoNjY0LCAzNzApCiRsYXllclRyZWUuQ2hlY2tCb3hlcyA9ICR0cnVlCiRsYXllclRyZWUuSGlkZVNlbGVjdGlvbiA9ICRmYWxzZQokbGF5" &amp; _
+        "ZXJUcmVlLkZ1bGxSb3dTZWxlY3QgPSAkdHJ1ZQokbGF5ZXJUcmVlLlNob3dMaW5lcyA9ICR0cnVlCiRsYXllclRyZWUuU2hvd1BsdXNNaW51cyA9ICR0cnVl" &amp; _
+        "CiRsYXllclRyZWUuU2hvd1Jvb3RMaW5lcyA9ICR0cnVlCiRsYXllclRyZWUuUGF0aFNlcGFyYXRvciA9ICdcJwokbGF5ZXJUcmVlLkltYWdlTGlzdCA9ICRs" &amp; _
+        "YXllckltYWdlcwokbGF5ZXJUcmVlLlRhYkluZGV4ID0gMAoKJG5vZGVNYXAgPSBAe30KZm9yZWFjaCAoJGZ1bGxMYXllck5hbWUgaW4gJGF2YWlsYWJsZUxh" &amp; _
+        "eWVycykgewogICAgJHNlZ21lbnRzID0gQCgkZnVsbExheWVyTmFtZSAtc3BsaXQgJ1xcJyB8IFdoZXJlLU9iamVjdCB7ICRfLkxlbmd0aCAtZ3QgMCB9KQog" &amp; _
+        "ICAgJGN1cnJlbnRQYXRoID0gJycKICAgICRwYXJlbnROb2RlID0gJG51bGwKCiAgICBmb3JlYWNoICgkc2VnbWVudCBpbiAkc2VnbWVudHMpIHsKICAgICAg" &amp; _
+        "ICAkY3VycmVudFBhdGggPSBpZiAoJGN1cnJlbnRQYXRoLkxlbmd0aCAtZXEgMCkgeyAkc2VnbWVudCB9IGVsc2UgeyAiJGN1cnJlbnRQYXRoXCRzZWdtZW50" &amp; _
+        "IiB9CiAgICAgICAgaWYgKC1ub3QgJG5vZGVNYXAuQ29udGFpbnNLZXkoJGN1cnJlbnRQYXRoKSkgewogICAgICAgICAgICAkbm9kZSA9IFtTeXN0ZW0uV2lu" &amp; _
+        "ZG93cy5Gb3Jtcy5UcmVlTm9kZV06Om5ldyhbc3RyaW5nXSRzZWdtZW50KQogICAgICAgICAgICAkbm9kZS5OYW1lID0gJGN1cnJlbnRQYXRoCiAgICAgICAg" &amp; _
+        "ICAgICRub2RlLlRhZyA9ICRjdXJyZW50UGF0aAogICAgICAgICAgICAkbm9kZS5JbWFnZUtleSA9ICdsYXllcicKICAgICAgICAgICAgJG5vZGUuU2VsZWN0" &amp; _
+        "ZWRJbWFnZUtleSA9ICdsYXllcicKCiAgICAgICAgICAgIGlmICgkbnVsbCAtZXEgJHBhcmVudE5vZGUpIHsKICAgICAgICAgICAgICAgIFt2b2lkXSRsYXll" &amp; _
+        "clRyZWUuTm9kZXMuQWRkKCRub2RlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgW3ZvaWRdJHBhcmVudE5vZGUu" &amp; _
+        "Tm9kZXMuQWRkKCRub2RlKQogICAgICAgICAgICB9CiAgICAgICAgICAgICRub2RlTWFwWyRjdXJyZW50UGF0aF0gPSAkbm9kZQogICAgICAgIH0KICAgICAg" &amp; _
+        "ICAkcGFyZW50Tm9kZSA9ICRub2RlTWFwWyRjdXJyZW50UGF0aF0KICAgIH0KfQoKZm9yZWFjaCAoJG5vZGUgaW4gJG5vZGVNYXAuVmFsdWVzKSB7CiAgICBp" &amp; _
+        "ZiAoJHNjcmlwdDpjYW5kaWRhdGVOYW1lcy5Db250YWlucyhbc3RyaW5nXSRub2RlLlRhZykpIHsKICAgICAgICAkbm9kZS5JbWFnZUtleSA9ICdwYXJlbnQn" &amp; _
+        "CiAgICAgICAgJG5vZGUuU2VsZWN0ZWRJbWFnZUtleSA9ICdwYXJlbnQnCiAgICAgICAgJG5vZGUuTm9kZUZvbnQgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3" &amp; _
+        "aW5nLkZvbnQoJGxheWVyVHJlZS5Gb250LCBbU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlXTo6Qm9sZCkKICAgIH0KICAgIGVsc2UgewogICAgICAgICRub2Rl" &amp; _
+        "LkZvcmVDb2xvciA9IFtTeXN0ZW0uRHJhd2luZy5Db2xvcl06OkZyb21BcmdiKDEzNSwgMTM1LCAxMzUpCiAgICB9Cn0KCiRzZWxlY3Rpb25TdGF0dXMgPSBO" &amp; _
+        "ZXctT2JqZWN0IFN5c3RlbS5XaW5kb3dzLkZvcm1zLkxhYmVsCiRzZWxlY3Rpb25TdGF0dXMuVGV4dCA9ICdQYXJlbnQgbGF5ZXJzIHNlbGVjY2lvbmFkYXM6" &amp; _
+        "IDAnCiRzZWxlY3Rpb25TdGF0dXMuQXV0b1NpemUgPSAkdHJ1ZQokc2VsZWN0aW9uU3RhdHVzLkZvbnQgPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLkZv" &amp; _
+        "bnQoJHNlbGVjdGlvblN0YXR1cy5Gb250LCBbU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlXTo6Qm9sZCkKJHNlbGVjdGlvblN0YXR1cy5Mb2NhdGlvbiA9IE5l" &amp; _
+        "dy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoMTgsIDU0MCkKCiRjb25maXJtQnV0dG9uID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5Gb3Jtcy5C" &amp; _
+        "dXR0b24KJGNvbmZpcm1CdXR0b24uVGV4dCA9ICdDb250aW51YXInCiRjb25maXJtQnV0dG9uLkxvY2F0aW9uID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2lu" &amp; _
+        "Zy5Qb2ludCg1MDYsIDU3NCkKJGNvbmZpcm1CdXR0b24uU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg4NCwgMzApCiRjb25maXJtQnV0" &amp; _
+        "dG9uLkVuYWJsZWQgPSAkZmFsc2UKJGNvbmZpcm1CdXR0b24uVGFiSW5kZXggPSAxCgokY2FuY2VsQnV0dG9uID0gTmV3LU9iamVjdCBTeXN0ZW0uV2luZG93" &amp; _
+        "cy5Gb3Jtcy5CdXR0b24KJGNhbmNlbEJ1dHRvbi5UZXh0ID0gJ0NhbmNlbGFyJwokY2FuY2VsQnV0dG9uLkRpYWxvZ1Jlc3VsdCA9IFtTeXN0ZW0uV2luZG93" &amp; _
+        "cy5Gb3Jtcy5EaWFsb2dSZXN1bHRdOjpDYW5jZWwKJGNhbmNlbEJ1dHRvbi5Mb2NhdGlvbiA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuUG9pbnQoNTk4" &amp; _
+        "LCA1NzQpCiRjYW5jZWxCdXR0b24uU2l6ZSA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU2l6ZSg4NCwgMzApCiRjYW5jZWxCdXR0b24uVGFiSW5kZXgg" &amp; _
+        "PSAyCgokc2NyaXB0OnVwZGF0aW5nQ2hlY2tzID0gJGZhbHNlCiRsYXllclRyZWUuQWRkX0FmdGVyQ2hlY2soewogICAgaWYgKCRzY3JpcHQ6dXBkYXRpbmdD" &amp; _
+        "aGVja3MpIHsgcmV0dXJuIH0KICAgICRzY3JpcHQ6dXBkYXRpbmdDaGVja3MgPSAkdHJ1ZQogICAgdHJ5IHsKICAgICAgICAkbm9kZSA9ICRfLk5vZGUKICAg" &amp; _
+        "ICAgICAkbmFtZSA9IFtzdHJpbmddJG5vZGUuVGFnCgogICAgICAgIGlmICgtbm90ICRzY3JpcHQ6Y2FuZGlkYXRlTmFtZXMuQ29udGFpbnMoJG5hbWUpKSB7" &amp; _
+        "CiAgICAgICAgICAgICRub2RlLkNoZWNrZWQgPSAkZmFsc2UKICAgICAgICB9CiAgICAgICAgZWxzZWlmICgkbm9kZS5DaGVja2VkKSB7CiAgICAgICAgICAg" &amp; _
+        "ICRhbmNlc3RvciA9ICRub2RlLlBhcmVudAogICAgICAgICAgICB3aGlsZSAoJG51bGwgLW5lICRhbmNlc3RvcikgewogICAgICAgICAgICAgICAgJGFuY2Vz" &amp; _
+        "dG9yLkNoZWNrZWQgPSAkZmFsc2UKICAgICAgICAgICAgICAgICRhbmNlc3RvciA9ICRhbmNlc3Rvci5QYXJlbnQKICAgICAgICAgICAgfQogICAgICAgICAg" &amp; _
+        "ICBTZXQtRGVzY2VuZGFudHNVbmNoZWNrZWQgLU5vZGUgJG5vZGUKICAgICAgICB9CiAgICB9CiAgICBmaW5hbGx5IHsKICAgICAgICAkc2NyaXB0OnVwZGF0" &amp; _
+        "aW5nQ2hlY2tzID0gJGZhbHNlCiAgICB9CiAgICBVcGRhdGUtU2VsZWN0aW9uU3RhdHVzCn0pCgokZXhwYW5kQnV0dG9uLkFkZF9DbGljayh7ICRsYXllclRy" &amp; _
+        "ZWUuRXhwYW5kQWxsKCkgfSkKJGNvbGxhcHNlQnV0dG9uLkFkZF9DbGljayh7ICRsYXllclRyZWUuQ29sbGFwc2VBbGwoKSB9KQokY2xlYXJCdXR0b24uQWRk" &amp; _
+        "X0NsaWNrKHsKICAgICRzY3JpcHQ6dXBkYXRpbmdDaGVja3MgPSAkdHJ1ZQogICAgdHJ5IHsKICAgICAgICBmb3JlYWNoICgkbm9kZSBpbiAkbm9kZU1hcC5W" &amp; _
+        "YWx1ZXMpIHsgJG5vZGUuQ2hlY2tlZCA9ICRmYWxzZSB9CiAgICB9CiAgICBmaW5hbGx5IHsKICAgICAgICAkc2NyaXB0OnVwZGF0aW5nQ2hlY2tzID0gJGZh" &amp; _
+        "bHNlCiAgICB9CiAgICBVcGRhdGUtU2VsZWN0aW9uU3RhdHVzCn0pCgokY29uZmlybUJ1dHRvbi5BZGRfQ2xpY2soewogICAgJHNlbGVjdGVkID0gQChHZXQt" &amp; _
+        "Q2hlY2tlZENhbmRpZGF0ZU5hbWVzIC1Ob2RlcyAkbGF5ZXJUcmVlLk5vZGVzKQogICAgaWYgKCRzZWxlY3RlZC5Db3VudCAtZXEgMCkgewogICAgICAgIFtT" &amp; _
+        "eXN0ZW0uV2luZG93cy5Gb3Jtcy5NZXNzYWdlQm94XTo6U2hvdygKICAgICAgICAgICAgJ1NlbGVjY2lvbmEgYWwgbWVub3MgdW5hIHBhcmVudCBsYXllci4n" &amp; _
+        "LAogICAgICAgICAgICAnQ29uc29saWRhciBjaGlsZCBsYXllcnMnLAogICAgICAgICAgICBbU3lzdGVtLldpbmRvd3MuRm9ybXMuTWVzc2FnZUJveEJ1dHRv" &amp; _
+        "bnNdOjpPSywKICAgICAgICAgICAgW1N5c3RlbS5XaW5kb3dzLkZvcm1zLk1lc3NhZ2VCb3hJY29uXTo6SW5mb3JtYXRpb24pIHwgT3V0LU51bGwKICAgICAg" &amp; _
+        "ICByZXR1cm4KICAgIH0KCiAgICAkZm9ybS5EaWFsb2dSZXN1bHQgPSBbU3lzdGVtLldpbmRvd3MuRm9ybXMuRGlhbG9nUmVzdWx0XTo6T0sKICAgICRmb3Jt" &amp; _
+        "LkNsb3NlKCkKfSkKCmlmICgkbm9kZU1hcC5Db250YWluc0tleSgkYWN0aXZlTGF5ZXIpKSB7CiAgICAkc2VsZWN0ZWROb2RlID0gJG5vZGVNYXBbJGFjdGl2" &amp; _
+        "ZUxheWVyXQogICAgJGxheWVyVHJlZS5TZWxlY3RlZE5vZGUgPSAkc2VsZWN0ZWROb2RlCiAgICAkYW5jZXN0b3IgPSAkc2VsZWN0ZWROb2RlLlBhcmVudAog" &amp; _
+        "ICAgd2hpbGUgKCRudWxsIC1uZSAkYW5jZXN0b3IpIHsKICAgICAgICAkYW5jZXN0b3IuRXhwYW5kKCkKICAgICAgICAkYW5jZXN0b3IgPSAkYW5jZXN0b3Iu" &amp; _
+        "UGFyZW50CiAgICB9CiAgICAkc2VsZWN0ZWROb2RlLkVuc3VyZVZpc2libGUoKQp9CmVsc2VpZiAoJGxheWVyVHJlZS5Ob2Rlcy5Db3VudCAtZ3QgMCkgewog" &amp; _
+        "ICAgJGxheWVyVHJlZS5TZWxlY3RlZE5vZGUgPSAkbGF5ZXJUcmVlLk5vZGVzWzBdCn0KCiRmb3JtLkNvbnRyb2xzLkFkZFJhbmdlKEAoCiAgICAkdGl0bGUs" &amp; _
+        "ICRkZXNjcmlwdGlvbiwgJHJ1bGUsICRleHBhbmRCdXR0b24sICRjb2xsYXBzZUJ1dHRvbiwgJGNsZWFyQnV0dG9uLAogICAgJGxheWVyVHJlZSwgJHNlbGVj" &amp; _
+        "dGlvblN0YXR1cywgJGNvbmZpcm1CdXR0b24sICRjYW5jZWxCdXR0b24KKSkKJGZvcm0uQWNjZXB0QnV0dG9uID0gJGNvbmZpcm1CdXR0b24KJGZvcm0uQ2Fu" &amp; _
+        "Y2VsQnV0dG9uID0gJGNhbmNlbEJ1dHRvbgoKJGRpYWxvZ1Jlc3VsdCA9ICRmb3JtLlNob3dEaWFsb2coKQppZiAoJGRpYWxvZ1Jlc3VsdCAtZXEgW1N5c3Rl" &amp; _
+        "bS5XaW5kb3dzLkZvcm1zLkRpYWxvZ1Jlc3VsdF06Ok9LKSB7CiAgICAkc2VsZWN0ZWQgPSBAKEdldC1DaGVja2VkQ2FuZGlkYXRlTmFtZXMgLU5vZGVzICRs" &amp; _
+        "YXllclRyZWUuTm9kZXMpCiAgICAkb3V0cHV0TGluZXMgPSBbU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdFtzdHJpbmddXTo6bmV3KCkKICAgICRv" &amp; _
+        "dXRwdXRMaW5lcy5BZGQoJ09LJykKICAgIGZvcmVhY2ggKCRzZWxlY3RlZE5hbWUgaW4gJHNlbGVjdGVkKSB7ICRvdXRwdXRMaW5lcy5BZGQoJHNlbGVjdGVk" &amp; _
+        "TmFtZSkgfQogICAgW1N5c3RlbS5JTy5GaWxlXTo6V3JpdGVBbGxMaW5lcygkT3V0cHV0UGF0aCwgJG91dHB1dExpbmVzKQp9CmVsc2UgewogICAgW1N5c3Rl" &amp; _
+        "bS5JTy5GaWxlXTo6V3JpdGVBbGxMaW5lcygkT3V0cHV0UGF0aCwgQCgnQ0FOQ0VMJykpCn0K"
+    File.WriteAllBytes(auraMergeHelperRuta, Convert.FromBase64String(auraMergeHelperBase64))
+    Return auraMergeHelperRuta
+End Function
+
+Function SeleccionarParentsDelPanel(
+        ByVal doc As Deswik.Graphics.Application) As List(Of String)
+    Dim resultado As New List(Of String)()
+    Dim helper As String = CrearHelperTemporalConsolidacionAura()
+
+    Dim token As String = Guid.NewGuid().ToString("N")
+    Dim entrada As String = Path.Combine(
+        Path.GetTempPath(), "deswik_consolidar_input_" &amp; token &amp; ".txt")
+    Dim salida As String = Path.Combine(
+        Path.GetTempPath(), "deswik_consolidar_output_" &amp; token &amp; ".txt")
+
+    Try
+        Dim capasDelPanel As New List(Of Deswik.Graphics.Primaries.Layer)()
+        For Each capa As Deswik.Graphics.Primaries.Layer In doc.Layers
+            If EsLayerConsolidable(capa) Then
+                capasDelPanel.Add(capa)
+            End If
+        Next
+
+        If capasDelPanel.Count = 0 Then
+            MessageBox.Show("No hay layers seleccionables en el panel Layer Control.",
+                            "Consolidar child layers",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Information)
+            Return resultado
+        End If
+
+        Dim activa As String = ""
+        If EsLayerConsolidable(doc.ActiveLayer) Then
+            activa = doc.ActiveLayer.Name
+        End If
+
+        Dim contenido As New StringBuilder()
+        contenido.AppendLine(activa)
+        For Each capaDelPanel As Deswik.Graphics.Primaries.Layer In capasDelPanel
+            If TieneDescendientesConsolidados(capaDelPanel) Then
+                contenido.Append("1")
+            Else
+                contenido.Append("0")
+            End If
+            contenido.Append(vbTab)
+            contenido.AppendLine(capaDelPanel.Name)
+        Next
+        File.WriteAllText(entrada, contenido.ToString(), Encoding.UTF8)
+
+        Dim inicio As New System.Diagnostics.ProcessStartInfo()
+        inicio.FileName = "powershell.exe"
+        inicio.Arguments = "-NoProfile -ExecutionPolicy Bypass -STA -File """ &amp;
+                           helper &amp; """ -InputPath """ &amp; entrada &amp;
+                           """ -OutputPath """ &amp; salida &amp; """"
+        inicio.UseShellExecute = False
+        inicio.CreateNoWindow = True
+
+        Dim proceso As System.Diagnostics.Process =
+            System.Diagnostics.Process.Start(inicio)
+        If proceso Is Nothing Then
+            Throw New Exception("No se pudo iniciar el selector de layers.")
+        End If
+        proceso.WaitForExit()
+
+        If proceso.ExitCode &lt;&gt; 0 OrElse Not File.Exists(salida) Then
+            Throw New Exception("El selector termino sin devolver una respuesta.")
+        End If
+
+        Dim respuesta() As String = File.ReadAllLines(salida)
+        If respuesta.Length = 0 Then
+            Throw New Exception("La respuesta del selector esta vacia.")
+        End If
+        If String.Equals(respuesta(0),
+                         "CANCEL",
+                         StringComparison.OrdinalIgnoreCase) Then Return resultado
+        If String.Equals(respuesta(0),
+                         "ERROR",
+                         StringComparison.OrdinalIgnoreCase) Then
+            Dim detalle As String = "Error desconocido del selector."
+            If respuesta.Length &gt; 1 Then detalle = respuesta(1)
+            Throw New Exception(detalle)
+        End If
+        If Not String.Equals(respuesta(0),
+                             "OK",
+                             StringComparison.OrdinalIgnoreCase) Then
+            Throw New Exception("La respuesta del selector no es valida.")
+        End If
+
+        For indice As Integer = 1 To respuesta.Length - 1
+            Dim nombre As String = respuesta(indice).Trim()
+            If nombre.Length &gt; 0 AndAlso Not resultado.Contains(nombre) Then
+                resultado.Add(nombre)
+            End If
+        Next
+
+        If resultado.Count = 0 Then
+            Throw New Exception("No se selecciono ninguna parent layer.")
+        End If
+    Catch ex As Exception
+        MessageBox.Show("No se pudieron seleccionar las parent layers: " &amp; ex.Message,
+                        "Consolidar child layers",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error)
+        resultado.Clear()
+    Finally
+        Try
+            If File.Exists(entrada) Then File.Delete(entrada)
+            If File.Exists(salida) Then File.Delete(salida)
+            If File.Exists(helper) Then File.Delete(helper)
+        Catch
+        End Try
+    End Try
+
+    Return resultado
+End Function
+
+Sub Main()
+    Try
+        Dim doc As Deswik.Graphics.Application = CurrentDoc
+        If doc Is Nothing Then
+            MessageBox.Show("No hay un documento activo.",
+                            "Consolidar child layers",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Information)
+            Exit Sub
+        End If
+
+        Dim nombresSeleccionados As List(Of String) =
+            SeleccionarParentsDelPanel(doc)
+        If nombresSeleccionados.Count = 0 Then Exit Sub
+
+        Dim parents As New List(Of Deswik.Graphics.Primaries.Layer)()
+        For Each nombreSeleccionado As String In nombresSeleccionados
+            Dim parentValidada As Deswik.Graphics.Primaries.Layer =
+                doc.Layers.FindName(nombreSeleccionado, True)
+            If parentValidada Is Nothing OrElse parentValidada.Deleted OrElse
+               Not EsLayerConsolidable(parentValidada) OrElse
+               Not TieneDescendientesConsolidados(parentValidada) Then
+                MessageBox.Show(
+                    "La layer ya no es una parent valida del panel Layer Control:" &amp; vbCrLf &amp;
+                    nombreSeleccionado,
+                    "Consolidar child layers",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning)
+                Exit Sub
+            End If
+            parents.Add(parentValidada)
+        Next
+
+        For indiceA As Integer = 0 To parents.Count - 1
+            For indiceB As Integer = indiceA + 1 To parents.Count - 1
+                If EsNombreDescendiente(parents(indiceA).Name, parents(indiceB).Name) OrElse
+                   EsNombreDescendiente(parents(indiceB).Name, parents(indiceA).Name) Then
+                    MessageBox.Show(
+                        "No se puede seleccionar simultaneamente una parent y otra " &amp;
+                        "parent incluida dentro de ella:" &amp; vbCrLf &amp; vbCrLf &amp;
+                        parents(indiceA).Name &amp; vbCrLf &amp; parents(indiceB).Name,
+                        "Consolidar child layers",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Warning)
+                    Exit Sub
+                End If
+            Next
+        Next
+
+        Dim destinoPorGuid As New Dictionary(Of String, Deswik.Graphics.Primaries.Layer)(
+            StringComparer.OrdinalIgnoreCase)
+        Dim childNamesChildFirst As New List(Of String)()
+        Dim childNamesUnicos As New HashSet(Of String)(
+            StringComparer.OrdinalIgnoreCase)
+        Dim totalEntidadesEstimadas As Integer = 0
+
+        For Each parentObjetivo As Deswik.Graphics.Primaries.Layer In parents
+            For Each nombreChild As String In parentObjetivo.GetChildrenChildFirst()
+                Dim childOrigen As Deswik.Graphics.Primaries.Layer =
+                    doc.Layers.FindName(nombreChild, True)
+                If childOrigen Is Nothing OrElse childOrigen.Deleted Then Continue For
+
+                If destinoPorGuid.ContainsKey(childOrigen.GUID) Then
+                    MessageBox.Show(
+                        "Se detecto una child layer compartida entre selecciones:" &amp; vbCrLf &amp;
+                        childOrigen.Name,
+                        "Consolidar child layers",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Warning)
+                    Exit Sub
+                End If
+
+                destinoPorGuid.Add(childOrigen.GUID, parentObjetivo)
+                If childNamesUnicos.Add(childOrigen.Name) Then
+                    childNamesChildFirst.Add(childOrigen.Name)
+                    totalEntidadesEstimadas = totalEntidadesEstimadas +
+                                             childOrigen.NonDeletedEntitiesCount(doc)
+                End If
+            Next
+        Next
+
+        If childNamesChildFirst.Count = 0 Then
+            MessageBox.Show("Las parent layers seleccionadas ya no tienen child layers.",
+                            "Consolidar child layers",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Information)
+            Exit Sub
+        End If
+
+        Dim listaParents As New StringBuilder()
+        For Each parentResumen As Deswik.Graphics.Primaries.Layer In parents
+            listaParents.AppendLine("- " &amp; parentResumen.Name)
+        Next
+
+        Dim confirmacion As DialogResult = MessageBox.Show(
+            "Se consolidaran las siguientes parent layers:" &amp; vbCrLf &amp; vbCrLf &amp;
+            listaParents.ToString() &amp; vbCrLf &amp;
+            "Child layers que se intentaran eliminar: " &amp;
+            childNamesChildFirst.Count.ToString() &amp; vbCrLf &amp;
+            "Entidades estimadas que cambiaran de layer: " &amp;
+            totalEntidadesEstimadas.ToString() &amp; vbCrLf &amp; vbCrLf &amp;
+            "Cada entidad pasara a su propia parent seleccionada. " &amp;
+            "Las entidades con propiedades BYLAYER adoptaran la apariencia de esa parent." &amp;
+            vbCrLf &amp; vbCrLf &amp; "Deseas continuar?",
+            "Confirmar consolidacion",
+            MessageBoxButtons.YesNo,
+            MessageBoxIcon.Warning,
+            MessageBoxDefaultButton.Button2)
+        If confirmacion &lt;&gt; DialogResult.Yes Then Exit Sub
+
+        doc.ActiveLayer = parents(0)
+
+        Dim entidadesMovidas As Integer = 0
+        Dim erroresEntidades As Integer = 0
+        Dim primerosErrores As New List(Of String)()
+
+        For Each figura As Deswik.Graphics.Primaries.Figure In doc.ModelSpace.Entities
+            If figura Is Nothing OrElse figura.Deleted OrElse
+               figura.Layer Is Nothing Then Continue For
+
+            Dim parentDestino As Deswik.Graphics.Primaries.Layer = Nothing
+            If destinoPorGuid.TryGetValue(figura.Layer.GUID, parentDestino) Then
+                Try
+                    figura.Layer = parentDestino
+                    entidadesMovidas = entidadesMovidas + 1
+                Catch exFigura As Exception
+                    erroresEntidades = erroresEntidades + 1
+                    If primerosErrores.Count &lt; 5 Then
+                        primerosErrores.Add(figura.GUID &amp; ": " &amp; exFigura.Message)
+                    End If
+                End Try
+            End If
+        Next
+
+        doc.ModelSpace.Entities.Update()
+
+        Dim layersEliminadas As Integer = 0
+        Dim layersConEntidades As Integer = 0
+        Dim erroresLayers As Integer = 0
+
+        For Each nombreChildEliminar As String In childNamesChildFirst
+            Dim childEliminar As Deswik.Graphics.Primaries.Layer =
+                doc.Layers.FindName(nombreChildEliminar, True)
+            If childEliminar Is Nothing OrElse childEliminar.Deleted Then Continue For
+
+            If childEliminar.NonDeletedEntitiesCount(doc) &gt; 0 Then
+                layersConEntidades = layersConEntidades + 1
+                Continue For
+            End If
+
+            If doc.Layers.Delete(childEliminar.Name) Then
+                layersEliminadas = layersEliminadas + 1
+            Else
+                erroresLayers = erroresLayers + 1
+            End If
+        Next
+
+        doc.ModelSpace.Entities.Update()
+        doc.OnLayersRefresh()
+
+        Dim resumen As New StringBuilder()
+        resumen.AppendLine("Consolidacion terminada.")
+        resumen.AppendLine()
+        resumen.AppendLine("Parent layers procesadas: " &amp; parents.Count.ToString())
+        resumen.AppendLine("Entidades movidas: " &amp; entidadesMovidas.ToString())
+        resumen.AppendLine("Child layers eliminadas: " &amp; layersEliminadas.ToString())
+        resumen.AppendLine("Child layers conservadas por contener entidades: " &amp;
+                           layersConEntidades.ToString())
+        resumen.AppendLine("Errores al mover entidades: " &amp; erroresEntidades.ToString())
+        resumen.AppendLine("Errores al eliminar layers: " &amp; erroresLayers.ToString())
+
+        If primerosErrores.Count &gt; 0 Then
+            resumen.AppendLine()
+            resumen.AppendLine("Primeros errores:")
+            For Each detalleError As String In primerosErrores
+                resumen.AppendLine("- " &amp; detalleError)
+            Next
+        End If
+
+        Dim icono As MessageBoxIcon = MessageBoxIcon.Information
+        If erroresEntidades &gt; 0 OrElse erroresLayers &gt; 0 OrElse
+           layersConEntidades &gt; 0 Then icono = MessageBoxIcon.Warning
+
+        MessageBox.Show(resumen.ToString(),
+                        "Consolidar child layers",
+                        MessageBoxButtons.OK,
+                        icono)
+    Catch ex As Exception
+        MessageBox.Show("No se pudo completar la consolidacion: " &amp; ex.Message,
+                        "Consolidar child layers",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error)
+    End Try
+End Sub
+**||**Use=True**||**Description=Consolidación de child layers en sus parent layers**||**ToolTip=Mueve las entidades de todas las child layers a la parent seleccionada y elimina las child vacías.**||**LastTab=1**||**Hidden=False**||**AllowViewing=True**||**SplitterPosition=280</Tag><_visible>True</_visible><LayersMask>1</LayersMask><LayersMaskNew>False:1</LayersMaskNew><_fillColour><A>255</A><R>177</R><G>177</G><B>177</B></_fillColour><_fillColour2><A>0</A><R>0</R><G>0</G><B>0</B></_fillColour2><_outlineColour><A>255</A><R>177</R><G>177</G><B>177</B></_outlineColour><_textColour><A>255</A><R>0</R><G>0</G><B>0</B></_textColour><_titleColour><A>255</A><R>255</R><G>255</G><B>255</B></_titleColour><_title></_title><_fill>Solid</_fill><_penWidth>3</_penWidth><_image>-1</_image><DragHandles><DH><UniqueId>0</UniqueId><location><X>120</X><Y>540</Y></location></DH><DH><UniqueId>1</UniqueId><location><X>679.99994</X><Y>540</Y></location></DH><DH><UniqueId>2</UniqueId><location><X>679.99994</X><Y>621.99994</Y></location></DH><DH><UniqueId>3</UniqueId><location><X>120</X><Y>621.99994</Y></location></DH><DH><UniqueId>4</UniqueId><location><X>399.99997</X><Y>523.6</Y></location></DH></DragHandles><_text>4  CONSOLIDAR LAYERS
+Mover entidades a la parent y eliminar child layers vacías</_text><Alpha>255</Alpha><TableTextCount>0</TableTextCount><TFormat><FontName>Microsoft Sans Serif</FontName><Size>14</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TFormat><TitleFormat><FontName>Microsoft Sans Serif</FontName><Size>14</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TitleFormat><_rotation>0</_rotation><_scale><X>560</X><Y>82</Y></_scale><_translation><X>120</X><Y>540</Y></_translation></node><node><__type>Deswik.Diagram.Nodes.Shapes.RoundedRectangle</__type><DiagramGuid>1fa2c157-1d1f-43d0-b929-8f6b8ccbb1e6</DiagramGuid><Name></Name><Tag persistData="6"></Tag><_visible>True</_visible><LayersMask>1</LayersMask><LayersMaskNew>False:1</LayersMaskNew><_fillColour><A>255</A><R>42</R><G>60</G><B>109</B></_fillColour><_fillColour2><A>0</A><R>0</R><G>0</G><B>0</B></_fillColour2><_outlineColour><A>255</A><R>42</R><G>60</G><B>109</B></_outlineColour><_textColour><A>255</A><R>255</R><G>255</G><B>255</B></_textColour><_titleColour><A>255</A><R>255</R><G>255</G><B>255</B></_titleColour><_title></_title><_fill>Solid</_fill><_penWidth>2</_penWidth><_image>-1</_image><DragHandles><DH><UniqueId>0</UniqueId><location><X>80</X><Y>690</Y></location></DH><DH><UniqueId>1</UniqueId><location><X>719.99994</X><Y>690</Y></location></DH><DH><UniqueId>2</UniqueId><location><X>719.99994</X><Y>739.99994</Y></location></DH><DH><UniqueId>3</UniqueId><location><X>80</X><Y>739.99994</Y></location></DH><DH><UniqueId>4</UniqueId><location><X>399.99997</X><Y>679.99994</Y></location></DH></DragHandles><_text>2. DESWIK</_text><Alpha>255</Alpha><TableTextCount>0</TableTextCount><TFormat><FontName>Microsoft Sans Serif</FontName><Size>18</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TFormat><TitleFormat><FontName>Microsoft Sans Serif</FontName><Size>18</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TitleFormat><_rotation>0</_rotation><_scale><X>640</X><Y>50</Y></_scale><_translation><X>80</X><Y>690</Y></_translation></node><node><__type>Deswik.Diagram.Nodes.Shapes.RoundedRectangle</__type><DiagramGuid>bc568b96-eaf4-46a5-bbdc-d77ec25a69d2</DiagramGuid><Name></Name><Tag persistData="7"></Tag><_visible>True</_visible><LayersMask>1</LayersMask><LayersMaskNew>False:1</LayersMaskNew><_fillColour><A>255</A><R>235</R><G>237</G><B>242</B></_fillColour><_fillColour2><A>0</A><R>0</R><G>0</G><B>0</B></_fillColour2><_outlineColour><A>255</A><R>42</R><G>60</G><B>109</B></_outlineColour><_textColour><A>255</A><R>74</R><G>78</G><B>88</B></_textColour><_titleColour><A>255</A><R>74</R><G>78</G><B>88</B></_titleColour><_title></_title><_fill>Solid</_fill><_penWidth>3</_penWidth><_image>-1</_image><DragHandles><DH><UniqueId>0</UniqueId><location><X>120</X><Y>770</Y></location></DH><DH><UniqueId>1</UniqueId><location><X>679.99994</X><Y>770</Y></location></DH><DH><UniqueId>2</UniqueId><location><X>679.99994</X><Y>899.99994</Y></location></DH><DH><UniqueId>3</UniqueId><location><X>120</X><Y>899.99994</Y></location></DH><DH><UniqueId>4</UniqueId><location><X>399.99997</X><Y>743.99994</Y></location></DH></DragHandles><_text>PRÓXIMAMENTE
+Área reservada para nuevas herramientas y procesos Deswik</_text><Alpha>255</Alpha><TableTextCount>0</TableTextCount><TFormat><FontName>Microsoft Sans Serif</FontName><Size>15</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TFormat><TitleFormat><FontName>Microsoft Sans Serif</FontName><Size>15</Size><Style>Bold</Style><FormatFlags>0</FormatFlags><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TitleFormat><_rotation>0</_rotation><_scale><X>560</X><Y>130</Y></_scale><_translation><X>120</X><Y>770</Y></_translation></node></nodes><links /><Tag1></Tag1><CanvasScale>0.7565625</CanvasScale><CanvasPos><X>0</X><Y>-266.15714</Y></CanvasPos><VisibleLayerMask>18446744073709551615</VisibleLayerMask><VisibleLayerMaskNew>True:4294967295</VisibleLayerMaskNew><ActiveLayer>Layer 1</ActiveLayer><OneLayerSelectMode>False</OneLayerSelectMode><Layers64><Layer><Name>Layer 1</Name><MaskIdx>0</MaskIdx></Layer></Layers64></doc>�<?xml version="1.0" encoding="utf-16"?><DiagramAppearance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><BackgroundColor>-657931</BackgroundColor><BackgroundColor2>-1</BackgroundColor2><Size><Width>800</Width><Height>1000</Height></Size><TextFormat><FontName>Microsoft Sans Serif</FontName><Size>12</Size><Style>Regular</Style><FormatFlags /><Alignment>Center</Alignment><LineAlignment>Center</LineAlignment></TextFormat><ShowGrid>true</ShowGrid><GridSize>20</GridSize><CanvasOrigin><X>2</X><Y>2</Y></CanvasOrigin><Snap>true</Snap></DiagramAppearance>
